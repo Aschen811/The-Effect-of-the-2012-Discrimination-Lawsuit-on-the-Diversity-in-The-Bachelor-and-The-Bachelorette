@@ -1,0 +1,946 @@
+,SHOW,SEASON,show_season,Lead,LeadFullName,LeadHometown,LeadHomeState,LeadRace,AgeLead,CONTESTANTID,FullName,AgeCon,Occupation,Hometown,HomeState,EliminationWeek,seasontotalweeks,firstimpressionrose,firstweekdates,Winner,BLACK,minority,year
+1,Bachelor,1,Bachelor-1,Alex,Alex Michel,"Charlottesville, Virginia",Virginia,White,31,01_ALEXA_X,Alexa,27,Special Ed. Teacher,"Beverly Hills, California",California,2,6,No First Impression Rose Given,D5,0,0,NA,2002
+2,Bachelor,1,Bachelor-1,Alex,Alex Michel,"Charlottesville, Virginia",Virginia,White,31,01_AMANDA_M,Amanda Marsh,23,Event Planner,"Chanute, Kansas",Kansas,winner,6,No First Impression Rose Given,D5,1,0,NA,2002
+3,Bachelor,1,Bachelor-1,Alex,Alex Michel,"Charlottesville, Virginia",Virginia,White,31,01_AMBER_X,Amber,29,Business Development Director,"Los Angeles, California",California,1,6,No First Impression Rose Given,No Date,0,0,NA,2002
+4,Bachelor,1,Bachelor-1,Alex,Alex Michel,"Charlottesville, Virginia",Virginia,White,31,01_AMY_X,Amy,28,Production Coordinator,"New York, New York",NewYork,2,6,No First Impression Rose Given,D5,0,0,NA,2002
+5,Bachelor,1,Bachelor-1,Alex,Alex Michel,"Charlottesville, Virginia",Virginia,White,31,01_ANGELA_X,Angela,25,Hooters Waitress,"Avondale, Arizona",Arizona,2,6,No First Impression Rose Given,D5,0,0,NA,2002
+6,Bachelor,1,Bachelor-1,Alex,Alex Michel,"Charlottesville, Virginia",Virginia,White,31,01_ANGELIQUE_X,Angelique,27,Actress,"Burbank, California",California,2,6,No First Impression Rose Given,D5,0,0,NA,2002
+7,Bachelor,1,Bachelor-1,Alex,Alex Michel,"Charlottesville, Virginia",Virginia,White,31,01_CATHY_G,Cathy Grimes,22,Graduate Student,"Terra Haute, Indiana",Indiana,3,6,No First Impression Rose Given,D5,0,0,NA,2002
+8,Bachelor,1,Bachelor-1,Alex,Alex Michel,"Charlottesville, Virginia",Virginia,White,31,01_CHRISTINA_X,Christina,28,Attorney,"Bonita, California",California,3,6,No First Impression Rose Given,D5,0,0,NA,2002
+9,Bachelor,1,Bachelor-1,Alex,Alex Michel,"Charlottesville, Virginia",Virginia,White,31,01_DANIELA_X,Daniela,30,Neuropsychologist,"Seattle, Washington",Washington,1,6,No First Impression Rose Given,No Date,0,0,NA,2002
+10,Bachelor,1,Bachelor-1,Alex,Alex Michel,"Charlottesville, Virginia",Virginia,White,31,01_DENISE_X,Denise,30,Doctor,"Honolulu, Hawaii",Hawaii,1,6,No First Impression Rose Given,No Date,0,0,NA,2002
+11,Bachelor,1,Bachelor-1,Alex,Alex Michel,"Charlottesville, Virginia",Virginia,White,31,01_JACKIE_X,Jackie,22,Bar Manager,"Pittsburgh, Pennsylvania",Pennsylvania,1,6,No First Impression Rose Given,No Date,0,0,NA,2002
+12,Bachelor,1,Bachelor-1,Alex,Alex Michel,"Charlottesville, Virginia",Virginia,White,31,01_JILL_X,Jill,31,Retail Manager,"Chicago, Illinois",Illinois,1,6,No First Impression Rose Given,No Date,0,0,NA,2002
+13,Bachelor,1,Bachelor-1,Alex,Alex Michel,"Charlottesville, Virginia",Virginia,White,31,01_KATIE_X,Katie,23,Power Tool Sales Rep.,"Malden, Massachusetts",Massachusetts,2,6,No First Impression Rose Given,D5,0,0,NA,2002
+14,Bachelor,1,Bachelor-1,Alex,Alex Michel,"Charlottesville, Virginia",Virginia,White,31,01_KIM_X,Kim,24,Nanny,"Tempe, Arizona",Arizona,4,6,No First Impression Rose Given,D5,0,0,NA,2002
+15,Bachelor,1,Bachelor-1,Alex,Alex Michel,"Charlottesville, Virginia",Virginia,White,31,01_KRISTINA_X,Kristina,27,Advertising Executive,"Los Angeles, California",California,1,6,No First Impression Rose Given,No Date,0,1,NA,2002
+16,Bachelor,1,Bachelor-1,Alex,Alex Michel,"Charlottesville, Virginia",Virginia,White,31,01_LANEASE_A,LaNease Adams,23,Actress,"Los Angeles, California",California,3,6,No First Impression Rose Given,D5,0,1,NA,2002
+17,Bachelor,1,Bachelor-1,Alex,Alex Michel,"Charlottesville, Virginia",Virginia,White,31,01_LISA_X,Lisa,29,Attorney,"Dallas, Texas",Texas,1,6,No First Impression Rose Given,No Date,0,0,NA,2002
+18,Bachelor,1,Bachelor-1,Alex,Alex Michel,"Charlottesville, Virginia",Virginia,White,31,01_MELISSA_X,Melissa,25,Photographer,"Tempe, Arizona",Arizona,2,6,No First Impression Rose Given,D5,0,0,NA,2002
+19,Bachelor,1,Bachelor-1,Alex,Alex Michel,"Charlottesville, Virginia",Virginia,White,31,01_PAULA_X,Paula,24,Insurance Representative,"Swansea, Massachusetts",Massachusetts,1,6,No First Impression Rose Given,No Date,0,0,NA,2002
+20,Bachelor,1,Bachelor-1,Alex,Alex Michel,"Charlottesville, Virginia",Virginia,White,31,01_RACHEL_X,Rachel,29,6th Grade Teacher,"Eastchester, New York",NewYork,1,6,No First Impression Rose Given,No Date,0,0,NA,2002
+21,Bachelor,1,Bachelor-1,Alex,Alex Michel,"Charlottesville, Virginia",Virginia,White,31,01_RHONDA_X,Rhonda,28,Commercial Real Estate Agent,"Woodward, Oklahoma",Oklahoma,3,6,No First Impression Rose Given,D5,0,0,NA,2002
+22,Bachelor,1,Bachelor-1,Alex,Alex Michel,"Charlottesville, Virginia",Virginia,White,31,01_SHANNON_O,Shannon Oliver,24,Financial Management Consultant,"Dallas, Texas",Texas,5,6,No First Impression Rose Given,D5,0,0,NA,2002
+23,Bachelor,1,Bachelor-1,Alex,Alex Michel,"Charlottesville, Virginia",Virginia,White,31,01_TINA_X,Tina,27,Graduate Student,"Plano, Texas",Texas,2,6,No First Impression Rose Given,D5,0,0,NA,2002
+24,Bachelor,1,Bachelor-1,Alex,Alex Michel,"Charlottesville, Virginia",Virginia,White,31,01_TRISTA_R,Trista Rehn,29,Miami Heat Dancer,"Miami, Florida",Florida,6,6,No First Impression Rose Given,D5,0,0,NA,2002
+25,Bachelor,1,Bachelor-1,Alex,Alex Michel,"Charlottesville, Virginia",Virginia,White,31,01_WENDI_X,Wendi,26,Technology Specialist,"Dallas, Texas",Texas,1,6,No First Impression Rose Given,No Date,0,0,NA,2002
+26,Bachelor,2,Bachelor-2,Aaron,Aaron Buerge,"Butler, Missouri",Missouri,White,28,02_AMBER_X,Amber,26,Psychologist,"Chapel Hill, North Carolina",NorthCarolina,1,7,No First Impression Rose Given,No Date,0,0,NA,2002
+27,Bachelor,2,Bachelor-2,Aaron,Aaron Buerge,"Butler, Missouri",Missouri,White,28,02_ANGELA_X,Angela,27,Registered Nurse,"Kansas City, Missouri",Missouri,5,7,No First Impression Rose Given,D5,0,0,NA,2002
+28,Bachelor,2,Bachelor-2,Aaron,Aaron Buerge,"Butler, Missouri",Missouri,White,28,02_ANINDITA_X,Anindita,27,Attorney,"New York, New York",NewYork,2,7,No First Impression Rose Given,D5,0,0,NA,2002
+29,Bachelor,2,Bachelor-2,Aaron,Aaron Buerge,"Butler, Missouri",Missouri,White,28,02_BROOKE_S,Brooke Smith,22,College Student,"Albertville, Alabama",Alabama,7,7,No First Impression Rose Given,D5,0,0,NA,2002
+30,Bachelor,2,Bachelor-2,Aaron,Aaron Buerge,"Butler, Missouri",Missouri,White,28,02_CAMILLE_X,Camille,29,Actress,"Los Angeles, California",California,1,7,No First Impression Rose Given,No Date,0,0,NA,2002
+31,Bachelor,2,Bachelor-2,Aaron,Aaron Buerge,"Butler, Missouri",Missouri,White,28,02_CARI_X,Cari,29,3rd Grade Teacher,"Granite City, Illinois",Illinois,1,7,No First Impression Rose Given,No Date,0,0,NA,2002
+32,Bachelor,2,Bachelor-2,Aaron,Aaron Buerge,"Butler, Missouri",Missouri,White,28,02_CHRISTI_X,Christi,23,Assistant Financial Advisor,"Boise, Idaho",Idaho,3,7,No First Impression Rose Given,D5,0,0,NA,2002
+33,Bachelor,2,Bachelor-2,Aaron,Aaron Buerge,"Butler, Missouri",Missouri,White,28,02_CHRISTY_X,Christy,24,Radiological Technologist,"Avondale, Arizona",Arizona,1,7,No First Impression Rose Given,No Date,0,0,NA,2002
+34,Bachelor,2,Bachelor-2,Aaron,Aaron Buerge,"Butler, Missouri",Missouri,White,28,02_DANA_X,Dana,24,Radio Sales,"Beverly Hills, California",California,2,7,No First Impression Rose Given,D5,0,0,NA,2002
+35,Bachelor,2,Bachelor-2,Aaron,Aaron Buerge,"Butler, Missouri",Missouri,White,28,02_ERIN_X,Erin,25,Publications Quality Control,"Westchester, Pennsylvania",Pennsylvania,2,7,No First Impression Rose Given,D5,0,0,NA,2002
+36,Bachelor,2,Bachelor-2,Aaron,Aaron Buerge,"Butler, Missouri",Missouri,White,28,02_ERIN_X,Erin,24,Interior Designer,"Houston, Texas",Texas,1,7,No First Impression Rose Given,No Date,0,0,NA,2002
+37,Bachelor,2,Bachelor-2,Aaron,Aaron Buerge,"Butler, Missouri",Missouri,White,28,02_FATIMA_X,Fatima,22,College Student,"Long Beach, California",California,1,7,No First Impression Rose Given,No Date,0,0,NA,2002
+38,Bachelor,2,Bachelor-2,Aaron,Aaron Buerge,"Butler, Missouri",Missouri,White,28,02_FRANCES_X,Frances,30,Strategic Planning Analyst,"San Francisco, California",California,2,7,No First Impression Rose Given,D5,0,0,NA,2002
+39,Bachelor,2,Bachelor-2,Aaron,Aaron Buerge,"Butler, Missouri",Missouri,White,28,02_GWEN_G,Gwen Gioia,31,Executive Recruiter,"Philadelphia, Pennsylvania",Pennsylvania,6,7,No First Impression Rose Given,D5,0,0,NA,2002
+40,Bachelor,2,Bachelor-2,Aaron,Aaron Buerge,"Butler, Missouri",Missouri,White,28,02_HAYLEY_X,Hayley,28,Retail Manager,"Lake Oswego, Oregon",Oregon,4,7,No First Impression Rose Given,D5,0,0,NA,2002
+41,Bachelor,2,Bachelor-2,Aaron,Aaron Buerge,"Butler, Missouri",Missouri,White,28,02_HEATHER_C,Heather,24,Marriage Therapy Trainee,"Walnut Creek, California",California,3,7,No First Impression Rose Given,D5,0,0,NA,2002
+42,Bachelor,2,Bachelor-2,Aaron,Aaron Buerge,"Butler, Missouri",Missouri,White,28,02_HEATHER_X,Heather Crawford,30,Flight Attendant,"Dallas, Texas",Texas,4,7,No First Impression Rose Given,D5,0,0,NA,2002
+43,Bachelor,2,Bachelor-2,Aaron,Aaron Buerge,"Butler, Missouri",Missouri,White,28,02_HELENE_E,Helene Eksterowicz,27,School Psychologist,"Gloucester, New Jersey",NewJersey,winner,7,No First Impression Rose Given,D5,1,0,NA,2002
+44,Bachelor,2,Bachelor-2,Aaron,Aaron Buerge,"Butler, Missouri",Missouri,White,28,02_KYLA_X,Kyla,22,Airline Supervisor,"Midvale, Utah",Utah,3,7,No First Impression Rose Given,D5,0,0,NA,2002
+45,Bachelor,2,Bachelor-2,Aaron,Aaron Buerge,"Butler, Missouri",Missouri,White,28,02_LIANGY_X,Liangy,30,Paralegal,"Coral Gables, Florida",Florida,1,7,No First Impression Rose Given,No Date,0,0,NA,2002
+46,Bachelor,2,Bachelor-2,Aaron,Aaron Buerge,"Butler, Missouri",Missouri,White,28,02_LORI_X,Lori,26,Former NBA Cheerleader,"Dallas, Texas",Texas,1,7,No First Impression Rose Given,No Date,0,1,NA,2002
+47,Bachelor,2,Bachelor-2,Aaron,Aaron Buerge,"Butler, Missouri",Missouri,White,28,02_MERILEE_X,Merrilee,28,1st Grade Teacher,"Forked River, New Jersey",NewJersey,1,7,No First Impression Rose Given,No Date,0,0,NA,2002
+48,Bachelor,2,Bachelor-2,Aaron,Aaron Buerge,"Butler, Missouri",Missouri,White,28,02_SHANNON_X,Shannon,26,Graphic Artist,"Long Island, New York",NewYork,3,7,No First Impression Rose Given,D5,0,0,NA,2002
+49,Bachelor,2,Bachelor-2,Aaron,Aaron Buerge,"Butler, Missouri",Missouri,White,28,02_SUZANNE_X,Suzanne,33,Flight Attendant,"Redondo Beach, California",California,2,7,No First Impression Rose Given,D5,0,0,NA,2002
+50,Bachelor,3,Bachelor-3,AndrewF,Andrew Firestone,NA,NA,White,27,03_CRISTINA_X,,NA,,,NA,,NA,No First Impression Rose Given,D5,0,0,NA,2003
+51,Bachelor,3,Bachelor-3,AndrewF,Andrew Firestone,NA,NA,White,27,03_ELIZABETH_X,,NA,,,NA,,NA,No First Impression Rose Given,D5,0,0,NA,2003
+52,Bachelor,3,Bachelor-3,AndrewF,Andrew Firestone,NA,NA,White,27,03_GINNY_X,,NA,,,NA,,NA,No First Impression Rose Given,No Date,0,1,NA,2003
+53,Bachelor,3,Bachelor-3,AndrewF,Andrew Firestone,NA,NA,White,27,03_HEATHER_X,,NA,,,NA,,NA,No First Impression Rose Given,D5,0,0,NA,2003
+54,Bachelor,3,Bachelor-3,AndrewF,Andrew Firestone,NA,NA,White,27,03_JEN_X,,NA,,,NA,,NA,No First Impression Rose Given,D5,1,0,NA,2003
+55,Bachelor,3,Bachelor-3,AndrewF,Andrew Firestone,NA,NA,White,27,03_JENNIFER_X,,NA,,,NA,,NA,No First Impression Rose Given,No Date,0,0,NA,2003
+56,Bachelor,3,Bachelor-3,AndrewF,Andrew Firestone,NA,NA,White,27,03_AMY_X,,NA,,,NA,,NA,No First Impression Rose Given,D5,0,0,NA,2003
+57,Bachelor,3,Bachelor-3,AndrewF,Andrew Firestone,NA,NA,White,27,03_ANGELA_X,,NA,,,NA,,NA,No First Impression Rose Given,No Date,0,0,NA,2003
+58,Bachelor,3,Bachelor-3,AndrewF,Andrew Firestone,NA,NA,White,27,03_ANN_MICHELLE_X,,NA,,,NA,,NA,No First Impression Rose Given,D5,0,0,NA,2003
+59,Bachelor,3,Bachelor-3,AndrewF,Andrew Firestone,NA,NA,White,27,03_AUDREE_X,,NA,,,NA,,NA,No First Impression Rose Given,D5,0,0,NA,2003
+60,Bachelor,3,Bachelor-3,AndrewF,Andrew Firestone,NA,NA,White,27,03_BROOKE_X,,NA,,,NA,,NA,No First Impression Rose Given,No Date,0,0,NA,2003
+61,Bachelor,3,Bachelor-3,AndrewF,Andrew Firestone,NA,NA,White,27,03_AMBER_X,,NA,,,NA,,NA,No First Impression Rose Given,D5,0,0,NA,2003
+62,Bachelor,3,Bachelor-3,AndrewF,Andrew Firestone,NA,NA,White,27,03_AMY_X,,NA,,,NA,,NA,No First Impression Rose Given,D5,0,0,NA,2003
+63,Bachelor,3,Bachelor-3,AndrewF,Andrew Firestone,NA,NA,White,27,03_KIRSTEN_X,,NA,,,NA,,NA,No First Impression Rose Given,D5,0,0,NA,2003
+64,Bachelor,3,Bachelor-3,AndrewF,Andrew Firestone,NA,NA,White,27,03_KRISTEN_X,,NA,,,NA,,NA,No First Impression Rose Given,No Date,0,0,NA,2003
+65,Bachelor,3,Bachelor-3,AndrewF,Andrew Firestone,NA,NA,White,27,03_LIZ_X,,NA,,,NA,,NA,No First Impression Rose Given,D5,0,0,NA,2003
+66,Bachelor,3,Bachelor-3,AndrewF,Andrew Firestone,NA,NA,White,27,03_RACHEL_X,,NA,,,NA,,NA,No First Impression Rose Given,D5,0,0,NA,2003
+67,Bachelor,3,Bachelor-3,AndrewF,Andrew Firestone,NA,NA,White,27,03_SHANNON_X,,NA,,,NA,,NA,No First Impression Rose Given,D5,0,0,NA,2003
+68,Bachelor,3,Bachelor-3,AndrewF,Andrew Firestone,NA,NA,White,27,03_CHRISTINA_X,,NA,,,NA,,NA,No First Impression Rose Given,D5,0,0,NA,2003
+69,Bachelor,3,Bachelor-3,AndrewF,Andrew Firestone,NA,NA,White,27,03_COURTNEY_X,,NA,,,NA,,NA,No First Impression Rose Given,No Date,0,0,NA,2003
+70,Bachelor,3,Bachelor-3,AndrewF,Andrew Firestone,NA,NA,White,27,03_TINA_X,,NA,,,NA,,NA,No First Impression Rose Given,D5,0,0,NA,2003
+71,Bachelor,3,Bachelor-3,AndrewF,Andrew Firestone,NA,NA,White,27,03_TINA_X,,NA,,,NA,,NA,No First Impression Rose Given,D5,0,0,NA,2003
+72,Bachelor,3,Bachelor-3,AndrewF,Andrew Firestone,NA,NA,White,27,03_STEPHANIE_X,,NA,,,NA,,NA,No First Impression Rose Given,No Date,0,0,NA,2003
+73,Bachelor,3,Bachelor-3,AndrewF,Andrew Firestone,NA,NA,White,27,03_TIFFANY_X,,NA,,,NA,,NA,No First Impression Rose Given,No Date,0,0,NA,2003
+74,Bachelor,3,Bachelor-3,AndrewF,Andrew Firestone,NA,NA,White,27,03_KERRI_X,,NA,,,NA,,NA,No First Impression Rose Given,No Date,0,0,NA,2003
+75,Bachelor,4,Bachelor-4,Bob,Bob Guiney,NA,NA,White,32,04_Leona,,NA,,,NA,,NA,No First Impression Rose Given,No Date,0,0,NA,2003
+76,Bachelor,4,Bachelor-4,Bob,Bob Guiney,NA,NA,White,32,04_Lindsay,,NA,,,NA,,NA,No First Impression Rose Given,D6,0,0,NA,2003
+77,Bachelor,4,Bachelor-4,Bob,Bob Guiney,NA,NA,White,32,04_Lindsay_clippers,,NA,,,NA,,NA,No First Impression Rose Given,D5,0,0,NA,2003
+78,Bachelor,4,Bachelor-4,Bob,Bob Guiney,NA,NA,White,32,04_Mary,,NA,,,NA,,NA,No First Impression Rose Given,D6,0,0,NA,2003
+79,Bachelor,4,Bachelor-4,Bob,Bob Guiney,NA,NA,White,32,04_Antoinette,,NA,,,NA,,NA,No First Impression Rose Given,D6,0,0,NA,2003
+80,Bachelor,4,Bachelor-4,Bob,Bob Guiney,NA,NA,White,32,04_Brooke,,NA,,,NA,,NA,No First Impression Rose Given,D4,0,0,NA,2003
+81,Bachelor,4,Bachelor-4,Bob,Bob Guiney,NA,NA,White,32,04_Christine,,NA,,,NA,,NA,No First Impression Rose Given,D5,0,0,NA,2003
+82,Bachelor,4,Bachelor-4,Bob,Bob Guiney,NA,NA,White,32,04_Darla,,NA,,,NA,,NA,No First Impression Rose Given,No Date,0,0,NA,2003
+83,Bachelor,4,Bachelor-4,Bob,Bob Guiney,NA,NA,White,32,04_Estella,,NA,,,NA,,NA,No First Impression Rose Given,D5,1,0,NA,2003
+84,Bachelor,4,Bachelor-4,Bob,Bob Guiney,NA,NA,White,32,04_Heather,,NA,,,NA,,NA,No First Impression Rose Given,No Date,0,0,NA,2003
+85,Bachelor,4,Bachelor-4,Bob,Bob Guiney,NA,NA,White,32,04_Jenn,,NA,,,NA,,NA,No First Impression Rose Given,D5,0,0,NA,2003
+86,Bachelor,4,Bachelor-4,Bob,Bob Guiney,NA,NA,White,32,04_Jenny,,NA,,,NA,,NA,No First Impression Rose Given,D6,0,0,NA,2003
+87,Bachelor,4,Bachelor-4,Bob,Bob Guiney,NA,NA,White,32,04_Julie,,NA,,,NA,,NA,No First Impression Rose Given,No Date,0,1,NA,2003
+88,Bachelor,4,Bachelor-4,Bob,Bob Guiney,NA,NA,White,32,04_Karin,,NA,,,NA,,NA,No First Impression Rose Given,D4,0,1,NA,2003
+89,Bachelor,4,Bachelor-4,Bob,Bob Guiney,NA,NA,White,32,04_Kelly-Jo,,NA,,,NA,,NA,No First Impression Rose Given,D4,0,0,NA,2003
+90,Bachelor,4,Bachelor-4,Bob,Bob Guiney,NA,NA,White,32,04_Kristi,,NA,,,NA,,NA,No First Impression Rose Given,No Date,0,0,NA,2003
+91,Bachelor,4,Bachelor-4,Bob,Bob Guiney,NA,NA,White,32,04_Lanah,,NA,,,NA,,NA,No First Impression Rose Given,D6,0,0,NA,2003
+92,Bachelor,4,Bachelor-4,Bob,Bob Guiney,NA,NA,White,32,04_Lauren,,NA,,,NA,,NA,No First Impression Rose Given,No Date,0,0,NA,2003
+93,Bachelor,4,Bachelor-4,Bob,Bob Guiney,NA,NA,White,32,04_Lee-Ann,,NA,,,NA,,NA,No First Impression Rose Given,D6,0,0,NA,2003
+94,Bachelor,4,Bachelor-4,Bob,Bob Guiney,NA,NA,White,32,04_Meredith,,NA,,,NA,,NA,No First Impression Rose Given,D4,0,0,NA,2003
+95,Bachelor,4,Bachelor-4,Bob,Bob Guiney,NA,NA,White,32,04_Misty,,NA,,,NA,,NA,No First Impression Rose Given,D5,0,0,NA,2003
+96,Bachelor,4,Bachelor-4,Bob,Bob Guiney,NA,NA,White,32,04_Samentha,,NA,,,NA,,NA,No First Impression Rose Given,No Date,0,0,NA,2003
+97,Bachelor,4,Bachelor-4,Bob,Bob Guiney,NA,NA,White,32,04_Shea,,NA,,,NA,,NA,No First Impression Rose Given,No Date,0,0,NA,2003
+98,Bachelor,4,Bachelor-4,Bob,Bob Guiney,NA,NA,White,32,04_Shelly,,NA,,,NA,,NA,No First Impression Rose Given,No Date,0,0,NA,2003
+99,Bachelor,4,Bachelor-4,Bob,Bob Guiney,NA,NA,White,32,04_Stacey,,NA,,,NA,,NA,No First Impression Rose Given,No Date,0,0,NA,2003
+100,Bachelor,5,Bachelor-5,Jesse,Jesse Palmer,"Toronto, Ontario",Ontario,White,25,05_JENNY_M,Jenny Matthews,24,Retail manager,"Canton, Michigan",Michigan,2,NA,No,No Date,0,0,NA,2004
+101,Bachelor,5,Bachelor-5,Jesse,Jesse Palmer,"Toronto, Ontario",Ontario,White,25,05_JENNY_S,Jenny De Schiralli,26,Swim instructor/nanny/personal trainer,"Carrboro, North Carolina",NorthCarolina,3,NA,No,D8,0,0,NA,2004
+102,Bachelor,5,Bachelor-5,Jesse,Jesse Palmer,"Toronto, Ontario",Ontario,White,25,05_JESSICA_B,Jessica Bowlin,22,Student,"Huntington Beach, California",California,,NA,No,D7,1,0,NA,2004
+103,Bachelor,5,Bachelor-5,Jesse,Jesse Palmer,"Toronto, Ontario",Ontario,White,25,05_AMBER_L,Amber LaRoux,27,Consultant,"Sunriver, Oregon",Oregon,2,NA,No,D8,0,0,NA,2004
+104,Bachelor,5,Bachelor-5,Jesse,Jesse Palmer,"Toronto, Ontario",Ontario,White,25,05_ANNECATHERINE_L,Anne-Catherine Labbé,27,Model/make-up artist,"Quebec City, Quebec",Quebec,2,NA,No,D8,0,0,NA,2004
+105,Bachelor,5,Bachelor-5,Jesse,Jesse Palmer,"Toronto, Ontario",Ontario,White,25,05_CELESTE_C,Celeste Creel,24,Model/executive assistant,"Ithaca, New York",NewYork,2,NA,No,D7,0,1,NA,2004
+106,Bachelor,5,Bachelor-5,Jesse,Jesse Palmer,"Toronto, Ontario",Ontario,White,25,05_DEBBIE_M,Debbie Merkett,27,Massage therapist/bartender,"Pinetops, North Carolina",NorthCarolina,2,NA,No,No Date,0,0,NA,2004
+107,Bachelor,5,Bachelor-5,Jesse,Jesse Palmer,"Toronto, Ontario",Ontario,White,25,05_DESHAUN_W,DeShaun Warner,25,Account manager/sales,"Phillipsburg, New Jersey",NewJersey,1,NA,No,No Date,0,1,NA,2004
+108,Bachelor,5,Bachelor-5,Jesse,Jesse Palmer,"Toronto, Ontario",Ontario,White,25,05_DOLORES_F,Dolores Farburg,26,Account manager,"Madison, New Jersey",NewJersey,1,NA,No,No Date,0,0,NA,2004
+109,Bachelor,5,Bachelor-5,Jesse,Jesse Palmer,"Toronto, Ontario",Ontario,White,25,05_FRANCINE_J,Francine Jones,25,Retail manager,"Houston, Texas",Texas,1,NA,No,No Date,0,0,NA,2004
+110,Bachelor,5,Bachelor-5,Jesse,Jesse Palmer,"Toronto, Ontario",Ontario,White,25,05_HOLLY_R,Holly Reeder,26,Bank representative,"Tulsa, Oklahoma",Oklahoma,1,NA,No,No Date,0,0,NA,2004
+111,Bachelor,5,Bachelor-5,Jesse,Jesse Palmer,"Toronto, Ontario",Ontario,White,25,05_JEANMARIE_C,Jean-Marie Callahan,26,Hair stylist,"Gibson, North Carolina",NorthCarolina,2,NA,No,D8,0,0,NA,2004
+112,Bachelor,5,Bachelor-5,Jesse,Jesse Palmer,"Toronto, Ontario",Ontario,White,25,05_SUZIE_W,Suzie Williams,23,Prosthetic technician,"Ann Arbor, Michigan",Michigan,4,NA,No,D8,0,0,NA,2004
+113,Bachelor,5,Bachelor-5,Jesse,Jesse Palmer,"Toronto, Ontario",Ontario,White,25,05_TARA_H,Tara Huckeby,23,General contractor,"Shawnee, Oklahoma",Oklahoma,7,NA,No,D7,0,0,NA,2004
+114,Bachelor,5,Bachelor-5,Jesse,Jesse Palmer,"Toronto, Ontario",Ontario,White,25,05_TRISH_S,Trish Schneider,28,Model,"Atlanta, Georgia",Georgia,5,NA,Yes,D1,0,0,NA,2004
+115,Bachelor,5,Bachelor-5,Jesse,Jesse Palmer,"Toronto, Ontario",Ontario,White,25,05_JESSICA_H,Jessica Holcomb,25,Attorney,"Pearsall, Texas",Texas,3,NA,No,D8,0,0,NA,2004
+116,Bachelor,5,Bachelor-5,Jesse,Jesse Palmer,"Toronto, Ontario",Ontario,White,25,05_JESSICA_K,Jessica Kyron,21,Student,"Cincinnati, Ohio",Ohio,1,NA,No,No Date,0,0,NA,2004
+117,Bachelor,5,Bachelor-5,Jesse,Jesse Palmer,"Toronto, Ontario",Ontario,White,25,05_JULIE_D,Julie Durda,24,Professional Cheerleader,"Sacramento, California",California,3,NA,No,D7,0,0,NA,2004
+118,Bachelor,5,Bachelor-5,Jesse,Jesse Palmer,"Toronto, Ontario",Ontario,White,25,05_KAREN_L,Karen Lindsay,28,Pharmaceutical sales,"Pleasant Grove, Utah",Utah,4,NA,No,D7,0,0,NA,2004
+119,Bachelor,5,Bachelor-5,Jesse,Jesse Palmer,"Toronto, Ontario",Ontario,White,25,05_KATIE_G,Katie Gehart,22,LASIK Eye and Skin Center manager,"Scottsdale, Arizona",Arizona,3,NA,No,D7,0,0,NA,2004
+120,Bachelor,5,Bachelor-5,Jesse,Jesse Palmer,"Toronto, Ontario",Ontario,White,25,05_KRISTIN_C,Kristin Clearwater,25,Singer,"Sausalito, California",California,1,NA,No,No Date,0,0,NA,2004
+121,Bachelor,5,Bachelor-5,Jesse,Jesse Palmer,"Toronto, Ontario",Ontario,White,25,05_KRISTY_R,Kristy Romero,25,Student,"Dearborn, Michigan",Michigan,2,NA,No,D8,0,0,NA,2004
+122,Bachelor,5,Bachelor-5,Jesse,Jesse Palmer,"Toronto, Ontario",Ontario,White,25,05_MANDY_C,Mandy Clemens,25,Professional soccer player,"San Diego, California",California,2,NA,No,D8,0,0,NA,2004
+123,Bachelor,5,Bachelor-5,Jesse,Jesse Palmer,"Toronto, Ontario",Ontario,White,25,05_MANDY_J,Mandy Jaye Jeffreys,26,Designer for an architect firm,"Midland, Texas",Texas,6,NA,No,D7,0,0,NA,2004
+124,Bachelor,5,Bachelor-5,Jesse,Jesse Palmer,"Toronto, Ontario",Ontario,White,25,05_RACHEL_C,Rachel Clementi,26,Fashion public relations manager,"Buffalo, New York",NewYork,1,NA,No,No Date,0,0,NA,2004
+125,Bachelor,6,Bachelor-6,Byron,Byron Velvick,NA,NA,White,40,06_Abby,,NA,,,NA,,NA,No First Impression Rose Given,No Date,0,0,NA,2004
+126,Bachelor,6,Bachelor-6,Byron,Byron Velvick,NA,NA,White,40,06_Alma,,NA,,,NA,,NA,No First Impression Rose Given,No Date,0,0,NA,2004
+127,Bachelor,6,Bachelor-6,Byron,Byron Velvick,NA,NA,White,40,06_Amanda,,NA,,,NA,,NA,No First Impression Rose Given,No Date,0,0,NA,2004
+128,Bachelor,6,Bachelor-6,Byron,Byron Velvick,NA,NA,White,40,06_Amy,,NA,,,NA,,NA,No First Impression Rose Given,No Date,0,0,NA,2004
+129,Bachelor,6,Bachelor-6,Byron,Byron Velvick,NA,NA,White,40,06_Andrea,,NA,,,NA,,NA,No First Impression Rose Given,No Date,0,0,NA,2004
+130,Bachelor,6,Bachelor-6,Byron,Byron Velvick,NA,NA,White,40,06_Ashley,,NA,,,NA,,NA,No First Impression Rose Given,No Date,0,0,NA,2004
+131,Bachelor,6,Bachelor-6,Byron,Byron Velvick,NA,NA,White,40,06_Carolyn,,NA,,,NA,,NA,No First Impression Rose Given,No Date,0,0,NA,2004
+132,Bachelor,6,Bachelor-6,Byron,Byron Velvick,NA,NA,White,40,06_Cheresse,,NA,,,NA,,NA,No First Impression Rose Given,D1,0,0,NA,2004
+133,Bachelor,6,Bachelor-6,Byron,Byron Velvick,NA,NA,White,40,06_Cynthia,,NA,,,NA,,NA,No First Impression Rose Given,No Date,0,0,NA,2004
+134,Bachelor,6,Bachelor-6,Byron,Byron Velvick,NA,NA,White,40,06_Elizabeth,,NA,,,NA,,NA,No First Impression Rose Given,No Date,0,1,NA,2004
+135,Bachelor,6,Bachelor-6,Byron,Byron Velvick,NA,NA,White,40,06_Heather,,NA,,,NA,,NA,No First Impression Rose Given,No Date,0,0,NA,2004
+136,Bachelor,6,Bachelor-6,Byron,Byron Velvick,NA,NA,White,40,06_Jayne,,NA,,,NA,,NA,No First Impression Rose Given,D1,0,0,NA,2004
+137,Bachelor,6,Bachelor-6,Byron,Byron Velvick,NA,NA,White,40,06_Jennifer,,NA,,,NA,,NA,No First Impression Rose Given,No Date,0,0,NA,2004
+138,Bachelor,6,Bachelor-6,Byron,Byron Velvick,NA,NA,White,40,06_Kelley,,NA,,,NA,,NA,No First Impression Rose Given,No Date,0,0,NA,2004
+139,Bachelor,6,Bachelor-6,Byron,Byron Velvick,NA,NA,White,40,06_Kerry,,NA,,,NA,,NA,No First Impression Rose Given,No Date,0,0,NA,2004
+140,Bachelor,6,Bachelor-6,Byron,Byron Velvick,NA,NA,White,40,06_Kristie,,NA,,,NA,,NA,No First Impression Rose Given,No Date,0,0,NA,2004
+141,Bachelor,6,Bachelor-6,Byron,Byron Velvick,NA,NA,White,40,06_Kristin,,NA,,,NA,,NA,No First Impression Rose Given,No Date,0,0,NA,2004
+142,Bachelor,6,Bachelor-6,Byron,Byron Velvick,NA,NA,White,40,06_Krysta,,NA,,,NA,,NA,No First Impression Rose Given,No Date,0,0,NA,2004
+143,Bachelor,6,Bachelor-6,Byron,Byron Velvick,NA,NA,White,40,06_Leina,,NA,,,NA,,NA,No First Impression Rose Given,No Date,0,0,NA,2004
+144,Bachelor,6,Bachelor-6,Byron,Byron Velvick,NA,NA,White,40,06_Lisa,,NA,,,NA,,NA,No First Impression Rose Given,No Date,0,0,NA,2004
+145,Bachelor,6,Bachelor-6,Byron,Byron Velvick,NA,NA,White,40,06_Mary,,NA,,,NA,,NA,No First Impression Rose Given,No Date,1,0,NA,2004
+146,Bachelor,6,Bachelor-6,Byron,Byron Velvick,NA,NA,White,40,06_Melinda,,NA,,,NA,,NA,No First Impression Rose Given,No Date,0,0,NA,2004
+147,Bachelor,6,Bachelor-6,Byron,Byron Velvick,NA,NA,White,40,06_Natalie,,NA,,,NA,,NA,No First Impression Rose Given,No Date,0,0,NA,2004
+148,Bachelor,6,Bachelor-6,Byron,Byron Velvick,NA,NA,White,40,06_Nicole,,NA,,,NA,,NA,No First Impression Rose Given,No Date,0,0,NA,2004
+149,Bachelor,6,Bachelor-6,Byron,Byron Velvick,NA,NA,White,40,06_Susie,,NA,,,NA,,NA,No First Impression Rose Given,No Date,0,0,NA,2004
+150,Bachelor,6,Bachelor-6,Byron,Byron Velvick,NA,NA,White,40,06_Tanya,,NA,,,NA,,NA,No First Impression Rose Given,No Date,0,0,NA,2004
+151,Bachelor,6,Bachelor-6,Byron,Byron Velvick,NA,NA,White,40,06_Wende,,NA,,,NA,,NA,No First Impression Rose Given,No Date,0,0,NA,2004
+152,Bachelor,7,Bachelor-7,Charlie,Charlie O'Connell,NA,NA,White,29,07_Anitra,,NA,,,NA,,NA,No,D10,0,0,NA,2005
+153,Bachelor,7,Bachelor-7,Charlie,Charlie O'Connell,NA,NA,White,29,07_Brenda,,NA,,,NA,,NA,No,No Date,0,0,NA,2005
+154,Bachelor,7,Bachelor-7,Charlie,Charlie O'Connell,NA,NA,White,29,07_Carrie,,NA,,,NA,,NA,No,D10,0,0,NA,2005
+155,Bachelor,7,Bachelor-7,Charlie,Charlie O'Connell,NA,NA,White,29,07_Danushka,,NA,,,NA,,NA,No,No Date,0,0,NA,2005
+156,Bachelor,7,Bachelor-7,Charlie,Charlie O'Connell,NA,NA,White,29,07_Debby,,NA,,,NA,,NA,No,No Date,0,0,NA,2005
+157,Bachelor,7,Bachelor-7,Charlie,Charlie O'Connell,NA,NA,White,29,07_Emilie,,NA,,,NA,,NA,No,No Date,0,0,NA,2005
+158,Bachelor,7,Bachelor-7,Charlie,Charlie O'Connell,NA,NA,White,29,07_Geitan,,NA,,,NA,,NA,No,No Date,0,0,NA,2005
+159,Bachelor,7,Bachelor-7,Charlie,Charlie O'Connell,NA,NA,White,29,07_Gina Marie,,NA,,,NA,,NA,No,D10,0,0,NA,2005
+160,Bachelor,7,Bachelor-7,Charlie,Charlie O'Connell,NA,NA,White,29,07_Heather,,NA,,,NA,,NA,No,No Date,0,0,NA,2005
+161,Bachelor,7,Bachelor-7,Charlie,Charlie O'Connell,NA,NA,White,29,07_Jenny,,NA,,,NA,,NA,No,D10,0,0,NA,2005
+162,Bachelor,7,Bachelor-7,Charlie,Charlie O'Connell,NA,NA,White,29,07_Kara,,NA,,,NA,,NA,No,D10,0,0,NA,2005
+163,Bachelor,7,Bachelor-7,Charlie,Charlie O'Connell,NA,NA,White,29,07_Katie,,NA,,,NA,,NA,No,No Date,0,0,NA,2005
+164,Bachelor,7,Bachelor-7,Charlie,Charlie O'Connell,NA,NA,White,29,07_Kerry,,NA,,,NA,,NA,Yes,D10,0,0,NA,2005
+165,Bachelor,7,Bachelor-7,Charlie,Charlie O'Connell,NA,NA,White,29,07_Kimberly,,NA,,,NA,,NA,No,D10,0,0,NA,2005
+166,Bachelor,7,Bachelor-7,Charlie,Charlie O'Connell,NA,NA,White,29,07_Kindle,,NA,,,NA,,NA,No,D10,0,0,NA,2005
+167,Bachelor,7,Bachelor-7,Charlie,Charlie O'Connell,NA,NA,White,29,07_Krisily,,NA,,,NA,,NA,No,D10,0,0,NA,2005
+168,Bachelor,7,Bachelor-7,Charlie,Charlie O'Connell,NA,NA,White,29,07_Kristen,,NA,,,NA,,NA,No,No Date,0,0,NA,2005
+169,Bachelor,7,Bachelor-7,Charlie,Charlie O'Connell,NA,NA,White,29,07_Kristina,,NA,,,NA,,NA,No,No Date,0,0,NA,2005
+170,Bachelor,7,Bachelor-7,Charlie,Charlie O'Connell,NA,NA,White,29,07_Kristine,,NA,,,NA,,NA,No,No Date,0,0,NA,2005
+171,Bachelor,7,Bachelor-7,Charlie,Charlie O'Connell,NA,NA,White,29,07_Kyshawn,,NA,,,NA,,NA,No,No Date,0,1,NA,2005
+172,Bachelor,7,Bachelor-7,Charlie,Charlie O'Connell,NA,NA,White,29,07_Megan,,NA,,,NA,,NA,No,D1,0,0,NA,2005
+173,Bachelor,7,Bachelor-7,Charlie,Charlie O'Connell,NA,NA,White,29,07_Sarah B.,,NA,,,NA,,NA,No,D10,1,0,NA,2005
+174,Bachelor,7,Bachelor-7,Charlie,Charlie O'Connell,NA,NA,White,29,07_Sarah W.,,NA,,,NA,,NA,Yes,D1,0,0,NA,2005
+175,Bachelor,7,Bachelor-7,Charlie,Charlie O'Connell,NA,NA,White,29,07_Siomara,,NA,,,NA,,NA,No,No Date,0,0,NA,2005
+176,Bachelor,7,Bachelor-7,Charlie,Charlie O'Connell,NA,NA,White,29,07_Valerie,,NA,,,NA,,NA,No,No Date,0,0,NA,2005
+177,Bachelor,8,Bachelor-8,Travis,Travis Lane Stork,NA,NA,White,33,08_Princess,,NA,,,NA,,NA,No First Impression Rose Given,No Date,0,1,NA,2006
+178,Bachelor,8,Bachelor-8,Travis,Travis Lane Stork,NA,NA,White,33,08_Sara_H,,NA,,,NA,,NA,No First Impression Rose Given,No Date,0,0,NA,2006
+179,Bachelor,8,Bachelor-8,Travis,Travis Lane Stork,NA,NA,White,33,08_Sarah_B,,NA,,,NA,,NA,No First Impression Rose Given,D6,0,0,NA,2006
+180,Bachelor,8,Bachelor-8,Travis,Travis Lane Stork,NA,NA,White,33,08_Sarah_S,,NA,,,NA,,NA,No First Impression Rose Given,D12,1,0,NA,2006
+181,Bachelor,8,Bachelor-8,Travis,Travis Lane Stork,NA,NA,White,33,08_Shiloh,,NA,,,NA,,NA,No First Impression Rose Given,D6,0,0,NA,2006
+182,Bachelor,8,Bachelor-8,Travis,Travis Lane Stork,NA,NA,White,33,08_Stephanie,,NA,,,NA,,NA,No First Impression Rose Given,No Date,0,0,NA,2006
+183,Bachelor,8,Bachelor-8,Travis,Travis Lane Stork,NA,NA,White,33,08_Susan,,NA,,,NA,,NA,No First Impression Rose Given,D6,0,0,NA,2006
+184,Bachelor,8,Bachelor-8,Travis,Travis Lane Stork,NA,NA,White,33,08_Tara,,NA,,,NA,,NA,No First Impression Rose Given,D6,0,0,NA,2006
+185,Bachelor,8,Bachelor-8,Travis,Travis Lane Stork,NA,NA,White,33,08_Venus,,NA,,,NA,,NA,No First Impression Rose Given,No Date,0,0,NA,2006
+186,Bachelor,8,Bachelor-8,Travis,Travis Lane Stork,NA,NA,White,33,08_Yvonne,,NA,,,NA,,NA,No First Impression Rose Given,D12,0,0,NA,2006
+187,Bachelor,8,Bachelor-8,Travis,Travis Lane Stork,NA,NA,White,33,08_Ali_D,,NA,,,NA,,NA,No First Impression Rose Given,No Date,0,0,NA,2006
+188,Bachelor,8,Bachelor-8,Travis,Travis Lane Stork,NA,NA,White,33,08_Allie_G,,NA,,,NA,,NA,No First Impression Rose Given,No Date,0,0,NA,2006
+189,Bachelor,8,Bachelor-8,Travis,Travis Lane Stork,NA,NA,White,33,08_April,,NA,,,NA,,NA,No First Impression Rose Given,No Date,0,0,NA,2006
+190,Bachelor,8,Bachelor-8,Travis,Travis Lane Stork,NA,NA,White,33,08_Cole,,NA,,,NA,,NA,No First Impression Rose Given,D12,0,0,NA,2006
+191,Bachelor,8,Bachelor-8,Travis,Travis Lane Stork,NA,NA,White,33,08_Cortney,,NA,,,NA,,NA,No First Impression Rose Given,No Date,0,0,NA,2006
+192,Bachelor,8,Bachelor-8,Travis,Travis Lane Stork,NA,NA,White,33,08_Elizabeth,,NA,,,NA,,NA,No First Impression Rose Given,D12,0,0,NA,2006
+193,Bachelor,8,Bachelor-8,Travis,Travis Lane Stork,NA,NA,White,33,08_Jaime,,NA,,,NA,,NA,No First Impression Rose Given,No Date,0,0,NA,2006
+194,Bachelor,8,Bachelor-8,Travis,Travis Lane Stork,NA,NA,White,33,08_Jehan,,NA,,,NA,,NA,No First Impression Rose Given,D12,0,0,NA,2006
+195,Bachelor,8,Bachelor-8,Travis,Travis Lane Stork,NA,NA,White,33,08_Jennifer,,NA,,,NA,,NA,No First Impression Rose Given,D6,0,0,NA,2006
+196,Bachelor,8,Bachelor-8,Travis,Travis Lane Stork,NA,NA,White,33,08_Kathy,,NA,,,NA,,NA,No First Impression Rose Given,No Date,0,1,NA,2006
+197,Bachelor,8,Bachelor-8,Travis,Travis Lane Stork,NA,NA,White,33,08_Kristen,,NA,,,NA,,NA,No First Impression Rose Given,D1,0,0,NA,2006
+198,Bachelor,8,Bachelor-8,Travis,Travis Lane Stork,NA,NA,White,33,08_Kyle,,NA,,,NA,,NA,No First Impression Rose Given,No Date,0,0,NA,2006
+199,Bachelor,8,Bachelor-8,Travis,Travis Lane Stork,NA,NA,White,33,08_Lisa,,NA,,,NA,,NA,No First Impression Rose Given,No Date,0,0,NA,2006
+200,Bachelor,8,Bachelor-8,Travis,Travis Lane Stork,NA,NA,White,33,08_Liza,,NA,,,NA,,NA,No First Impression Rose Given,No Date,0,0,NA,2006
+201,Bachelor,8,Bachelor-8,Travis,Travis Lane Stork,NA,NA,White,33,08_Moana,,NA,,,NA,,NA,No First Impression Rose Given,D6,0,0,NA,2006
+202,Bachelor,9,Bachelor-9,Lorenzo,Lorenzo Borghese,"Milan, Italy",Italy,White,34,09_COSETTA_B,Cosetta Blanca,NA,Dancer,Italy,Italy,1,7,No,No Date,0,0,NA,2006
+203,Bachelor,9,Bachelor-9,Lorenzo,Lorenzo Borghese,"Milan, Italy",Italy,White,34,09_DESIREE_V,Desiree Valentin,22,Realtor,"Salt Lake City, Utah",Utah,4,7,No,D6,0,0,NA,2006
+204,Bachelor,9,Bachelor-9,Lorenzo,Lorenzo Borghese,"Milan, Italy",Italy,White,34,09_TARA_D,Tara Durr,24,Realtor,"St. Augustine, Florida",Florida,1,7,No,No Date,0,0,NA,2006
+205,Bachelor,9,Bachelor-9,Lorenzo,Lorenzo Borghese,"Milan, Italy",Italy,White,34,09_ROSELLA_F,Rosella Fratto,27,Make-up artist,"Chicago, Illinois",Illinois,1,7,No,No Date,0,0,NA,2006
+206,Bachelor,9,Bachelor-9,Lorenzo,Lorenzo Borghese,"Milan, Italy",Italy,White,34,09_SADIE_M,Sadie Murray,23,Publicist,"Carlsbad, California",California,7,7,No,D5,0,0,NA,2006
+207,Bachelor,9,Bachelor-9,Lorenzo,Lorenzo Borghese,"Milan, Italy",Italy,White,34,09_SARAH_S,Sarah Schnare,30,Journalist,"Nelson, British Columbia",BritishColumbia,2,7,No,D6,0,1,NA,2006
+208,Bachelor,9,Bachelor-9,Lorenzo,Lorenzo Borghese,"Milan, Italy",Italy,White,34,09_AGNESE_P,Agnese Polliza,24,Student,"Venice, Italy",Italy,5,7,No,D5,0,0,NA,2006
+209,Bachelor,9,Bachelor-9,Lorenzo,Lorenzo Borghese,"Milan, Italy",Italy,White,34,09_ANDREA_S,Andrea Shirley,28,Hotel concierge,"Cincinnati, OH",Ohio,1,7,No,No Date,0,0,NA,2006
+210,Bachelor,9,Bachelor-9,Lorenzo,Lorenzo Borghese,"Milan, Italy",Italy,White,34,09_APRIL_J,April Jacobs,23,Model,"Chicago, IL",Illinois,1,7,No,No Date,0,0,NA,2006
+211,Bachelor,9,Bachelor-9,Lorenzo,Lorenzo Borghese,"Milan, Italy",Italy,White,34,09_BOWE_N,Britt (Bowe) Newton,28,Beer chemist,"Columbus, OH",Ohio,1,7,No,No Date,0,0,NA,2006
+212,Bachelor,9,Bachelor-9,Lorenzo,Lorenzo Borghese,"Milan, Italy",Italy,White,34,09_CARISSA_I,Carissa Ilburg,25,Attorney,"Cattaraugus, NY",NewYork,1,7,No,No Date,0,0,NA,2006
+213,Bachelor,9,Bachelor-9,Lorenzo,Lorenzo Borghese,"Milan, Italy",Italy,White,34,09_CLAUDIA_G,Claudia Gismondi,22,Restaurateur,"Boca Raton, FL",Florida,1,7,No,No Date,0,0,NA,2006
+214,Bachelor,9,Bachelor-9,Lorenzo,Lorenzo Borghese,"Milan, Italy",Italy,White,34,09_LAURA_M,Laura Morgan,29,Dolphin trainer,"San Diego, CA",California,1,7,No,No Date,0,0,NA,2006
+215,Bachelor,9,Bachelor-9,Lorenzo,Lorenzo Borghese,"Milan, Italy",Italy,White,34,09_LISA_B,Lisa Blank,25,Marketing manager,"Portland, Oregon",Oregon,6,7,Yes,D1,0,0,NA,2006
+216,Bachelor,9,Bachelor-9,Lorenzo,Lorenzo Borghese,"Milan, Italy",Italy,White,34,09_MERI_B,Meri Barr,27,Attorney,"Biloxi, MS",Mississippi,1,7,No,No Date,0,0,NA,2006
+217,Bachelor,9,Bachelor-9,Lorenzo,Lorenzo Borghese,"Milan, Italy",Italy,White,34,09_RENEE_S,Renee Snell,30,Broadcast marketer,"Baltimore, MD",Maryland,1,7,No,No Date,0,0,NA,2006
+218,Bachelor,9,Bachelor-9,Lorenzo,Lorenzo Borghese,"Milan, Italy",Italy,White,34,09_RITA_G,Rita Ghazal,29,Policy advisor,"Richmond, VA",Virginia,1,7,No,No Date,0,0,NA,2006
+219,Bachelor,9,Bachelor-9,Lorenzo,Lorenzo Borghese,"Milan, Italy",Italy,White,34,09_ELYSE_H,Elyse Hammer,27,Physician,"New York, NY",NewYork,1,7,No,No Date,0,0,NA,2006
+220,Bachelor,9,Bachelor-9,Lorenzo,Lorenzo Borghese,"Milan, Italy",Italy,White,34,09_ERICA_R,Erica Rose,23,Socialite,"Houston, Texas",Texas,3,7,No,D5,0,0,NA,2006
+221,Bachelor,9,Bachelor-9,Lorenzo,Lorenzo Borghese,"Milan, Italy",Italy,White,34,09_GINA_C,Gina Clark,28,Ultrasound technician,"Chicago, Illinois",Illinois,3,7,No,D6,0,0,NA,2006
+222,Bachelor,9,Bachelor-9,Lorenzo,Lorenzo Borghese,"Milan, Italy",Italy,White,34,09_HEATHER_S,Heather Sneed,34,Registered nurse,"Aliquippa, PA",Pennsylvania,1,7,No,No Date,0,0,NA,2006
+223,Bachelor,9,Bachelor-9,Lorenzo,Lorenzo Borghese,"Milan, Italy",Italy,White,34,09_JAMI_M,Jami Matzke,27,Event planner,"Galveston, Texas",Texas,3,7,No,D5,0,0,NA,2006
+224,Bachelor,9,Bachelor-9,Lorenzo,Lorenzo Borghese,"Milan, Italy",Italy,White,34,09_JEANETTE_P,Jeanette Pawula,23,Teacher,"Bloomingdale, Illinois",Illinois,4,7,No,D6,0,0,NA,2006
+225,Bachelor,9,Bachelor-9,Lorenzo,Lorenzo Borghese,"Milan, Italy",Italy,White,34,09_JENNIFER_W,Jennifer Wilson,24,Teacher,"Pembroke Pines, Florida",Florida,winner,7,No,D6,1,0,NA,2006
+226,Bachelor,9,Bachelor-9,Lorenzo,Lorenzo Borghese,"Milan, Italy",Italy,White,34,09_JESSICA_H,Jessica Horner,25,Assistant buyer,"Charlotte, NC",North Carolina,1,7,No,No Date,0,0,NA,2006
+227,Bachelor,9,Bachelor-9,Lorenzo,Lorenzo Borghese,"Milan, Italy",Italy,White,34,09_KIM_J,Kim Jackson,27,Interior designer,"Newport Beach, California",California,2,7,No,D6,0,0,NA,2006
+228,Bachelor,9,Bachelor-9,Lorenzo,Lorenzo Borghese,"Milan, Italy",Italy,White,34,09_ELLEN_D,Ellen DeMaio,30,Realtor,"New Haven, Connecticut",Connecticut,2,7,No,D5,0,0,NA,2006
+229,Bachelor,10,Bachelor-10,Andrew,Andy Baldwin,"Lancaster, Pennsylvania",Pennsylvania,White,30,10_DANIELLE_V,Danielle Vallis,26,Attorney,"Bronx, NY",NewYork,1,8,No,No Date,0,0,NA,2007
+230,Bachelor,10,Bachelor-10,Andrew,Andy Baldwin,"Lancaster, Pennsylvania",Pennsylvania,White,30,10_BEVIN_P,Bevin Nicole Powers,28,Assistant,"Palo Alto, California",California,8,8,No,D7,0,0,NA,2007
+231,Bachelor,10,Bachelor-10,Andrew,Andy Baldwin,"Lancaster, Pennsylvania",Pennsylvania,White,30,10_BLAKENEY_R,Blakeney Rowe,29,Radio sales,"Birmingham, AL",Alabama,1,8,No,No Date,0,0,NA,2007
+232,Bachelor,10,Bachelor-10,Andrew,Andy Baldwin,"Lancaster, Pennsylvania",Pennsylvania,White,30,10_CANDICE_D,Candace DeCost,23,Waitress,"Hilton Head Island, SC",SouthCarolina,1,8,No,No Date,0,0,NA,2007
+233,Bachelor,10,Bachelor-10,Andrew,Andy Baldwin,"Lancaster, Pennsylvania",Pennsylvania,White,30,10_JESSICA_D,Jessica Devallo,32,Hedge fund analyst,"New York, NY",NewYork,1,8,No,No Date,0,0,NA,2007
+234,Bachelor,10,Bachelor-10,Andrew,Andy Baldwin,"Lancaster, Pennsylvania",Pennsylvania,White,30,10_ERIN_P,Erin Parker,24,Financial analyst,"Logansport, LA",Louisiana,3,8,No,D7,0,0,NA,2007
+235,Bachelor,10,Bachelor-10,Andrew,Andy Baldwin,"Lancaster, Pennsylvania",Pennsylvania,White,30,10_JACKIE_T,Jackie Topelli,23,Executive coordinator,"Minneapolis, MN",Minnesota,1,8,No,No Date,0,0,NA,2007
+236,Bachelor,10,Bachelor-10,Andrew,Andy Baldwin,"Lancaster, Pennsylvania",Pennsylvania,White,30,10_JEANETTE_A,Jeanette Alvarez,27,Health care manager,"Tampa, FL",Florida,1,8,No,No Date,0,0,NA,2007
+237,Bachelor,10,Bachelor-10,Andrew,Andy Baldwin,"Lancaster, Pennsylvania",Pennsylvania,White,30,10_LINDSAY_S,Lindsay Smith,22,Student,"Lawrence, KS",Kansas,1,8,No,No Date,0,1,NA,2007
+238,Bachelor,10,Bachelor-10,Andrew,Andy Baldwin,"Lancaster, Pennsylvania",Pennsylvania,White,30,10_NICOLE_C,Nicole Clary,26,Sales Manager,"Charleston, SC",SouthCarolina,4,8,No,D7,0,0,NA,2007
+239,Bachelor,10,Bachelor-10,Andrew,Andy Baldwin,"Lancaster, Pennsylvania",Pennsylvania,White,30,10_PEYTON_W,Peyton Wright,24,Sorority recruiter,"La Vergne, Tennessee",Tennessee,3,8,No,D7,0,0,NA,2007
+240,Bachelor,10,Bachelor-10,Andrew,Andy Baldwin,"Lancaster, Pennsylvania",Pennsylvania,White,30,10_STEPHANIE_T,Stephanie Tipper,27,Organ donor coordinator,"Folly Beach, SC",SouthCarolina,4,8,Yes,D1,0,0,NA,2007
+241,Bachelor,10,Bachelor-10,Andrew,Andy Baldwin,"Lancaster, Pennsylvania",Pennsylvania,White,30,10_STEPHANIE_W,Stephanie Wilhite,23,Project Manager,"Overland Park, Kansas",Kansas,5,8,No,D7,0,0,NA,2007
+242,Bachelor,10,Bachelor-10,Andrew,Andy Baldwin,"Lancaster, Pennsylvania",Pennsylvania,White,30,10_CATHERINE_W,Catherine Warren,23,Former Miss Illinois,"Lake Forest, IL",Illinois,1,8,No,No Date,0,0,NA,2007
+243,Bachelor,10,Bachelor-10,Andrew,Andy Baldwin,"Lancaster, Pennsylvania",Pennsylvania,White,30,10_DANIELLE_I,Danielle Imwalle,25,Graphic Designer,"Bethel, Connecticut",Connecticut,7,8,No,D7,0,0,NA,2007
+244,Bachelor,10,Bachelor-10,Andrew,Andy Baldwin,"Lancaster, Pennsylvania",Pennsylvania,White,30,10_TIFFANY_F,Tiffany Forester,27,Real estate sales/development,"St. Louis Park, MN",Minnesota,1,8,No,No Date,0,0,NA,2007
+245,Bachelor,10,Bachelor-10,Andrew,Andy Baldwin,"Lancaster, Pennsylvania",Pennsylvania,White,30,10_TIFFANY_W,Tiffany Warren,28,Medical equipment sales rep,"Boston, MA",Massachusetts,2,8,No,D7,0,0,NA,2007
+246,Bachelor,10,Bachelor-10,Andrew,Andy Baldwin,"Lancaster, Pennsylvania",Pennsylvania,White,30,10_TINA_W,Tina Wu,26,Medical student,"Los Angeles, California",California,5,8,No,D7,0,0,NA,2007
+247,Bachelor,10,Bachelor-10,Andrew,Andy Baldwin,"Lancaster, Pennsylvania",Pennsylvania,White,30,10_AMANDA_H,Amanda Hackney,26,Financial analyst,"Dallas, TX",Texas,3,8,No,D7,0,0,NA,2007
+248,Bachelor,10,Bachelor-10,Andrew,Andy Baldwin,"Lancaster, Pennsylvania",Pennsylvania,White,30,10_KATE_B,Kate Brockhouse,24,Boutique owner,"Ravenel, South Carolina",SouthCarolina,4,8,No,D7,0,0,NA,2007
+249,Bachelor,10,Bachelor-10,Andrew,Andy Baldwin,"Lancaster, Pennsylvania",Pennsylvania,White,30,10_LINDA_M,Linda Malek,33,Attorney,"Cuyahoga Falls, OH",Ohio,1,8,No,No Date,0,0,NA,2007
+250,Bachelor,10,Bachelor-10,Andrew,Andy Baldwin,"Lancaster, Pennsylvania",Pennsylvania,White,30,10_ALEXIS_Y,Alexis Young,26,Attorney,"Southlake, TX",Texas,2,8,No,D7,0,0,NA,2007
+251,Bachelor,10,Bachelor-10,Andrew,Andy Baldwin,"Lancaster, Pennsylvania",Pennsylvania,White,30,10_SUSAN_A,Susan Anderson,23,Boutique manager,"The Woodlands, TX",Texas,2,8,No,D7,0,0,NA,2007
+252,Bachelor,10,Bachelor-10,Andrew,Andy Baldwin,"Lancaster, Pennsylvania",Pennsylvania,White,30,10_AMBER_A,Amber Alchalabi,23,Teacher,"Sugar Land, Texas",Texas,6,8,No,D7,0,0,NA,2007
+253,Bachelor,10,Bachelor-10,Andrew,Andy Baldwin,"Lancaster, Pennsylvania",Pennsylvania,White,30,10_TESSA_H,Tessa Horst,26,Social Worker,"San Francisco, California",California,winner,8,No,D7,1,0,NA,2007
+254,Bachelor,11,Bachelor-11,Brad1,Brad Womack 1,"Austin, Texas",Texas,White,34,11_JENNI_C,Jenni Croft,27,Phoenix Suns Cheerleader,"Wichita, Kansas",Kansas,8,8,Yes,D7,0,0,NA,2007
+255,Bachelor,11,Bachelor-11,Brad1,Brad Womack 1,"Austin, Texas",Texas,White,34,11_ERIN_G,Erin Gardner,25,Publishing sales executive,"Tampa, Florida",Florida,2,8,No,D7,0,0,NA,2007
+256,Bachelor,11,Bachelor-11,Brad1,Brad Womack 1,"Austin, Texas",Texas,White,34,11_HILARY_R,Hillary Reisinger,27,Registered nurse,"Philadelphia, Pennsylvania",Pennsylvania,5,8,No,D7,0,0,NA,2007
+257,Bachelor,11,Bachelor-11,Brad1,Brad Womack 1,"Austin, Texas",Texas,White,34,11_KRISTY_K,Kristy Katzmann,29,Acupuncturist,"Gurnee, Illinois",Illinois,5,8,No,D7,0,0,NA,2007
+258,Bachelor,11,Bachelor-11,Brad1,Brad Womack 1,"Austin, Texas",Texas,White,34,11_JESSICA_K,Jessica Kiss,27,News anchor,"Lady Lake, Florida",Florida,1,8,No,No Date,0,0,NA,2007
+259,Bachelor,11,Bachelor-11,Brad1,Brad Womack 1,"Austin, Texas",Texas,White,34,11_JULI_G,Juli Gilliam,24,Law student,"Chicago, Illinois",Illinois,1,8,No,No Date,0,0,NA,2007
+260,Bachelor,11,Bachelor-11,Brad1,Brad Womack 1,"Austin, Texas",Texas,White,34,11_KIM_O,Kim Orville,31,Realtor,"Woodbridge, Connecticut",Connecticut,1,8,No,No Date,0,0,NA,2007
+261,Bachelor,11,Bachelor-11,Brad1,Brad Womack 1,"Austin, Texas",Texas,White,34,11_BETTINA_B,Bettina Bell,27,Realtor,"Washington, D.C.",D.C.,7,8,No,D7,0,0,NA,2007
+262,Bachelor,11,Bachelor-11,Brad1,Brad Womack 1,"Austin, Texas",Texas,White,34,11_DEANNA_P,Deanna Pappas,25,Realtor,"Newnan, Georgia",Georgia,8,8,No,D7,0,0,NA,2007
+263,Bachelor,11,Bachelor-11,Brad1,Brad Womack 1,"Austin, Texas",Texas,White,34,11_MICHELE_L,Michele Leavy,30,Realtor,"South Brunswick, New Jersey",NewJersey,2,8,No,No Date,0,0,NA,2007
+264,Bachelor,11,Bachelor-11,Brad1,Brad Womack 1,"Austin, Texas",Texas,White,34,11_MORGAN_B,Morgan Becker,24,Graduate student,"Tempe, Arizona",Arizona,1,8,No,No Date,0,0,NA,2007
+265,Bachelor,11,Bachelor-11,Brad1,Brad Womack 1,"Austin, Texas",Texas,White,34,11_JADE_B,Jade Beazley,24,Boutique sales worker,"Nashville, Tennessee",Tennessee,4,8,No,D7,0,0,NA,2007
+266,Bachelor,11,Bachelor-11,Brad1,Brad Womack 1,"Austin, Texas",Texas,White,34,11_NATALIE_V,Natalie Velasco,25,Law student,"Duncanville, Texas",Texas,1,8,No,No Date,0,0,NA,2007
+267,Bachelor,11,Bachelor-11,Brad1,Brad Womack 1,"Austin, Texas",Texas,White,34,11_REGINA_D,Regina Doringa,31,Account representative,"San Diego, California",California,1,8,No,No Date,0,1,NA,2007
+268,Bachelor,11,Bachelor-11,Brad1,Brad Womack 1,"Austin, Texas",Texas,White,34,11_SARAH_N,Sarah Newlon,23,Bar manager,"O'Fallon, Illinois",Illinois,3,8,No,D7,0,0,NA,2007
+269,Bachelor,11,Bachelor-11,Brad1,Brad Womack 1,"Austin, Texas",Texas,White,34,11_SHEENA_S,Sheena Stewart,23,Internet marketing executive,"Walnut Creek, California",California,6,8,No,D7,0,0,NA,2007
+270,Bachelor,11,Bachelor-11,Brad1,Brad Womack 1,"Austin, Texas",Texas,White,34,11_SOLISA_S,Solisa Shoop,25,Esthetician,"Georgetown, Texas",Texas,3,8,No,D7,0,0,NA,2007
+271,Bachelor,11,Bachelor-11,Brad1,Brad Womack 1,"Austin, Texas",Texas,White,34,11_LINDSEY_H,Lindsey Hawkins,25,Model,"Livonia, Michigan",Michigan,3,8,No,D7,0,0,NA,2007
+272,Bachelor,11,Bachelor-11,Brad1,Brad Womack 1,"Austin, Texas",Texas,White,34,11_LORI_L,Lori Langley,33,Biology teacher,"Annapolis, Maryland",Maryland,1,8,No,No Date,0,0,NA,2007
+273,Bachelor,11,Bachelor-11,Brad1,Brad Womack 1,"Austin, Texas",Texas,White,34,11_MALLORY_S,Mallory Simons,24,Nanny,"Honolulu, Hawaii",Hawaii,2,8,No,D7,0,0,NA,2007
+274,Bachelor,11,Bachelor-11,Brad1,Brad Womack 1,"Austin, Texas",Texas,White,34,11_MCCARTEN_D,McCarten Delaney,26,Account manager,"Lemon Grove, California",California,4,8,No,D7,0,0,NA,2007
+275,Bachelor,11,Bachelor-11,Brad1,Brad Womack 1,"Austin, Texas",Texas,White,34,11_MELISSA_B,Melissa Buschel,28,Event planner,"Westchester, New York",NewYork,1,8,No,No Date,0,0,NA,2007
+276,Bachelor,11,Bachelor-11,Brad1,Brad Womack 1,"Austin, Texas",Texas,White,34,11_STEPHY_K,"Estefania ""Stephy"" Kootz",26,Executive assistant,"Atlanta, Georgia",Georgia,4,8,No,D7,0,0,NA,2007
+277,Bachelor,11,Bachelor-11,Brad1,Brad Womack 1,"Austin, Texas",Texas,White,34,11_SUSAN_S,Susan Stein,35,Project analyst,"St. Charles, Illinois",Illinois,1,8,No,No Date,0,0,NA,2007
+278,Bachelor,11,Bachelor-11,Brad1,Brad Womack 1,"Austin, Texas",Texas,White,34,11_TAUNI_N,Tauni Nessler ,31,Emergency room nurse,"St. Louis Park, Minnesota",Minnesota,1,8,No,No Date,0,0,NA,2007
+279,Bachelor,12,Bachelor-12,Matt,Matt Grant,"London, England",England,White,27,12_ALYSSA_G,Alyssa,24,Biology student,"Boise, Idaho",Idaho,1,8,No,No Date,0,0,NA,2008
+280,Bachelor,12,Bachelor-12,Matt,Matt Grant,"London, England",England,White,27,12_MICHELLE_P,Michelle P.,28,Administrative assistant,"Syracuse, New York",NewYork,2,8,No,D8,0,0,NA,2008
+281,Bachelor,12,Bachelor-12,Matt,Matt Grant,"London, England",England,White,27,12_NOELLE_D,Noelle Drake,26,Photographer,"Loveland, Colorado",Colorado,6,8,No,D8,0,0,NA,2008
+282,Bachelor,12,Bachelor-12,Matt,Matt Grant,"London, England",England,White,27,12_REBECCA_L,Rebecca,30,Attorney,"Alamo, California",California,1,8,No,No Date,0,0,NA,2008
+283,Bachelor,12,Bachelor-12,Matt,Matt Grant,"London, England",England,White,27,12_ROBIN_C,Robin Canfield,22,Advertising coordinator,"Holland, Michigan",Michigan,5,8,No,D7,0,0,NA,2008
+284,Bachelor,12,Bachelor-12,Matt,Matt Grant,"London, England",England,White,27,12_SHAYNE_L,Shayne Lamas,22,Actress,"Malibu, California",California,winner,8,No,D7,1,0,NA,2008
+285,Bachelor,12,Bachelor-12,Matt,Matt Grant,"London, England",England,White,27,12_KELLY_D,Kelly Duncan,25,Medical sales rep.,"Hollywood, California",California,4,8,No,D7,0,0,NA,2008
+286,Bachelor,12,Bachelor-12,Matt,Matt Grant,"London, England",England,White,27,12_KRISTINE_H,Kristine Heffelfinger,33,Personal trainer,"Dillsburg, Pennsylvania",Pennsylvania,3,8,No,D8,0,0,NA,2008
+287,Bachelor,12,Bachelor-12,Matt,Matt Grant,"London, England",England,White,27,12_LESLEY_G,Lesley Geyer,23,Youth minister,"Tampa, Florida",Florida,1,8,No,No Date,0,0,NA,2008
+288,Bachelor,12,Bachelor-12,Matt,Matt Grant,"London, England",England,White,27,12_MARSHANA_R,Marshana Ritchie,27,Fashion designer,"Brooklyn, New York",NewYork,5,8,No,D8,0,1,NA,2008
+289,Bachelor,12,Bachelor-12,Matt,Matt Grant,"London, England",England,White,27,12_MICHELE_R,Michele R.,33,Interior designer,"Laguna Niguel, California",California,1,8,No,No Date,0,0,NA,2008
+290,Bachelor,12,Bachelor-12,Matt,Matt Grant,"London, England",England,White,27,12_AMANDA_R,Amanda Rantuccio,27,Account Executive,"Niceville, Florida",Florida,7,8,Yes,D8,0,0,NA,2008
+291,Bachelor,12,Bachelor-12,Matt,Matt Grant,"London, England",England,White,27,12_AMY_R,Amy,22,Nanny,"Stockton, California",California,3,8,No,D7,0,0,NA,2008
+292,Bachelor,12,Bachelor-12,Matt,Matt Grant,"London, England",England,White,27,12_ASHLEE_W,Ashlee Williss,22,Singer-songwriter,"Jacksonville Beach, Florida",Florida,4,8,No,D8,0,0,NA,2008
+293,Bachelor,12,Bachelor-12,Matt,Matt Grant,"London, England",England,White,27,12_CARRI_P,Carri Perrier,25,Church marketing rep.,"Oklahoma City, Oklahoma",Oklahoma,2,8,No,D7,0,0,NA,2008
+294,Bachelor,12,Bachelor-12,Matt,Matt Grant,"London, England",England,White,27,12_CHELSEA_W,Chelsea Wanstrath,25,Pharmaceutical sales rep.,"Durango, Colorado",Colorado,8,8,No,D7,0,0,NA,2008
+295,Bachelor,12,Bachelor-12,Matt,Matt Grant,"London, England",England,White,27,12_STACEY_E,Stacey Elza,26,Graduate student,"Chicago, Illinois",Illinois,1,8,No,No Date,0,0,NA,2008
+296,Bachelor,12,Bachelor-12,Matt,Matt Grant,"London, England",England,White,27,12_TAMARA_S,Tamara,23,Cocktail waitress,"Beverly Hills, California",California,1,8,No,No Date,0,0,NA,2008
+297,Bachelor,12,Bachelor-12,Matt,Matt Grant,"London, England",England,White,27,12_TIFFANY_T,Tiffany,33,Real estate marketing rep.,"San Francisco, California",California,1,8,No,No Date,0,0,NA,2008
+298,Bachelor,12,Bachelor-12,Matt,Matt Grant,"London, England",England,White,27,12_ERIN_S,Erin Storm,33,Hot-dog vendor,"Venice, California",California,3,8,No,D7,0,0,NA,2008
+299,Bachelor,12,Bachelor-12,Matt,Matt Grant,"London, England",England,White,27,12_HOLLY_D,Holly Durst,24,Children's book author,"Suffield, Ohio",Ohio,4,8,No,D8,0,0,NA,2008
+300,Bachelor,12,Bachelor-12,Matt,Matt Grant,"London, England",England,White,27,12_DENISE_H,Denise,30,Attorney and former White House aide,"Washington, D.C",D.C.,1,8,No,No Date,0,0,NA,2008
+301,Bachelor,12,Bachelor-12,Matt,Matt Grant,"London, England",England,White,27,12_DEVON_A,Devon,24,Makeup artist,"Austin, Texas",Texas,1,8,No,No Date,0,0,NA,2008
+302,Bachelor,12,Bachelor-12,Matt,Matt Grant,"London, England",England,White,27,12_AMANDA_P,Amanda Petterman,26,Law student,"LaFollette, Tennessee",Tennessee,1,8,No,No Date,0,0,NA,2008
+303,Bachelor,12,Bachelor-12,Matt,Matt Grant,"London, England",England,White,27,12_ERIN_H,Erin Harper,25,Event planner,"Seattle, Washington",Washington,2,8,No,D8,0,0,NA,2008
+304,Bachelor,13,Bachelor-13,Jason,Jason Mesnick,"Cleveland, Ohio",Ohio,White,32,13_ANN_L,Ann Lueders,24,Flight Attendant,"Phoenix, Arizona",Arizona,1,8,No,No Date,0,0,0,2009
+305,Bachelor,13,Bachelor-13,Jason,Jason Mesnick,"Cleveland, Ohio",Ohio,White,32,13_JACKIE_H,Jackie Hickey,26,Wedding Coordinator,"Springfield, Massachusetts",Massachusetts,1,8,No,No Date,0,0,0,2009
+306,Bachelor,13,Bachelor-13,Jason,Jason Mesnick,"Cleveland, Ohio",Ohio,White,32,13_JILLIAN_H,Jillian Harris,29,Interior Designer,"Peace River, Alberta",Alberta,7,8,No,D1,0,0,0,2009
+307,Bachelor,13,Bachelor-13,Jason,Jason Mesnick,"Cleveland, Ohio",Ohio,White,32,13_EMILY_H,Emily,23,Casino Marketing Rep.,"Seattle, Washington",Washington,1,8,No,No Date,0,0,0,2009
+308,Bachelor,13,Bachelor-13,Jason,Jason Mesnick,"Cleveland, Ohio",Ohio,White,32,13_ERICA_D,Erica DeSimone,25,Account Executive,"Monroe, Connecticut",Connecticut,3,8,No,D8,0,0,0,2009
+309,Bachelor,13,Bachelor-13,Jason,Jason Mesnick,"Cleveland, Ohio",Ohio,White,32,13_MEGAN_P,Megan Parris,25,Single Mother and Lacrosse Coach,"Sewickley, Pennsylvania",Pennsylvania,4,8,No,No Date,0,0,0,2009
+310,Bachelor,13,Bachelor-13,Jason,Jason Mesnick,"Cleveland, Ohio",Ohio,White,32,13_MELISSA_R,Melissa Rycroft,25,Sales Representative,"Dallas, Texas",Texas,winner,8,No,D1,1,0,0,2009
+311,Bachelor,13,Bachelor-13,Jason,Jason Mesnick,"Cleveland, Ohio",Ohio,White,32,13_MOLLY_M,Molly Malaney,24,Department Store Buyer,"Brookfield, Wisconsin",Wisconsin,8,8,No,D8,0,0,0,2009
+312,Bachelor,13,Bachelor-13,Jason,Jason Mesnick,"Cleveland, Ohio",Ohio,White,32,13_DOMINIQUE_C,Dominique Carta,26,Medical Sales Rep.,"Mt. Carmel, Pennsylvania",Pennsylvania,1,8,No,No Date,0,0,0,2009
+313,Bachelor,13,Bachelor-13,Jason,Jason Mesnick,"Cleveland, Ohio",Ohio,White,32,13_NATALIE_G,Natalie Getz,27,Human Resources Recruiter,"Morton, Illinois",Illinois,3,8,No,D8,0,0,0,2009
+314,Bachelor,13,Bachelor-13,Jason,Jason Mesnick,"Cleveland, Ohio",Ohio,White,32,13_NICOLE_M,Nicole Mah,25,Menswear Buyer,"Calgary, Alberta",Alberta,1,8,No,No Date,0,0,0,2009
+315,Bachelor,13,Bachelor-13,Jason,Jason Mesnick,"Cleveland, Ohio",Ohio,White,32,13_NIKKI_K,"Nicole ""Nikki"" Kaapke",29,Administrative Assistant,"Blue Island, Illinois",Illinois,4,8,Yes,D8,0,0,0,2009
+316,Bachelor,13,Bachelor-13,Jason,Jason Mesnick,"Cleveland, Ohio",Ohio,White,32,13_RAQUEL_M,Raquel Medeiros,27,Medical Student,"Recife, Pernambuco, Brazil",Pernambuco,2,8,No,No Date,0,0,0,2009
+317,Bachelor,13,Bachelor-13,Jason,Jason Mesnick,"Cleveland, Ohio",Ohio,White,32,13_RENEE_S,Renee Simlak,36,Jewelry Designer,"Southfield, Michigan",Michigan,1,8,No,No Date,0,0,0,2009
+318,Bachelor,13,Bachelor-13,Jason,Jason Mesnick,"Cleveland, Ohio",Ohio,White,32,13_JULIE_D,Julie Dermotta,26,Teacher,"Columbus, Ohio",Ohio,1,8,No,No Date,0,0,1,2009
+319,Bachelor,13,Bachelor-13,Jason,Jason Mesnick,"Cleveland, Ohio",Ohio,White,32,13_KARI_F,Kari Fajen,27,Account Executive,"Lee's Summit, Missouri",Missouri,3,8,No,D8,0,0,0,2009
+320,Bachelor,13,Bachelor-13,Jason,Jason Mesnick,"Cleveland, Ohio",Ohio,White,32,13_LAUREN_W,Lauren Wanger,27,Teacher,"Marlboro, New Jersey",NewJersey,4,8,No,D8,0,0,0,2009
+321,Bachelor,13,Bachelor-13,Jason,Jason Mesnick,"Cleveland, Ohio",Ohio,White,32,13_LISA_G,Lisa Gonzalez,28,Public Relations Associate,"Boise, Idaho",Idaho,2,8,No,No Date,0,0,0,2009
+322,Bachelor,13,Bachelor-13,Jason,Jason Mesnick,"Cleveland, Ohio",Ohio,White,32,13_STEPHANIE_H,Stephanie Hogan,34,Single Mother & Medical Marketing Rep.,"Huntsville, Alabama",Alabama,5,8,No,No Date,0,0,0,2009
+323,Bachelor,13,Bachelor-13,Jason,Jason Mesnick,"Cleveland, Ohio",Ohio,White,32,13_TREASURE_M,Treasure Morgan,28,Single Mother and Nurse Practitioner,"Salt Lake City, Utah",Utah,1,8,No,No Date,0,0,0,2009
+324,Bachelor,13,Bachelor-13,Jason,Jason Mesnick,"Cleveland, Ohio",Ohio,White,32,13_SHARON_S,Sharon Staebell,32,Teacher,"Batavia, New York",NewYork,2,8,No,D8,0,0,0,2009
+325,Bachelor,13,Bachelor-13,Jason,Jason Mesnick,"Cleveland, Ohio",Ohio,White,32,13_NAOMI_C,Naomi Rose Crespo,24,Flight Attendant,"Carlsbad, California",California,6,8,No,D8,0,0,0,2009
+326,Bachelor,13,Bachelor-13,Jason,Jason Mesnick,"Cleveland, Ohio",Ohio,White,32,13_STACIA_M,Stacia Mann,24,Single Mother & Charity Accountant,"Orem, Utah",Utah,1,8,No,No Date,0,0,0,2009
+327,Bachelor,13,Bachelor-13,Jason,Jason Mesnick,"Cleveland, Ohio",Ohio,White,32,13_SHANNON_B,Shannon Bair,29,Dental Hygienist,"Marshall, Missouri",Missouri,4,8,No,No Date,0,0,0,2009
+328,Bachelor,13,Bachelor-13,Jason,Jason Mesnick,"Cleveland, Ohio",Ohio,White,32,13_SHELBY_G,Shelby,23,Account Executive,"Stockton, California",California,1,8,No,No Date,0,0,0,2009
+329,Bachelor,14,Bachelor-14,Jake,Jake Pavelka,"Dallas, Texas",Texas,White,31,14_ASHLEY_E,Ashley Elmore,29,Teacher,"Pittsburgh, Pennsylvania",Pennsylvania,4,8,No,D5,0,0,0,2010
+330,Bachelor,14,Bachelor-14,Jake,Jake Pavelka,"Dallas, Texas",Texas,White,31,14_CAITLYN_M,Caitlyn McCabe,24,Spokesmodel,"Winfield, Illinois",Illinois,2,8,No,No Date,0,0,0,2010
+331,Bachelor,14,Bachelor-14,Jake,Jake Pavelka,"Dallas, Texas",Texas,White,31,14_ASHLEIGH_H,Ashleigh Hunt,25,Account Manager,"North Potomac, Maryland",Maryland,6,8,No,D6,0,0,0,2010
+332,Bachelor,14,Bachelor-14,Jake,Jake Pavelka,"Dallas, Texas",Texas,White,31,14_EMILY_H,Emily Harkins,23,Fitness Model,"West Chester, Ohio",Ohio,4,8,No,No Date,0,0,0,2010
+333,Bachelor,14,Bachelor-14,Jake,Jake Pavelka,"Dallas, Texas",Texas,White,31,14_GIA_A,Gia Allemand,26,Swimsuit Model,"New York, New York",NewYork,1,8,No,D6,0,0,0,2010
+334,Bachelor,14,Bachelor-14,Jake,Jake Pavelka,"Dallas, Texas",Texas,White,31,14_CHANNY_C,Channy Choch,29,Mortgage Loan Officer,"Santa Rosa, California",California,1,8,No,No Date,0,0,1,2010
+335,Bachelor,14,Bachelor-14,Jake,Jake Pavelka,"Dallas, Texas",Texas,White,31,14_ALI_F,Ali Fedotowsky,25,Advertising Account Manager,"Williamstown, Massachusetts",Massachusetts,winner,8,No,D1,0,0,0,2010
+336,Bachelor,14,Bachelor-14,Jake,Jake Pavelka,"Dallas, Texas",Texas,White,31,14_JESSIE_S,Jessie Sulidis,25,Cosmetic Sales Manager,"Oakville, Ontario",Ontario,7,8,No,D5,0,0,0,2010
+337,Bachelor,14,Bachelor-14,Jake,Jake Pavelka,"Dallas, Texas",Texas,White,31,14_KATHRYN_S,Kathryn Sherlock,25,Corporate Flight Attendant,"Lexington, Kentucky",Kentucky,4,8,No,D5,0,0,0,2010
+338,Bachelor,14,Bachelor-14,Jake,Jake Pavelka,"Dallas, Texas",Texas,White,31,14_KIMBERLY_S,Kimberly Sullivan,24,NBA Dancer,"Norman, Oklahoma",Oklahoma,4,8,No,No Date,0,0,0,2010
+339,Bachelor,14,Bachelor-14,Jake,Jake Pavelka,"Dallas, Texas",Texas,White,31,14_KIRSTEN_P,Kirsten Pittman,25,Waitress,"Aurora, Colorado",Colorado,1,8,No,No Date,0,0,0,2010
+340,Bachelor,14,Bachelor-14,Jake,Jake Pavelka,"Dallas, Texas",Texas,White,31,14_CORRIE_A,Christina McCasland,25,Restaurant Manager,"San Diego, California",California,1,8,No,D6,0,0,0,2010
+341,Bachelor,14,Bachelor-14,Jake,Jake Pavelka,"Dallas, Texas",Texas,White,31,14_CRISTINA_M,Corrie Adamson,23,Wardrobe Consultant,"Kissimmee, Florida",Florida,2,8,No,D6,0,0,0,2010
+342,Bachelor,14,Bachelor-14,Jake,Jake Pavelka,"Dallas, Texas",Texas,White,31,14_ELIZABETH_KI,Elizabeth Kitt (NE),29,Nanny,"Imperial, Nebraska",Nebraska,5,8,No,D5,0,0,0,2010
+343,Bachelor,14,Bachelor-14,Jake,Jake Pavelka,"Dallas, Texas",Texas,White,31,14_ELIZABETH_KR,Elizabeth Kreft (D.C.),29,"Captain, Air National Guard","Union, Kentucky",Kentucky,3,8,No,No Date,0,0,0,2010
+344,Bachelor,14,Bachelor-14,Jake,Jake Pavelka,"Dallas, Texas",Texas,White,31,14_ELLA_N,Ella Nolan,30,Hair Stylist,"La Follette, Tennessee",Tennessee,1,8,No,No Date,0,0,0,2010
+345,Bachelor,14,Bachelor-14,Jake,Jake Pavelka,"Dallas, Texas",Texas,White,31,14_TIANA_K,Tiana Kruzel,31,Medical Technician,"Calgary, Alberta",Alberta,1,8,No,No Date,0,0,0,2010
+346,Bachelor,14,Bachelor-14,Jake,Jake Pavelka,"Dallas, Texas",Texas,White,31,14_VALISHIA_S,Valishia Savage,32,Homemaker,"San Bernardino, California",California,3,8,No,D6,0,0,0,2010
+347,Bachelor,14,Bachelor-14,Jake,Jake Pavelka,"Dallas, Texas",Texas,White,31,14_VIENNA_G,Vienna Girardi,23,Marketing Representative,"Geneva, Florida",Florida,winner,8,No,D5,1,0,0,2010
+348,Bachelor,14,Bachelor-14,Jake,Jake Pavelka,"Dallas, Texas",Texas,White,31,14_SHEILA_L,Sheila Marie Lidner,25,Commercial Pilot,"Scottsdale, Arizona",Arizona,1,8,No,No Date,0,0,0,2010
+349,Bachelor,14,Bachelor-14,Jake,Jake Pavelka,"Dallas, Texas",Texas,White,31,14_LEX_M,Alexa (Lex) McAllister,25,Entrepreneur,"Galloway, Ohio",Ohio,1,8,No,No Date,0,0,0,2010
+350,Bachelor,14,Bachelor-14,Jake,Jake Pavelka,"Dallas, Texas",Texas,White,31,14_MICHELLE K,Michelle Kujawa,26,Office Manager,"Anaheim, California",California,3,8,No,No Date,0,0,0,2010
+351,Bachelor,14,Bachelor-14,Jake,Jake Pavelka,"Dallas, Texas",Texas,White,31,14_ROZLYN_P,Rozlyn Papa,28,Model/Make-Up Artist,"Richmond, Virginia",Virginia,2,8,No,D6,0,0,0,2010
+352,Bachelor,14,Bachelor-14,Jake,Jake Pavelka,"Dallas, Texas",Texas,White,31,14_STEPHANIE_M,Stephanie Mueller,24,Dance Teacher,"Morris, Illinois",Illinois,1,8,No,No Date,0,0,0,2010
+353,Bachelor,14,Bachelor-14,Jake,Jake Pavelka,"Dallas, Texas",Texas,White,31,14_TENLEY_M,Tenley Molzahn,25,College Admissions,"Newberg, Oregon",Oregon,8,8,Yes,No Date,0,0,0,2010
+354,Bachelor,15,Bachelor-15,Brad2,Brad Womack 2,"Austin, Texas",Texas,White,38,15_ALLI_T,Alli Travis,24,Apparel merchant,"Columbus, Ohio",Ohio,6,10,No,D15,0,0,0,2011
+355,Bachelor,15,Bachelor-15,Brad2,Brad Womack 2,"Austin, Texas",Texas,White,38,15_LISA_P,Lisa P.,27,Sales Consultant,"Dix Hills, New York",NewYork,1,10,No,No Date,0,0,0,2011
+356,Bachelor,15,Bachelor-15,Brad2,Brad Womack 2,"Austin, Texas",Texas,White,38,15_MARISSA_M,Marissa May,26,Sports Publicist,"Mesa, Arizona",Arizona,5,10,No,D15,0,0,0,2011
+357,Bachelor,15,Bachelor-15,Brad2,Brad Womack 2,"Austin, Texas",Texas,White,38,15_MEGHAN_M,Meghan Merritt,30,Fashion Marketer,"Princeton, New Jersey",NewJersey,4,10,No,D15,0,0,0,2011
+358,Bachelor,15,Bachelor-15,Brad2,Brad Womack 2,"Austin, Texas",Texas,White,38,15_MELISSA_S,Melissa Schreiber,32,Waitress,"Westport, Connecticut",Connecticut,2,10,No,D15,0,0,0,2011
+359,Bachelor,15,Bachelor-15,Brad2,Brad Womack 2,"Austin, Texas",Texas,White,38,15_MADISON_G,Madison Garton,25,Model,"Vail, Colorado",Colorado,3,10,No,D15,0,0,0,2011
+360,Bachelor,15,Bachelor-15,Brad2,Brad Womack 2,"Austin, Texas",Texas,White,38,15_KIMBERLY_C,Kimberly Coon,27,Marketing Coordinator,"Orlando, Florida",Florida,3,10,No,D15,0,0,0,2011
+361,Bachelor,15,Bachelor-15,Brad2,Brad Womack 2,"Austin, Texas",Texas,White,38,15_LACEY_G,Lacey Garbelman,27,Insurance agent,"Tampa, Florida",Florida,1,10,No,No Date,0,0,0,2011
+362,Bachelor,15,Bachelor-15,Brad2,Brad Womack 2,"Austin, Texas",Texas,White,38,15_LAUREN_M,Lauren Moore,26,High School Teacher,"Culpeper, Virginia",Virginia,1,10,No,No Date,0,0,0,2011
+363,Bachelor,15,Bachelor-15,Brad2,Brad Womack 2,"Austin, Texas",Texas,White,38,15_LINDSAY_H,Lindsay Hill,25,First grade teacher,"Plano, Texas",Texas,4,10,No,No Date,0,0,0,2011
+364,Bachelor,15,Bachelor-15,Brad2,Brad Womack 2,"Austin, Texas",Texas,White,38,15_LISA_M,Lisa Morrisey,24,Marketing Coordinator,"Ottawa, Kansas",Kansas,5,10,No,D15,0,0,0,2011
+365,Bachelor,15,Bachelor-15,Brad2,Brad Womack 2,"Austin, Texas",Texas,White,38,15_BRITNEE_X,Britnee,25,Paralegal,"Holland, Pennsylvania",Pennsylvania,1,10,No,No Date,0,0,0,2011
+366,Bachelor,15,Bachelor-15,Brad2,Brad Womack 2,"Austin, Texas",Texas,White,38,15_BRITT_B,Britt Billmaier,25,Food writer,"Woodinville, Washington",Washington,7,10,No,D15,0,0,0,2011
+367,Bachelor,15,Bachelor-15,Brad2,Brad Womack 2,"Austin, Texas",Texas,White,38,15_CHANTAL_O,Chantal O'Brien,28,Executive Assistant,"Mercer Island, Washington",Washington,10,10,No,D15,0,0,0,2011
+368,Bachelor,15,Bachelor-15,Brad2,Brad Womack 2,"Austin, Texas",Texas,White,38,15_CRISTY_C,Cristy Caserta,30,Attorney,"Davie, Florida",Florida,1,10,No,No Date,0,0,0,2011
+369,Bachelor,15,Bachelor-15,Brad2,Brad Womack 2,"Austin, Texas",Texas,White,38,15_MICHELLE_M,Michelle Money,30,Hair stylist,"Salt Lake City, Utah",Utah,7,10,No,D15,0,0,0,2011
+370,Bachelor,15,Bachelor-15,Brad2,Brad Womack 2,"Austin, Texas",Texas,White,38,15_RAICHHEL_G,Raichel Goodyear,29,Manscaper,"Fullerton, California",California,2,10,No,D15,0,0,0,2011
+371,Bachelor,15,Bachelor-15,Brad2,Brad Womack 2,"Austin, Texas",Texas,White,38,15_REBECCA_X,Rebecca,30,Esthetician,"Mission Viejo, California",California,1,10,No,No Date,0,0,0,2011
+372,Bachelor,15,Bachelor-15,Brad2,Brad Womack 2,"Austin, Texas",Texas,White,38,15_RENEE_H,Renee Halpin,28,Nanny,"Palos Hills, Illinois",Illinois,1,10,No,No Date,0,0,0,2011
+373,Bachelor,15,Bachelor-15,Brad2,Brad Womack 2,"Austin, Texas",Texas,White,38,15_SARAH_L,Sarah Ledtke,25,Musical Theatre Performer,"Saginaw, Michigan",Michigan,1,10,No,No Date,0,0,0,2011
+374,Bachelor,15,Bachelor-15,Brad2,Brad Womack 2,"Austin, Texas",Texas,White,38,15_SARAH_P,Sarah Powell,27,Real Estate Broker,"Denver, Colorado",Colorado,3,10,No,No Date,0,0,0,2011
+375,Bachelor,15,Bachelor-15,Brad2,Brad Womack 2,"Austin, Texas",Texas,White,38,15_SHAWNTEL_N,Shawntel Newton,25,Funeral Director,"Chico, California",California,8,10,No,D15,0,0,0,2011
+376,Bachelor,15,Bachelor-15,Brad2,Brad Womack 2,"Austin, Texas",Texas,White,38,15_STACEY_Q,Stacey Quirpel,26,Bartender,"Quincy, Massachusetts",Massachusetts,4,10,No,D15,0,0,0,2011
+377,Bachelor,15,Bachelor-15,Brad2,Brad Womack 2,"Austin, Texas",Texas,White,38,15_ASHLEY_S,Ashley Spivey,26,Nanny,"Ellerbe, North Carolina",NorthCarolina,5,10,Yes,No Date,0,0,0,2011
+378,Bachelor,15,Bachelor-15,Brad2,Brad Womack 2,"Austin, Texas",Texas,White,38,15_EMILY_M,Emily Maynard,25,Children's Hospital Event Planner,"Morgantown, West Virginia",WestVirginia,winner,10,No,D15,1,0,0,2011
+379,Bachelor,15,Bachelor-15,Brad2,Brad Womack 2,"Austin, Texas",Texas,White,38,15_JACKIE_G,Jackie Gordon,26,Artist,"Newport, Rhode Island",RhodeIsland,6,10,No,D1,0,0,0,2011
+380,Bachelor,15,Bachelor-15,Brad2,Brad Womack 2,"Austin, Texas",Texas,White,38,15_JESSICA_A,"Jessica ""J"" Adams",26,Operations Manager,"Seattle, Washington",Washington,1,10,No,No Date,0,0,0,2011
+381,Bachelor,15,Bachelor-15,Brad2,Brad Womack 2,"Austin, Texas",Texas,White,38,15_KELTIE_C,Keltie Colleen,28,Radio City Rockette,"Sherwood Park, Alberta",Alberta,2,10,No,D15,0,0,0,2011
+382,Bachelor,15,Bachelor-15,Brad2,Brad Womack 2,"Austin, Texas",Texas,White,38,15_JILL_R,Jill Ruskowski,28,Sales director,"Frisco, Texas",Texas,1,10,No,No Date,0,0,0,2011
+383,Bachelor,15,Bachelor-15,Brad2,Brad Womack 2,"Austin, Texas",Texas,White,38,15_ASHLEU_H,Ashley Hebert,26,Dental Student,"Madawaska, Maine",Maine,9,10,No,D1,0,0,0,2011
+384,Bachelor,16,Bachelor-16,BenF,Ben Flajnik,"Sonoma, California",California,White,29,16_AMBER_T,Amber Tierney,28,Critical care nurse,"Waverly, Nebraska",Nebraska,1,10,No,No Date,0,0,0,2012
+385,Bachelor,16,Bachelor-16,BenF,Ben Flajnik,"Sonoma, California",California,White,29,16_BRITTNEY_S,Brittney Schreiner,26,Medical sales representative,"Colorado Springs, Colorado",Colorado,3,10,No,D12,0,0,0,2012
+386,Bachelor,16,Bachelor-16,BenF,Ben Flajnik,"Sonoma, California",California,White,29,16_CASEY_S,Casey Shteamer,26,Trading clerk,"Leawood, Kansas",Kansas,6,10,No,No Date,0,0,0,2012
+387,Bachelor,16,Bachelor-16,BenF,Ben Flajnik,"Sonoma, California",California,White,29,16_ANNA_S,Anna Snowball,25,Student,"Detroit, Michigan",Michigan,1,10,No,No Date,0,0,0,2012
+388,Bachelor,16,Bachelor-16,BenF,Ben Flajnik,"Sonoma, California",California,White,29,16_BLAKELEY_J,Blakeley Jones,33,VIP cocktail waitress,"Rutherfordton, North Carolina",NorthCarolina,6,10,No,D12,0,0,0,2012
+389,Bachelor,16,Bachelor-16,BenF,Ben Flajnik,"Sonoma, California",California,White,29,16_HOLLY_J,Holly Johnson,34,Pharmaceutical sales representative,"Salyersville, Kentucky",Kentucky,1,10,No,No Date,0,0,0,2012
+390,Bachelor,16,Bachelor-16,BenF,Ben Flajnik,"Sonoma, California",California,White,29,16_JACLYN_S,Jaclyn Swartz,27,Advertising account manager,"Newton, Massachusetts",Massachusetts,3,10,No,D12,0,0,0,2012
+391,Bachelor,16,Bachelor-16,BenF,Ben Flajnik,"Sonoma, California",California,White,29,16_AMBER_B,Amber Bacon,23,Labor and delivery nurse,"Port Coquitlam, British Columbia",BritishColumbia,1,10,No,No Date,0,0,0,2012
+392,Bachelor,16,Bachelor-16,BenF,Ben Flajnik,"Sonoma, California",California,White,29,16_JENNA_B,Jenna Burke,27,Blogger,"Loveland, Ohio",Ohio,2,10,No,D12,0,0,0,2012
+393,Bachelor,16,Bachelor-16,BenF,Ben Flajnik,"Sonoma, California",California,White,29,16_JENNIFER_F,Jennifer Fritsch,28,Accountant,"Cache, Oklahoma",Oklahoma,5,10,No,D12,0,0,0,2012
+394,Bachelor,16,Bachelor-16,BenF,Ben Flajnik,"Sonoma, California",California,White,29,16_KACIE_B,Kacie Boguskie,24,Administrative assistant,"Clarksville, Tennessee",Tennessee,8,10,No,D1,0,0,0,2012
+395,Bachelor,16,Bachelor-16,BenF,Ben Flajnik,"Sonoma, California",California,White,29,16_LINDZI_C,Lindzi Cox,27,Business development manager,"Newcastle, Washington",Washington,10,10,Yes,No Date,0,0,0,2012
+396,Bachelor,16,Bachelor-16,BenF,Ben Flajnik,"Sonoma, California",California,White,29,16_LYNDSIE_J,Lyndsie James,29,Internet entrepreneur,"London, England",England,1,10,No,No Date,0,0,0,2012
+397,Bachelor,16,Bachelor-16,BenF,Ben Flajnik,"Sonoma, California",California,White,29,16_COURTNEY_R,Courtney Robertson,28,Model,"Scottsdale, Arizona",Arizona,winner,10,No,D1,1,0,0,2012
+398,Bachelor,16,Bachelor-16,BenF,Ben Flajnik,"Sonoma, California",California,White,29,16_DIANNA_M,Dianna Martinez,30,Nonprofit director,"San Gabriel, California",California,1,10,No,No Date,0,0,1,2012
+399,Bachelor,16,Bachelor-16,BenF,Ben Flajnik,"Sonoma, California",California,White,29,16_ELYSE_M,Elyse Myers,24,Personal trainer,"Chicago, Illinois",Illinois,5,10,No,No Date,0,0,0,2012
+400,Bachelor,16,Bachelor-16,BenF,Ben Flajnik,"Sonoma, California",California,White,29,16_EMILY_O,Emily O'Brien,27,PhD Student,"Chapel Hill, North Carolina",NorthCarolina,7,10,No,D12,0,0,0,2012
+401,Bachelor,16,Bachelor-16,BenF,Ben Flajnik,"Sonoma, California",California,White,29,16_ERIKA_U,Erika Uhlig,23,Law student,"Charlottesville, Virginia",Virginia,3,10,No,No Date,0,0,0,2012
+402,Bachelor,16,Bachelor-16,BenF,Ben Flajnik,"Sonoma, California",California,White,29,16_SHIRA_A,Shira Astrof,35,Actress,"Massapequa Park, New York",NewYork,1,10,No,No Date,0,0,0,2012
+403,Bachelor,16,Bachelor-16,BenF,Ben Flajnik,"Sonoma, California",California,White,29,16_NICKI_S,Nicki Sterling,26,Dental hygienist,"Hurst, Texas",Texas,9,10,No,D12,0,0,0,2012
+404,Bachelor,16,Bachelor-16,BenF,Ben Flajnik,"Sonoma, California",California,White,29,16_JAMIE_O,Jamie Otis,25,Registered nurse,"Dryden, New York",NewYork,6,10,No,D12,0,0,0,2012
+405,Bachelor,16,Bachelor-16,BenF,Ben Flajnik,"Sonoma, California",California,White,29,16_SAMANTHA_L,Samantha Levey,26,Advertising account manager,"Pittsburgh, Pennsylvania",Pennsylvania,4,10,No,D12,0,0,0,2012
+406,Bachelor,16,Bachelor-16,BenF,Ben Flajnik,"Sonoma, California",California,White,29,16_MONICA_S,Monica Spannbauer,33,Dental consultant,"Yuba, California",California,4,10,No,D12,0,0,0,2012
+407,Bachelor,16,Bachelor-16,BenF,Ben Flajnik,"Sonoma, California",California,White,29,16_RACHEL_T,Rachel Truehart,27,Fashion sales representative,"Southampton, Massachusetts",Massachusetts,7,10,No,D12,0,0,0,2012
+408,Bachelor,16,Bachelor-16,BenF,Ben Flajnik,"Sonoma, California",California,White,29,16_SHAWN_R,Shawn Reynolds,28,Financial advisor,"Cincinnati, Ohio",Ohio,2,10,No,D12,0,0,0,2012
+409,Bachelor,17,Bachelor-17,Sean,Sean Lowe,"McKinney, Texas",Texas,White,29,17_AMANDA_M,Amanda Meyer,26,Fit Model,"Bakersfield, California",California,4,10,No,D13,0,0,0,2013
+410,Bachelor,17,Bachelor-17,Sean,Sean Lowe,"McKinney, Texas",Texas,White,29,17_ASHLEE_F,AshLee Frazier,32,Personal Organizer,"Houston, Texas",Texas,9,10,Yes,No Date,0,0,0,2013
+411,Bachelor,17,Bachelor-17,Sean,Sean Lowe,"McKinney, Texas",Texas,White,29,17_ASHLEY_H,Ashley Harper,25,Fashion Model,"Garner, North Carolina",NorthCarolina,1,10,No,No Date,0,1,1,2013
+412,Bachelor,17,Bachelor-17,Sean,Sean Lowe,"McKinney, Texas",Texas,White,29,17_DIANA_W,Diana Weeks Willardson,31,Salon Owner,"Sandy, Utah",Utah,2,10,Yes,D13,0,0,0,2013
+413,Bachelor,17,Bachelor-17,Sean,Sean Lowe,"McKinney, Texas",Texas,White,29,17_JACKIE_[,Jackie Parr,25,Cosmetics Consultant,"Ormond Beach, Florida",Florida,5,10,Yes,No Date,0,0,0,2013
+414,Bachelor,17,Bachelor-17,Sean,Sean Lowe,"McKinney, Texas",Texas,White,29,17_KACIE_B,Kacie Boguskie,25,Administrative Assistant,"Clarksville, Tennessee",Tennessee,3,10,No,D13,0,0,0,2013
+415,Bachelor,17,Bachelor-17,Sean,Sean Lowe,"McKinney, Texas",Texas,White,29,17_ASHLEY_P,Ashley Palenkas,28,Hair Stylist,"Macomb, Michigan",Michigan,1,10,No,No Date,0,0,0,2013
+416,Bachelor,17,Bachelor-17,Sean,Sean Lowe,"McKinney, Texas",Texas,White,29,17_KELLY_D,Katie Levans,27,Yoga Instructor,"Woodstock, Illinois",Illinois,2,10,No,No Date,0,0,0,2013
+417,Bachelor,17,Bachelor-17,Sean,Sean Lowe,"McKinney, Texas",Texas,White,29,17_KERIANN_M,Kelly Dutton,28,Cruise Ship Entertainer,"Chattanooga, Tennessee",Tennessee,1,10,No,No Date,0,0,0,2013
+418,Bachelor,17,Bachelor-17,Sean,Sean Lowe,"McKinney, Texas",Texas,White,29,17_KRISTY_K,Keriann Miranda,29,Entrepreneur,"Agoura Hills, California",California,1,10,No,D13,0,0,0,2013
+419,Bachelor,17,Bachelor-17,Sean,Sean Lowe,"McKinney, Texas",Texas,White,29,17_LACEY_L,Kristy Kaminski,25,Model,"Darien, Wisconsin",Wisconsin,3,10,No,No Date,0,0,0,2013
+420,Bachelor,17,Bachelor-17,Sean,Sean Lowe,"McKinney, Texas",Texas,White,29,17_LATIE_L,Lacey Latka,24,Graduate Student,"Stevenson Ranch, California",California,1,10,Yes,D13,0,0,0,2013
+421,Bachelor,17,Bachelor-17,Sean,Sean Lowe,"McKinney, Texas",Texas,White,29,17_BROOKE_B,Brooke Burchette,25,Community Organizer,"Pittsburgh, Pennsylvania",Pennsylvania,2,10,Yes,D13,0,1,1,2013
+422,Bachelor,17,Bachelor-17,Sean,Sean Lowe,"McKinney, Texas",Texas,White,29,17_CATHERINE_G,Catherine Giudici,26,Graphic Designer,"Seattle, Washington",Washington,winner,10,Yes,D13,1,0,1,2013
+423,Bachelor,17,Bachelor-17,Sean,Sean Lowe,"McKinney, Texas",Texas,White,29,17_DANIELLA_M,Daniella McBride,24,Commercial Casting Associate,"Belmont, California",California,6,10,No,D13,0,0,0,2013
+424,Bachelor,17,Bachelor-17,Sean,Sean Lowe,"McKinney, Texas",Texas,White,29,17_DESIREE_H,Desiree Hartsock,26,Bridal Stylist,"Northglenn, Colorado",Colorado,8,10,Yes,D1,0,0,0,2013
+425,Bachelor,17,Bachelor-17,Sean,Sean Lowe,"McKinney, Texas",Texas,White,29,17_SARAH_H,Sarah Herron,26,Advertising Executive,"Evergreen, Colorado",Colorado,6,10,Yes,D1,0,0,0,2013
+426,Bachelor,17,Bachelor-17,Sean,Sean Lowe,"McKinney, Texas",Texas,White,29,17_SLEMA_A,Selma Alameri,29,Real Estate Dealer,"Borrego Springs, California",California,6,10,Yes,D13,0,0,1,2013
+427,Bachelor,17,Bachelor-17,Sean,Sean Lowe,"McKinney, Texas",Texas,White,29,17_TARYN_D,Taryn Renee Daniels,30,Health Club Manager,"Troutdale, Oregon",Oregon,3,10,No,D13,0,0,0,2013
+428,Bachelor,17,Bachelor-17,Sean,Sean Lowe,"McKinney, Texas",Texas,White,29,17_TIERRA_L,Tierra LiCausi,24,Leasing Consultant,"Las Vegas, Nevada",Nevada,7,10,Yes,D13,0,0,0,2013
+429,Bachelor,17,Bachelor-17,Sean,Sean Lowe,"McKinney, Texas",Texas,White,29,17_LINDSAY_Y,Lindsay Yenter,24,Substitute Teacher,"Fort Bragg, North Carolina",NorthCarolina,10,10,No,No Date,0,0,0,2013
+430,Bachelor,17,Bachelor-17,Sean,Sean Lowe,"McKinney, Texas",Texas,White,29,17_LAUREN_M,Lauren Marchetti,27,Journalist,"Cranston, Rhode Island",RhodeIsland,1,10,No,No Date,0,0,0,2013
+431,Bachelor,17,Bachelor-17,Sean,Sean Lowe,"McKinney, Texas",Texas,White,29,17_LESLEY_M,Lesley Murphy,24,Political Consultant,"Fort Smith, Arkansas",Arkansas,7,10,No,D13,0,0,0,2013
+432,Bachelor,17,Bachelor-17,Sean,Sean Lowe,"McKinney, Texas",Texas,White,29,17_LESLIE_H,Leslie Hughes,28,Poker Dealer,"Ruskin, Florida",Florida,4,10,Yes,No Date,0,1,1,2013
+433,Bachelor,17,Bachelor-17,Sean,Sean Lowe,"McKinney, Texas",Texas,White,29,17_PAIGE_V,Paige Vigil,25,Jumbotron Operator,"Minnetonka, Minnesota",Minnesota,1,10,No,No Date,0,0,0,2013
+434,Bachelor,17,Bachelor-17,Sean,Sean Lowe,"McKinney, Texas",Texas,White,29,17_ROBYN_H,Robyn Howard,24,Oil Field Account Manager,"Topeka, Kansas",Kansas,5,10,Yes,D13,0,1,1,2013
+435,Bachelor,18,Bachelor-18,JuanPablo,Juan Pablo Galavais,"Miami, Florida",Florida,Latino,32,18_KELLY_T,Kelly Travis,27,Dog Lover,"Conyers, Georgia",Georgia,5,10,No,D13,0,0,0,2014
+436,Bachelor,18,Bachelor-18,JuanPablo,Juan Pablo Galavais,"Miami, Florida",Florida,Latino,32,18_KYLIE_L,Kylie Lewis,23,Interior Designer,"Rockford, Illinois",Illinois,1,10,No,No Date,0,0,0,2014
+437,Bachelor,18,Bachelor-18,JuanPablo,Juan Pablo Galavais,"Miami, Florida",Florida,Latino,32,18_LACY_F,Lacy Faddoul,25,Nursing Home Owner,"Antelope Acres, California",California,1,10,No,No Date,0,0,0,2014
+438,Bachelor,18,Bachelor-18,JuanPablo,Juan Pablo Galavais,"Miami, Florida",Florida,Latino,32,18_CHRISTINE_L,Christine Llano,23,Police Support Specialist,"Miami, Florida",Florida,1,10,No,No Date,0,0,0,2014
+439,Bachelor,18,Bachelor-18,JuanPablo,Juan Pablo Galavais,"Miami, Florida",Florida,Latino,32,18_CHRISTY_H,Christy Hansen,24,Marketing Manager,"Aurora, Illinois",Illinois,3,10,No,D13,0,0,0,2014
+440,Bachelor,18,Bachelor-18,JuanPablo,Juan Pablo Galavais,"Miami, Florida",Florida,Latino,32,18_CLARE_C,Clare Crawley,32,Hairstylist,"Sacramento, California",California,10,10,No,D1,0,0,0,2014
+441,Bachelor,18,Bachelor-18,JuanPablo,Juan Pablo Galavais,"Miami, Florida",Florida,Latino,32,18_DANIELLE_R,Danielle Ronco,25,Psychiatric Nurse,"Litchfield, Illinois",Illinois,5,10,No,No Date,0,1,1,2014
+442,Bachelor,18,Bachelor-18,JuanPablo,Juan Pablo Galavais,"Miami, Florida",Florida,Latino,32,18_KAT_H,Kat Hurd,29,Medical Sales Representative/NBA Dancer,"Iowa City, Iowa",Iowa,6,10,No,D1,0,0,0,2014
+443,Bachelor,18,Bachelor-18,JuanPablo,Juan Pablo Galavais,"Miami, Florida",Florida,Latino,32,18_VICTORIA_L,Victoria Lima,24,Legal Assistant,"Porto Alegre, Brazil",Brazil,2,10,No,D13,0,0,0,2014
+444,Bachelor,18,Bachelor-18,JuanPablo,Juan Pablo Galavais,"Miami, Florida",Florida,Latino,32,18_ALLI_R,Alli Restko,26,Nanny,"Orland Park, Illinois",Illinois,5,10,No,D13,0,0,0,2014
+445,Bachelor,18,Bachelor-18,JuanPablo,Juan Pablo Galavais,"Miami, Florida",Florida,Latino,32,18_AMY_J,Amy Jokinen,31,Massage Therapist,"Apopka, Florida",Florida,1,10,No,No Date,0,0,0,2014
+446,Bachelor,18,Bachelor-18,JuanPablo,Juan Pablo Galavais,"Miami, Florida",Florida,Latino,32,18_AMY_L,Amy Long,27,Local News Reporter,"Clermont, Florida",Florida,2,10,No,No Date,0,0,0,2014
+447,Bachelor,18,Bachelor-18,JuanPablo,Juan Pablo Galavais,"Miami, Florida",Florida,Latino,32,18_ANDI_D,Andi Dorfman,26,Assistant District Attorney,"Buckhead, Georgia",Georgia,9,10,No,D13,0,0,0,2014
+448,Bachelor,18,Bachelor-18,JuanPablo,Juan Pablo Galavais,"Miami, Florida",Florida,Latino,32,18_LAUREN_H,Lauren Higginson,25,Mineral Coordinator,"Edmond, Oklahoma",Oklahoma,1,10,No,No Date,0,0,0,2014
+449,Bachelor,18,Bachelor-18,JuanPablo,Juan Pablo Galavais,"Miami, Florida",Florida,Latino,32,18_LAUREN_S,Lauren Solomon,26,Music Composer,"Austin, Texas",Texas,4,10,No,D13,0,0,0,2014
+450,Bachelor,18,Bachelor-18,JuanPablo,Juan Pablo Galavais,"Miami, Florida",Florida,Latino,32,18_LUCY_A,"Lucinda ""Lucy"" Aragon",25,Free Spirit,"Santa Barbara, California",California,3,10,No,D13,0,0,0,2014
+451,Bachelor,18,Bachelor-18,JuanPablo,Juan Pablo Galavais,"Miami, Florida",Florida,Latino,32,18_MAGGIE_G,Maggie Gantt,25,Personal Banker,"Wagener, South Carolina",SouthCarolina,1,10,No,No Date,0,0,0,2014
+452,Bachelor,18,Bachelor-18,JuanPablo,Juan Pablo Galavais,"Miami, Florida",Florida,Latino,32,18_NIKKI_F,Nikki Ferrell,26,Pediatric Nurse,"Kearney, Missouri",Missouri,winner,10,No,D13,1,0,0,2014
+453,Bachelor,18,Bachelor-18,JuanPablo,Juan Pablo Galavais,"Miami, Florida",Florida,Latino,32,18_RENEE_O,Renee Oteri,32,Real Estate Agent,"Martha's Vineyard, Massachusetts",Massachusetts,8,10,No,D13,0,0,0,2014
+454,Bachelor,18,Bachelor-18,JuanPablo,Juan Pablo Galavais,"Miami, Florida",Florida,Latino,32,18_SHARLEEN_J,Sharleen Joynt,29,Opera Singer,"Ottawa, Ontario",Ontario,7,10,Yes,No Date,0,0,1,2014
+455,Bachelor,18,Bachelor-18,JuanPablo,Juan Pablo Galavais,"Miami, Florida",Florida,Latino,32,18_ELISE_M,Elise Mosca,27,First Grade Teacher,"Forty Fort, Pennsylvania",Pennsylvania,4,10,No,D13,0,0,0,2014
+456,Bachelor,18,Bachelor-18,JuanPablo,Juan Pablo Galavais,"Miami, Florida",Florida,Latino,32,18_ALEXIS_M,Alexis Morgado,24,Communications Director/NHL Ice Girl,"Tampa, Florida",Florida,1,10,No,No Date,0,0,0,2014
+457,Bachelor,18,Bachelor-18,JuanPablo,Juan Pablo Galavais,"Miami, Florida",Florida,Latino,32,18_ASHLEY_P,Ashley Poe,25,Grade School Teacher,"Roanoke, Texas",Texas,1,10,No,No Date,0,0,0,2014
+458,Bachelor,18,Bachelor-18,JuanPablo,Juan Pablo Galavais,"Miami, Florida",Florida,Latino,32,18_CASSANDRA_F,Cassandra Ferguson,22,Former NBA Dancer,"Shelby Charter Township, Michigan",Michigan,6,10,No,D13,0,0,0,2014
+459,Bachelor,18,Bachelor-18,JuanPablo,Juan Pablo Galavais,"Miami, Florida",Florida,Latino,32,18_CHANTEL_F,Chantel Forrest,27,Account Manager,"Miami, Florida",Florida,2,10,No,D13,0,1,1,2014
+460,Bachelor,18,Bachelor-18,JuanPablo,Juan Pablo Galavais,"Miami, Florida",Florida,Latino,32,18_CHELSIE_W,Chelsie Webster,24,Science Educator,"Lexington, Ohio",Ohio,7,10,No,D13,0,0,0,2014
+461,Bachelor,18,Bachelor-18,JuanPablo,Juan Pablo Galavais,"Miami, Florida",Florida,Latino,32,18_VALERIE_E,Valerie Eredia,26,Personal Trainer,"Sutter, California",California,1,10,No,No Date,0,0,0,2014
+462,Bachelor,19,Bachelor-19,Chris,Chris Soules,"Arlington, Iowa",Iowa,White,33,19_AMANDA_G,Amanda Goerlitz,24,Ballet Teacher,"Lake in the Hills, Illinois",Illinois,1,10,No,No Date,0,0,0,2015
+463,Bachelor,19,Bachelor-19,Chris,Chris Soules,"Arlington, Iowa",Iowa,White,33,19_ASHLEY_S,Ashley Salter,24,Hair Stylist,"Vinings, Georgia",Georgia,4,10,No,D11,0,0,0,2015
+464,Bachelor,19,Bachelor-19,Chris,Chris Soules,"Arlington, Iowa",Iowa,White,33,19_ALISSA_G,Alissa Giambrone,24,Flight Attendant,"Hamilton, New Jersey",NewJersey,2,10,No,D11,0,0,0,2015
+465,Bachelor,19,Bachelor-19,Chris,Chris Soules,"Arlington, Iowa",Iowa,White,33,19_BRITT_N,Britt Nilsson,27,Waitress,"Wolcott Mills, Michigan",Michigan,7,10,Yes,D11,0,0,0,2015
+466,Bachelor,19,Bachelor-19,Chris,Chris Soules,"Arlington, Iowa",Iowa,White,33,19_BRITTANY_F,Brittany Fetkin,26,WWE Diva-in-Training,"Temecula, California",California,1,10,No,No Date,0,0,0,2015
+467,Bachelor,19,Bachelor-19,Chris,Chris Soules,"Arlington, Iowa",Iowa,White,33,19_BECCA_T,Becca Tilley,25,Chiropractic Assistant,"Shreveport, Louisiana",Louisiana,10,10,No,D11,0,0,0,2015
+468,Bachelor,19,Bachelor-19,Chris,Chris Soules,"Arlington, Iowa",Iowa,White,33,19_BO_S,Bo Stanley,25,Plus-Size Model,"Carpinteria, California",California,1,10,No,No Date,0,0,0,2015
+469,Bachelor,19,Bachelor-19,Chris,Chris Soules,"Arlington, Iowa",Iowa,White,33,19_KAITLYN_B,Kaitlyn Bristowe,29,Dance Instructor,"Leduc, Alberta",Alberta,9,10,No,D11,0,0,0,2015
+470,Bachelor,19,Bachelor-19,Chris,Chris Soules,"Arlington, Iowa",Iowa,White,33,19_KARA_W,Kara Wilson,25,High School Soccer Coach,"Brownsville, Kentucky",Kentucky,1,10,No,No Date,0,0,0,2015
+471,Bachelor,19,Bachelor-19,Chris,Chris Soules,"Arlington, Iowa",Iowa,White,33,19_AMBER_J,Amber James,29,Bartender,"Kankakee, Illinois",Illinois,3,10,No,D11,0,1,1,2015
+472,Bachelor,19,Bachelor-19,Chris,Chris Soules,"Arlington, Iowa",Iowa,White,33,19_ASHLEY_I,Ashley Iaconetti,26,Nanny/Freelance Journalist,"Great Falls, Virginia",Virginia,6,10,No,D6,0,0,0,2015
+473,Bachelor,19,Bachelor-19,Chris,Chris Soules,"Arlington, Iowa",Iowa,White,33,19_MACKENZIE_D,Mackenzie Deonigi,21,Dental Assistant,"Maple Valley, Washington",Washington,5,10,No,D6,0,0,0,2015
+474,Bachelor,19,Bachelor-19,Chris,Chris Soules,"Arlington, Iowa",Iowa,White,33,19_MEGAN_B,Megan Bell,24,Make-Up Artist,"Nashville, Tennessee",Tennessee,6,10,No,D1,0,0,0,2015
+475,Bachelor,19,Bachelor-19,Chris,Chris Soules,"Arlington, Iowa",Iowa,White,33,19_MICHELLE_D,Michelle Davis,25,Wedding Cake Baker,"Provo, Utah",Utah,1,10,No,No Date,0,0,0,2015
+476,Bachelor,19,Bachelor-19,Chris,Chris Soules,"Arlington, Iowa",Iowa,White,33,19_NICOLE_M,Nicole Meacham,31,Real Estate Agent,"Scottsdale, Arizona",Arizona,1,10,No,No Date,0,0,0,2015
+477,Bachelor,19,Bachelor-19,Chris,Chris Soules,"Arlington, Iowa",Iowa,White,33,19_CARLY_W,Carly Waddell,29,Cruise Ship Singer,"Arlington, Texas",Texas,7,10,No,No Date,0,0,0,2015
+478,Bachelor,19,Bachelor-19,Chris,Chris Soules,"Arlington, Iowa",Iowa,White,33,19_JADE_R,Jade Roper,28,Cosmetics Developer,"Gering, Nebraska",Nebraska,8,10,No,D6,0,0,0,2015
+479,Bachelor,19,Bachelor-19,Chris,Chris Soules,"Arlington, Iowa",Iowa,White,33,19_JILIAN_A,Jillian Anderson,25,News Producer,"Howland, Ohio",Ohio,4,10,No,D11,0,0,0,2015
+480,Bachelor,19,Bachelor-19,Chris,Chris Soules,"Arlington, Iowa",Iowa,White,33,19_JORDAN_B,Jordan Branch,24,Student,"Windsor, Colorado",Colorado,2,10,No,No Date,0,0,0,2015
+481,Bachelor,19,Bachelor-19,Chris,Chris Soules,"Arlington, Iowa",Iowa,White,33,19_JUELIA_K,Juelia Kinney,30,Esthetician,"Beaverton, Oregon",Oregon,4,10,No,D11,0,0,0,2015
+482,Bachelor,19,Bachelor-19,Chris,Chris Soules,"Arlington, Iowa",Iowa,White,33,19_TRACY_D,Tracy Darakis,29,Fourth Grade Teacher,"Wellington, Florida",Florida,3,10,No,D11,0,0,0,2015
+483,Bachelor,19,Bachelor-19,Chris,Chris Soules,"Arlington, Iowa",Iowa,White,33,19_TRINA_S,Trina Scherenberg,33,Special Education Teacher,"Algonquin, Illinois",Illinois,3,10,No,D11,0,0,0,2015
+484,Bachelor,19,Bachelor-19,Chris,Chris Soules,"Arlington, Iowa",Iowa,White,33,19_KELSEY_P,Kelsey Poe,28,Guidance Counselor,"Hudsonville, Michigan",Michigan,6,10,No,D11,0,0,0,2015
+485,Bachelor,19,Bachelor-19,Chris,Chris Soules,"Arlington, Iowa",Iowa,White,33,19_KIMBERLY_S,Kimberly Sherbach,28,Yoga Instructor,"Wantagh, New York",NewYork,2,10,No,D6,0,0,0,2015
+486,Bachelor,19,Bachelor-19,Chris,Chris Soules,"Arlington, Iowa",Iowa,White,33,19_WHITNEY_B,Whitney Bischoff,29,Fertility Nurse,"Louisville, Kentucky",Kentucky,winner,10,No,No Date,1,0,0,2015
+487,Bachelor,19,Bachelor-19,Chris,Chris Soules,"Arlington, Iowa",Iowa,White,33,19_REEGAN_C,Reegan Cornwell,28,Cadaver Tissue Saleswoman,"Manhattan Beach, California",California,1,10,No,No Date,0,0,0,2015
+488,Bachelor,19,Bachelor-19,Chris,Chris Soules,"Arlington, Iowa",Iowa,White,33,19_SAMANTHA_S,Samantha Steffen,27,Fashion Designer,"Indianapolis, Indiana",Indiana,5,10,No,No Date,0,0,0,2015
+489,Bachelor,19,Bachelor-19,Chris,Chris Soules,"Arlington, Iowa",Iowa,White,33,19_TANDRA_S,Tandra Steiner,30,Executive Assistant,"Sandy, Utah",Utah,2,10,No,D6,0,0,0,2015
+490,Bachelor,19,Bachelor-19,Chris,Chris Soules,"Arlington, Iowa",Iowa,White,33,19_NIKKI_D,Nikki Delventhal,26,Former NFL Cheerleader,"Hasbrouck Heights, New Jersey",NewJersey,4,10,No,No Date,0,0,0,2015
+491,Bachelor,19,Bachelor-19,Chris,Chris Soules,"Arlington, Iowa",Iowa,White,33,19_TARA_E,Tara Eddings,26,Sport Fishing Enthusiast,"Fort Lauderdale, Florida",Florida,2,10,No,D6,0,0,0,2015
+492,Bachelor,20,Bachelor-20,BenH,Ben Higgins,"Warsaw, Indiana",Indiana,White,27,20_AMBER_J,Amber James,30,Bartender,"Kankakee, Illinois",Illinois,4,10,No,D10,0,1,1,2016
+493,Bachelor,20,Bachelor-20,BenH,Ben Higgins,"Warsaw, Indiana",Indiana,White,27,20_BECCA_T,Becca Tilley,26,Chiropractic Assistant,"Shreveport, Louisiana",Louisiana,7,10,No,D10,0,0,0,2016
+494,Bachelor,20,Bachelor-20,BenH,Ben Higgins,"Warsaw, Indiana",Indiana,White,27,20_CAILA_Q,Caila Quinn,24,Software Sales Representative,"Hudson, Ohio",Ohio,9,10,No,D1,0,0,1,2016
+495,Bachelor,20,Bachelor-20,BenH,Ben Higgins,"Warsaw, Indiana",Indiana,White,27,20_EMILY_F,Emily Ferguson,23,Waitress,"Las Vegas, Nevada",Nevada,7,10,No,D6,0,0,0,2016
+496,Bachelor,20,Bachelor-20,BenH,Ben Higgins,"Warsaw, Indiana",Indiana,White,27,20_HAYLEY_F,Haley Ferguson,23,Waitress,"Las Vegas, Nevada",Nevada,4,10,No,D6,0,0,0,2016
+497,Bachelor,20,Bachelor-20,BenH,Ben Higgins,"Warsaw, Indiana",Indiana,White,27,20_IZZY_G,"Isabel ""Izzy"" Goodkind",24,Graphic Designer,"Branford, Connecticut",Connecticut,1,10,No,No Date,0,0,0,2016
+498,Bachelor,20,Bachelor-20,BenH,Ben Higgins,"Warsaw, Indiana",Indiana,White,27,20_JACKIE_D,"Jacqueline ""Jackie"" Dion",23,Gerontologist,"Newport Beach, California",California,2,10,No,D10,0,0,0,2016
+499,Bachelor,20,Bachelor-20,BenH,Ben Higgins,"Warsaw, Indiana",Indiana,White,27,20_AMANDA_S,Amanda Stanton,25,Esthetician,"Rancho Santa Margarita, California",California,8,10,No,D6,0,0,0,2016
+500,Bachelor,20,Bachelor-20,BenH,Ben Higgins,"Warsaw, Indiana",Indiana,White,20,20_LACE_M,Lace Morris,25,Real Estate Agent,"Denver, Colorado",Colorado,3,10,No,D10,0,0,0,2016
+501,Bachelor,20,Bachelor-20,BenH,Ben Higgins,"Warsaw, Indiana",Indiana,White,27,20_LAURA_E,Laura Esselman,24,Account Executive,"Louisville, Kentucky",Kentucky,1,10,No,No Date,0,0,0,2016
+502,Bachelor,20,Bachelor-20,BenH,Ben Higgins,"Warsaw, Indiana",Indiana,White,27,20_BREANNE_R,Breanne Rice,30,Nutritional Therapist,"Seattle, Washington",Washington,1,10,No,No Date,0,0,0,2016
+503,Bachelor,20,Bachelor-20,BenH,Ben Higgins,"Warsaw, Indiana",Indiana,White,27,20_LAUREN_B,Lauren Bushnell,25,Flight Attendant,"West Linn, Oregon",Oregon,winner,10,No,No Date,1,0,0,2016
+504,Bachelor,20,Bachelor-20,BenH,Ben Higgins,"Warsaw, Indiana",Indiana,White,27,20_LAUREN_H,Lauren Himle,25,Kindergarten Teacher,"Dexter, Michigan",Michigan,6,10,No,D10,0,0,0,2016
+505,Bachelor,20,Bachelor-20,BenH,Ben Higgins,"Warsaw, Indiana",Indiana,White,27,20_LAUREN_R,Lauren Russell,26,Math Teacher,"Houston, Texas",Texas,1,10,No,No Date,0,0,0,2016
+506,Bachelor,20,Bachelor-20,BenH,Ben Higgins,"Warsaw, Indiana",Indiana,White,27,20_LB_B,"Lauren ""LB"" Barr",23,Fashion Buyer,"Stillwater, Oklahoma",Oklahoma,2,10,No,D10,0,0,0,2016
+507,Bachelor,20,Bachelor-20,BenH,Ben Higgins,"Warsaw, Indiana",Indiana,White,27,20_LEAH_B,Leah Block,25,Event Planner,"Greenwood Village, Colorado",Colorado,6,10,No,No Date,0,0,0,2016
+508,Bachelor,20,Bachelor-20,BenH,Ben Higgins,"Warsaw, Indiana",Indiana,White,27,20_JAMI_L,Jami Letain,23,Bartender,"St. Albert, Alberta",Alberta,3,10,No,No Date,0,1,1,2016
+509,Bachelor,20,Bachelor-20,BenH,Ben Higgins,"Warsaw, Indiana",Indiana,White,27,20_JENNIFER_S,Jennifer Saviano,25,Small Business Owner,"Lauderdale Lakes, Florida",Florida,5,10,No,D10,0,0,0,2016
+510,Bachelor,20,Bachelor-20,BenH,Ben Higgins,"Warsaw, Indiana",Indiana,White,27,20_JESSICA_M,Jessica Moser,23,Accountant,"Boca Raton, Florida",Florida,1,10,No,No Date,0,0,0,2016
+511,Bachelor,20,Bachelor-20,BenH,Ben Higgins,"Warsaw, Indiana",Indiana,White,27,20_JOJO_F,"Joelle ""JoJo"" Fletcher",24,Real Estate Developer,"Dallas, Texas",Texas,10,10,No,D10,0,0,0,2016
+512,Bachelor,20,Bachelor-20,BenH,Ben Higgins,"Warsaw, Indiana",Indiana,White,27,20_JUBILEE_S,Jubilee Sharpe,24,War Veteran,"Fort Lauderdale, Florida",Florida,5,10,No,D10,0,1,1,2016
+513,Bachelor,20,Bachelor-20,BenH,Ben Higgins,"Warsaw, Indiana",Indiana,White,27,20_TIARA_S,Tiara Soleim,27,Chicken Enthusiast,"Redmond, Washington",Washington,1,10,No,No Date,0,0,0,2016
+514,Bachelor,20,Bachelor-20,BenH,Ben Higgins,"Warsaw, Indiana",Indiana,White,27,20_MANDI_K,"Amanda ""Mandi"" Kremer",28,Dentist,"Portland, Oregon",Oregon,2,10,No,D10,0,0,0,2016
+515,Bachelor,20,Bachelor-20,BenH,Ben Higgins,"Warsaw, Indiana",Indiana,White,27,20_OLIVIA_C,Olivia Caridi,23,Former News Anchor,"Bristol, Virginia",Virginia,6,10,Yes,D6,0,0,0,2016
+516,Bachelor,20,Bachelor-20,BenH,Ben Higgins,"Warsaw, Indiana",Indiana,White,27,20_RACHEL_T,Rachel Tchen,23,Unemployed,"Little Rock, Arkansas",Arkansas,4,10,No,No Date,0,0,0,2016
+517,Bachelor,20,Bachelor-20,BenH,Ben Higgins,"Warsaw, Indiana",Indiana,White,27,20_MAEGAN_M,Maegan Miller,30,Cowgirl,"Visalia, California",California,1,10,No,No Date,0,0,0,2016
+518,Bachelor,20,Bachelor-20,BenH,Ben Higgins,"Warsaw, Indiana",Indiana,White,27,20_SHUSHANNA_M,Shushanna Mkrtychyan,27,Mathematician,"Salt Lake City, Utah",Utah,3,10,No,D6,0,0,0,2016
+519,Bachelor,20,Bachelor-20,BenH,Ben Higgins,"Warsaw, Indiana",Indiana,White,27,20_SAMANTHA_P,Samantha Passmore,26,Attorney,"New Smyrna Beach, Florida",Florida,2,10,No,D6,0,0,0,2016
+520,Bachelor,21,Bachelor-21,Nick,Nick Viall,"Milwaukee, WI",Wisconsin,White,36,21_ASTRID_L,Astrid,26,Plastic Surgery Office Manager,"Tampa, FL",Florida,4,10,No,D6,0,0,0,2017
+521,Bachelor,21,Bachelor-21,Nick,Nick Viall,"Milwaukee, WI",Wisconsin,White,36,21_MICHELLE_R,Michelle,24,Food Truck Owner,"Los Angeles, CA",California,1,10,No,No Date,0,1,1,2017
+522,Bachelor,21,Bachelor-21,Nick,Nick Viall,"Milwaukee, WI",Wisconsin,White,36,21_BRIANA_G,Briana,28,Surgical Unit Nurse,"Salt Lake City, UT",Utah,1,10,No,No Date,0,0,0,2017
+523,Bachelor,21,Bachelor-21,Nick,Nick Viall,"Milwaukee, WI",Wisconsin,White,36,21_BRITTANY_F,Brittany,26,Travel Nurse,"Santa Monica, CA",California,3,10,No,D12,0,0,0,2017
+524,Bachelor,21,Bachelor-21,Nick,Nick Viall,"Milwaukee, WI",Wisconsin,White,36,21_RAVEN_G,Raven,25,Fashion Boutique Owner,"Hoxie, AR",Arkansas,10,10,No,D12,0,0,0,2017
+525,Bachelor,21,Bachelor-21,Nick,Nick Viall,"Milwaukee, WI",Wisconsin,White,36,21_SARAH_V,Sarah,26,Grade School Teacher,"Newport Beach, CA",California,4,10,No,D12,0,0,0,2017
+526,Bachelor,21,Bachelor-21,Nick,Nick Viall,"Milwaukee, WI",Wisconsin,White,36,21_OLIVIA_B,Olivia,25,Apparel Sales Representative,"Anchorage, AK",Alaska,1,10,No,No Date,0,0,1,2017
+527,Bachelor,21,Bachelor-21,Nick,Nick Viall,"Milwaukee, WI",Wisconsin,White,36,21_RACHEL_L,Rachel,31,Attorney,"Dallas, TX",Texas,9,10,No,No Date,0,1,1,2017
+528,Bachelor,21,Bachelor-21,Nick,Nick Viall,"Milwaukee, WI",Wisconsin,White,36,21_ALEXIS_W,Alexis,23,Aspiring Dolphin Trainer,"Secaucus, NJ",NewJersey,5,10,No,D12,0,0,0,2017
+529,Bachelor,21,Bachelor-21,Nick,Nick Viall,"Milwaukee, WI",Wisconsin,White,36,21_ANGELA_A,Angela,26,Model,"Greenville, SC",SouthCarolina,1,10,No,No Date,0,0,0,2017
+530,Bachelor,21,Bachelor-21,Nick,Nick Viall,"Milwaukee, WI",Wisconsin,White,36,21_JOSEPHINE_T,Josephine,24,Registered Nurse,"Santa Cruz, CA",California,5,10,No,D6,0,0,0,2017
+531,Bachelor,21,Bachelor-21,Nick,Nick Viall,"Milwaukee, WI",Wisconsin,White,36,21_KRISTINA_S,Kristina,24,Dental Hygienist,"Lexington, KY",Kentucky,7,10,No,D6,0,0,0,2017
+532,Bachelor,21,Bachelor-21,Nick,Nick Viall,"Milwaukee, WI",Wisconsin,White,36,21_LACEY_M,Lacey,25,Digital Marketing Manager,"Manhattan, NY",NewYork,2,10,No,D12,0,0,0,2017
+533,Bachelor,21,Bachelor-21,Nick,Nick Viall,"Milwaukee, WI",Wisconsin,White,36,21_LAUREN_H,Lauren,30,Law School Graduate,"Naples, FL",Florida,1,10,No,No Date,0,0,0,2017
+534,Bachelor,21,Bachelor-21,Nick,Nick Viall,"Milwaukee, WI",Wisconsin,White,36,21_LIZ_S,Liz,29,Doula,"Las Vegas, NV",Nevada,2,10,No,D6,0,0,0,2017
+535,Bachelor,21,Bachelor-21,Nick,Nick Viall,"Milwaukee, WI",Wisconsin,White,36,21_CORRINE_O,Corinne,24,Business Owner,"Miami, FL",Florida,8,10,No,D12,0,0,0,2017
+536,Bachelor,21,Bachelor-21,Nick,Nick Viall,"Milwaukee, WI",Wisconsin,White,36,21_DANIELLE_L,Danielle L.,27,Small Business Owner,"Los Angeles, CA",California,6,10,No,D12,0,0,1,2017
+537,Bachelor,21,Bachelor-21,Nick,Nick Viall,"Milwaukee, WI",Wisconsin,White,36,21_DANIELLE_M,Danielle M.,31,Neonatal Nurse,"Nashville, TN",Tennessee,7,10,No,D1,0,0,0,2017
+538,Bachelor,21,Bachelor-21,Nick,Nick Viall,"Milwaukee, WI",Wisconsin,White,36,21_DOMINIQUE_A,Dominique,25,Restaurant Server,"Los Angeles, CA",California,3,10,No,No Date,0,1,1,2017
+539,Bachelor,21,Bachelor-21,Nick,Nick Viall,"Milwaukee, WI",Wisconsin,White,36,21_ELIZABETH_W,Elizabeth,24,Marketing Manager,"Dallas, TX",Texas,2,10,No,D12,0,0,0,2017
+540,Bachelor,21,Bachelor-21,Nick,Nick Viall,"Milwaukee, WI",Wisconsin,White,36,21_SUSANNAH_M,Susannah,26,Account Manager,"San Diego, CA",California,1,10,No,No Date,0,1,1,2017
+541,Bachelor,21,Bachelor-21,Nick,Nick Viall,"Milwaukee, WI",Wisconsin,White,36,21_TAYLOR_N,Taylor,23,Mental Health Counselor,"Seattle, WA",Washington,5,10,No,D12,0,0,0,2017
+542,Bachelor,21,Bachelor-21,Nick,Nick Viall,"Milwaukee, WI",Wisconsin,White,36,21_VANESSA_G,Vanessa,29,Special Education Teacher,"Montreal, Quebec, Canada",Quebec,winner,10,Yes,D12,1,0,0,2017
+543,Bachelor,21,Bachelor-21,Nick,Nick Viall,"Milwaukee, WI",Wisconsin,White,36,21_WHITNEY_F,Whitney,25,Pilates Instructor,"Chanhassen, MN",Minnesota,6,10,No,No Date,0,0,0,2017
+544,Bachelor,21,Bachelor-21,Nick,Nick Viall,"Milwaukee, WI",Wisconsin,White,36,21_JASMINE_G,Jasmine G.,29,Pro Basketball Dancer,"San Francisco, CA",California,6,10,No,D12,0,1,1,2017
+545,Bachelor,21,Bachelor-21,Nick,Nick Viall,"Milwaukee, WI",Wisconsin,White,36,21_HAILEY_M,Hailey,23,Photographer,"Vancouver, British Columbia, Canada",BritishColumbia,2,10,No,D12,0,0,0,2017
+546,Bachelor,21,Bachelor-21,Nick,Nick Viall,"Milwaukee, WI",Wisconsin,White,36,21_IDA_D,Ida Marie,23,Sales Manager,"Harlingen, TX",Texas,1,10,No,No Date,0,0,0,2017
+547,Bachelor,21,Bachelor-21,Nick,Nick Viall,"Milwaukee, WI",Wisconsin,White,36,21_CHRISTEN_W,Christen,25,Wedding Videographer,"Tulsa, OK",Oklahoma,3,10,No,D6,0,0,0,2017
+548,Bachelor,21,Bachelor-21,Nick,Nick Viall,"Milwaukee, WI",Wisconsin,White,36,21_JASMINE_B,Jasmine B.,25,Flight Attendant,"Tacoma, WA",Washington,1,10,No,No Date,0,1,1,2017
+549,Bachelor,21,Bachelor-21,Nick,Nick Viall,"Milwaukee, WI",Wisconsin,White,36,21_JAIMI_K,Jaimi,28,Chef,"New Orleans, LA",Louisiana,5,10,No,D6,0,1,1,2017
+550,Bachelorette,1,Bachelorette-1,Trista,Trista Rehn,"Indianapolis, Indiana",Indiana,White,30,01_BILLY_X,Billy,28,Firefighter,"Hermosa Beach, California",California,1,6,No First Impression Rose Given,No Date,0,0,NA,2003
+551,Bachelorette,1,Bachelorette-1,Trista,Trista Rehn,"Indianapolis, Indiana",Indiana,White,30,01_BOB_G,Bob Guiney,31,Mortgage Broker,"Ferndale, Michigan",Michigan,3,6,No First Impression Rose Given,D14,0,0,NA,2003
+552,Bachelorette,1,Bachelorette-1,Trista,Trista Rehn,"Indianapolis, Indiana",Indiana,White,30,01_BRIAN_C,Brian C.,28,Mortgage Broker,"Dallas, Texas",Texas,2,6,No First Impression Rose Given,D14,0,0,NA,2003
+553,Bachelorette,1,Bachelorette-1,Trista,Trista Rehn,"Indianapolis, Indiana",Indiana,White,30,01_BRIAN_H,Brian H.,30,National Sales Manager,"Cleveland, Ohio",Ohio,2,6,No First Impression Rose Given,D14,0,0,NA,2003
+554,Bachelorette,1,Bachelorette-1,Trista,Trista Rehn,"Indianapolis, Indiana",Indiana,White,30,01_BRIAN_K,Brian K.,31,Breast Implant Sales,"San Francisco, California",California,1,6,No First Impression Rose Given,No Date,0,0,NA,2003
+555,Bachelorette,1,Bachelorette-1,Trista,Trista Rehn,"Indianapolis, Indiana",Indiana,White,30,01_BRIAN_S,Brian S.,28,Sales Engineer,"Dallas, Texas",Texas,2,6,No First Impression Rose Given,D14,0,0,NA,2003
+556,Bachelorette,1,Bachelorette-1,Trista,Trista Rehn,"Indianapolis, Indiana",Indiana,White,30,01_BROOK_X,Brook,29,Rodeo Cowboy,"Dallas, Texas",Texas,2,6,No First Impression Rose Given,D14,0,0,NA,2003
+557,Bachelorette,1,Bachelorette-1,Trista,Trista Rehn,"Indianapolis, Indiana",Indiana,White,30,01_CHARLIE_M,Charlie Maher,28,Financial Analyst,"Hermosa Beach, California",California,6,6,No First Impression Rose Given,D14,0,0,NA,2003
+558,Bachelorette,1,Bachelorette-1,Trista,Trista Rehn,"Indianapolis, Indiana",Indiana,White,30,01_CHRIS_X,Chris,35,V.P. of Auto Parts Company,"Sugarloaf, Pennsylvania",Pennsylvania,1,6,No First Impression Rose Given,No Date,0,0,NA,2003
+559,Bachelorette,1,Bachelorette-1,Trista,Trista Rehn,"Indianapolis, Indiana",Indiana,White,30,01_DUANE_X,Duane,28,Flight Instructor,"Chisago City, Minnesota",Minnesota,1,6,No First Impression Rose Given,No Date,0,0,NA,2003
+560,Bachelorette,1,Bachelorette-1,Trista,Trista Rehn,"Indianapolis, Indiana",Indiana,White,30,01_ERIC_X,Eric,33,Commercial Pilot,"St. Louis, Missouri",Missouri,1,6,No First Impression Rose Given,No Date,0,0,NA,2003
+561,Bachelorette,1,Bachelorette-1,Trista,Trista Rehn,"Indianapolis, Indiana",Indiana,White,30,01_GREG_T,Greg T.,28,Importer,"Manhattan, New York",NewYork,4,6,No First Impression Rose Given,D14,0,0,NA,2003
+562,Bachelorette,1,Bachelorette-1,Trista,Trista Rehn,"Indianapolis, Indiana",Indiana,White,30,01_GREGG_H,Gregg H.,34,Marble Company Owner,"Freehold, New Jersey",NewJersey,1,6,No First Impression Rose Given,No Date,0,0,NA,2003
+563,Bachelorette,1,Bachelorette-1,Trista,Trista Rehn,"Indianapolis, Indiana",Indiana,White,30,01_JACK_X,Jack,27,Firefighter,"Pepper Pike, Ohio",Ohio,2,6,No First Impression Rose Given,D14,0,1,NA,2003
+564,Bachelorette,1,Bachelorette-1,Trista,Trista Rehn,"Indianapolis, Indiana",Indiana,White,30,01_JAMIE_B,Jamie Blyth,27,Professional Basketball Player,"Chicago, Illinois",Illinois,3,6,No First Impression Rose Given,D14,0,0,NA,2003
+565,Bachelorette,1,Bachelorette-1,Trista,Trista Rehn,"Indianapolis, Indiana",Indiana,White,30,01_JEFF_X,Jeff,25,Professional Football Player,"San Diego, California",California,2,6,No First Impression Rose Given,D14,0,0,NA,2003
+566,Bachelorette,1,Bachelorette-1,Trista,Trista Rehn,"Indianapolis, Indiana",Indiana,White,30,01_JOSH_X,Josh,31,Radio Advertising Executive,"Boca Raton, Florida",Florida,2,6,No First Impression Rose Given,D14,0,0,NA,2003
+567,Bachelorette,1,Bachelorette-1,Trista,Trista Rehn,"Indianapolis, Indiana",Indiana,White,30,01_MATT_X,Matt,42,Gym Owner,"Marina Del Rey, California",California,1,6,No First Impression Rose Given,No Date,0,0,NA,2003
+568,Bachelorette,1,Bachelorette-1,Trista,Trista Rehn,"Indianapolis, Indiana",Indiana,White,30,01_MIKE_X,Mike,24,Sales and Consulting,"Cincinnati, Ohio",Ohio,3,6,No First Impression Rose Given,D14,0,0,NA,2003
+569,Bachelorette,1,Bachelorette-1,Trista,Trista Rehn,"Indianapolis, Indiana",Indiana,White,30,01_PAUL_X,Paul,26,Telecommunications,"Honolulu, Hawaii",Hawaii,1,6,No First Impression Rose Given,No Date,0,0,NA,2003
+570,Bachelorette,1,Bachelorette-1,Trista,Trista Rehn,"Indianapolis, Indiana",Indiana,White,30,01_PETER_X,Peter,25,Construction Business Owner,"Long Island, New York",NewYork,1,6,No First Impression Rose Given,No Date,0,0,NA,2003
+571,Bachelorette,1,Bachelorette-1,Trista,Trista Rehn,"Indianapolis, Indiana",Indiana,White,30,01_ROB_X,Rob,29,Computer Programmer,"Dallas, Texas",Texas,3,6,No First Impression Rose Given,D14,0,0,NA,2003
+572,Bachelorette,1,Bachelorette-1,Trista,Trista Rehn,"Indianapolis, Indiana",Indiana,White,30,01_RUSS_X,Russ,30,Writer,"San Rafael, California",California,5,6,No First Impression Rose Given,D14,0,0,NA,2003
+573,Bachelorette,1,Bachelorette-1,Trista,Trista Rehn,"Indianapolis, Indiana",Indiana,White,30,01_RYAN_S,Ryan Sutter,29,Firefighter,"Vail, Colorado",Colorado,winner,6,No First Impression Rose Given,D14,1,0,NA,2003
+574,Bachelorette,1,Bachelorette-1,Trista,Trista Rehn,"Indianapolis, Indiana",Indiana,White,30,01_WAYNE_X,Wayne,37,Commercial Pilot,"Sacramento, California",California,1,6,No First Impression Rose Given,No Date,0,0,NA,2003
+575,Bachelorette,2,Bachelorette-2,Meredith,Meredith Phillips,"Beaverton, OR",Oregon,White,29,02_AARON_X,Aaron,32,Title and Escrow Sales,"Sacramento, California",California,1,8,No First Impression Rose Given,No Date,0,0,NA,2004
+576,Bachelorette,2,Bachelorette-2,Meredith,Meredith Phillips,"Beaverton, OR",Oregon,White,29,02_ANDY_C,Andy Chang,33,Dentist,"Dallas, Texas",Texas,1,8,No First Impression Rose Given,No Date,0,0,NA,2004
+577,Bachelorette,2,Bachelorette-2,Meredith,Meredith Phillips,"Beaverton, OR",Oregon,White,29,02_ANSELM_C,Anselm Clinard,32,Art Designer,"Venice, California",California,1,8,No First Impression Rose Given,No Date,0,0,NA,2004
+578,Bachelorette,2,Bachelorette-2,Meredith,Meredith Phillips,"Beaverton, OR",Oregon,White,29,02_BRAD_X,Brad,29,Pharmaceutical Sales Rep,"Grand Rapids, Michigan",Michigan,4,8,No First Impression Rose Given,D7,0,0,NA,2004
+579,Bachelorette,2,Bachelorette-2,Meredith,Meredith Phillips,"Beaverton, OR",Oregon,White,29,02_BRIAN_X,Brian,31,Attorney,"Quincy, Massachusetts",Massachusetts,1,8,No First Impression Rose Given,No Date,0,0,NA,2004
+580,Bachelorette,2,Bachelorette-2,Meredith,Meredith Phillips,"Beaverton, OR",Oregon,White,29,02_CHAD_X,Chad,31,Pharmaceutical Sales Rep,"Buffalo, New York",NewYork,6,8,No First Impression Rose Given,D7,0,0,NA,2004
+581,Bachelorette,2,Bachelorette-2,Meredith,Meredith Phillips,"Beaverton, OR",Oregon,White,29,02_CHRIS_X,Chris,31,Accountant,"Boston, Massachusetts",Massachusetts,1,8,No First Impression Rose Given,No Date,0,0,NA,2004
+582,Bachelorette,2,Bachelorette-2,Meredith,Meredith Phillips,"Beaverton, OR",Oregon,White,29,02_CORY_H,Cory Higgins,24,Small Business Owner,"Long Beach Island, New Jersey",NewJersey,1,8,No First Impression Rose Given,No Date,0,0,NA,2004
+583,Bachelorette,2,Bachelorette-2,Meredith,Meredith Phillips,"Beaverton, OR",Oregon,White,29,02_DAMON_X,Damon,28,Arena Football Player,"Cardiff, California",California,2,8,No First Impression Rose Given,D7,0,0,NA,2004
+584,Bachelorette,2,Bachelorette-2,Meredith,Meredith Phillips,"Beaverton, OR",Oregon,White,29,02_ELIOT_X,Eliot,25,Options Trader,"Mountain View, California",California,2,8,No First Impression Rose Given,D7,0,0,NA,2004
+585,Bachelorette,2,Bachelorette-2,Meredith,Meredith Phillips,"Beaverton, OR",Oregon,White,29,02_HAROLD_H,Harold Hersh,29,Professional Hockey Player,"Rock Island, Illinois",Illinois,2,8,No First Impression Rose Given,D7,0,0,NA,2004
+586,Bachelorette,2,Bachelorette-2,Meredith,Meredith Phillips,"Beaverton, OR",Oregon,White,29,02_IAN_M,Ian McKee,29,Equity Research Sales,"New York, New York",NewYork,winner,8,No First Impression Rose Given,D7,1,0,NA,2004
+587,Bachelorette,2,Bachelorette-2,Meredith,Meredith Phillips,"Beaverton, OR",Oregon,White,29,02_JEFF_O,Jeff O'Quinn,30,Pharmaceutical Sales Rep,"Macon, Georgia",Georgia,1,8,No First Impression Rose Given,No Date,0,0,NA,2004
+588,Bachelorette,2,Bachelorette-2,Meredith,Meredith Phillips,"Beaverton, OR",Oregon,White,29,02_JUSTIN_X,Justin,25,Professional Baseball Player,"Orlando, Florida",Florida,1,8,No First Impression Rose Given,No Date,0,0,NA,2004
+589,Bachelorette,2,Bachelorette-2,Meredith,Meredith Phillips,"Beaverton, OR",Oregon,White,29,02_KEITH_X,Keith,31,Financial Analyst,"Baltimore, Maryland",Maryland,1,8,No First Impression Rose Given,No Date,0,0,NA,2004
+590,Bachelorette,2,Bachelorette-2,Meredith,Meredith Phillips,"Beaverton, OR",Oregon,White,29,02_LANNY_X,Lanny,26,Stallion and Breeding Manager,"Aubrey, Texas",Texas,5,8,No First Impression Rose Given,D7,0,0,NA,2004
+591,Bachelorette,2,Bachelorette-2,Meredith,Meredith Phillips,"Beaverton, OR",Oregon,White,29,02_MARCUS_X,Marcus,26,Personal Trainer,"Los Angeles, California",California,2,8,No First Impression Rose Given,D7,0,1,NA,2004
+592,Bachelorette,2,Bachelorette-2,Meredith,Meredith Phillips,"Beaverton, OR",Oregon,White,29,02_MATTHEW_H,Matthew Hickl,28,Pharmaceutical Sales Rep,"Friendswood, Texas",Texas,8,8,No First Impression Rose Given,D7,0,0,NA,2004
+593,Bachelorette,2,Bachelorette-2,Meredith,Meredith Phillips,"Beaverton, OR",Oregon,White,29,02_RICK_X,Rick,29,Business Manager,"San Diego, California",California,3,8,No First Impression Rose Given,D1,0,0,NA,2004
+594,Bachelorette,2,Bachelorette-2,Meredith,Meredith Phillips,"Beaverton, OR",Oregon,White,29,02_ROBERT_X,Robert,32,Alliance Development,"El Segundo, California",California,2,8,No First Impression Rose Given,D7,0,0,NA,2004
+595,Bachelorette,2,Bachelorette-2,Meredith,Meredith Phillips,"Beaverton, OR",Oregon,White,29,02_RYAN_M,Ryan M.,30,Financial Advisor,"Santa Barbara, California",California,4,8,No First Impression Rose Given,D7,0,0,NA,2004
+596,Bachelorette,2,Bachelorette-2,Meredith,Meredith Phillips,"Beaverton, OR",Oregon,White,29,02_RYAN_R,Ryan R.,29,Sales/Marketing,"Wynola, California",California,3,8,No First Impression Rose Given,D7,0,0,NA,2004
+597,Bachelorette,2,Bachelorette-2,Meredith,Meredith Phillips,"Beaverton, OR",Oregon,White,29,02_SEAN_X,Sean,31,CPA,"Wall, New Jersey",NewJersey,4,8,No First Impression Rose Given,D7,0,0,NA,2004
+598,Bachelorette,2,Bachelorette-2,Meredith,Meredith Phillips,"Beaverton, OR",Oregon,White,29,02_TODD_X,Todd,36,Options Trader,"San Francisco, California",California,3,8,No First Impression Rose Given,D7,0,0,NA,2004
+599,Bachelorette,2,Bachelorette-2,Meredith,Meredith Phillips,"Beaverton, OR",Oregon,White,29,02_TREVER_X,Trever,35,Restaurateur,"North Wales, Pennsylvania",Pennsylvania,1,8,No First Impression Rose Given,No Date,0,0,NA,2004
+600,Bachelorette,3,Bachelorette-3,Jennifer,"Jennifer ""Jen"" Schefft","Mentor, OH",Ohio,White,28,03_A.W.,A.W.,27,"Newport Beach, California",Mortgage Consultant,NA,2,NA,No,D7,0,0,NA,2005
+601,Bachelorette,3,Bachelorette-3,Jennifer,"Jennifer ""Jen"" Schefft","Mentor, OH",Ohio,White,28,03_ANDREW,Andrew,37,"New York City, New York",Bartender,NA,1,NA,No,No Date,0,0,NA,2005
+602,Bachelorette,3,Bachelorette-3,Jennifer,"Jennifer ""Jen"" Schefft","Mentor, OH",Ohio,White,28,03_ANDY_L,Andy LeRoy,29,"Steamboat Springs, Colorado",Ski Coach,NA,1,NA,No,No Date,0,0,NA,2005
+603,Bachelorette,3,Bachelorette-3,Jennifer,"Jennifer ""Jen"" Schefft","Mentor, OH",Ohio,White,28,03_BEN_S,Ben,26,"Aspen, Colorado",Ski Instructor,NA,4,NA,No,D7,0,0,NA,2005
+604,Bachelorette,3,Bachelorette-3,Jennifer,"Jennifer ""Jen"" Schefft","Mentor, OH",Ohio,White,28,03_CHRIS_C,Chris C.,27,"Campton, Kentucky",Hairdresser,NA,1,NA,No,No Date,0,0,NA,2005
+605,Bachelorette,3,Bachelorette-3,Jennifer,"Jennifer ""Jen"" Schefft","Mentor, OH",Ohio,White,28,03_CHRIS_M,Chris M.,33,"Cleveland, Ohio",Sports Agent,NA,1,NA,No,No Date,0,0,NA,2005
+606,Bachelorette,3,Bachelorette-3,Jennifer,"Jennifer ""Jen"" Schefft","Mentor, OH",Ohio,White,28,03_COLLIN_E,Collin,27,"Austin, Texas",Sports Agent,NA,1,NA,No,No Date,0,0,NA,2005
+607,Bachelorette,3,Bachelorette-3,Jennifer,"Jennifer ""Jen"" Schefft","Mentor, OH",Ohio,White,28,03_DAVID_V,David,30,"Chicago, Illinois",Marketing Consultant,NA,1,NA,No,No Date,0,0,NA,2005
+608,Bachelorette,3,Bachelorette-3,Jennifer,"Jennifer ""Jen"" Schefft","Mentor, OH",Ohio,White,28,03_ERIC_H,Eric H.,35,"New York City, New York",Magazine Editor,NA,1,NA,No,No Date,0,0,NA,2005
+609,Bachelorette,3,Bachelorette-3,Jennifer,"Jennifer ""Jen"" Schefft","Mentor, OH",Ohio,White,28,03_ERIC_T,Eric T.,37,"San Diego, California",Firefighter,NA,1,NA,No,No Date,0,0,NA,2005
+610,Bachelorette,3,Bachelorette-3,Jennifer,"Jennifer ""Jen"" Schefft","Mentor, OH",Ohio,White,28,03_FABRICE_L,Fabrice Le Parc,25,"New York City, New York","Entrepreneur, Investor",Investor,4,NA,No,D7,0,0,NA,2005
+611,Bachelorette,3,Bachelorette-3,Jennifer,"Jennifer ""Jen"" Schefft","Mentor, OH",Ohio,White,28,03_JASON_I,Jason,29,"Fort Worth, Texas",Motivational Speaker,NA,2,NA,No,D7,0,0,NA,2005
+612,Bachelorette,3,Bachelorette-3,Jennifer,"Jennifer ""Jen"" Schefft","Mentor, OH",Ohio,White,28,03_JERRY_F,Jerry Ferris[6],29,"Los Angeles, California",Art Gallery Director,NA,Winner,NA,No,D7,1,0,NA,2005
+613,Bachelorette,3,Bachelorette-3,Jennifer,"Jennifer ""Jen"" Schefft","Mentor, OH",Ohio,White,28,03_JOHN PAUL_M,John Paul Merritt,25,"Oklahoma City, Oklahoma",Entrepreneur,NA,8,NA,No,D7,0,0,NA,2005
+614,Bachelorette,3,Bachelorette-3,Jennifer,"Jennifer ""Jen"" Schefft","Mentor, OH",Ohio,White,28,03_JOSH_C,Josh Cox,28,"Murrieta, California",Professional Marathoner,NA,3,NA,No,D7,0,0,NA,2005
+615,Bachelorette,3,Bachelorette-3,Jennifer,"Jennifer ""Jen"" Schefft","Mentor, OH",Ohio,White,28,03_KEITH,Keith,28,"Encinitas, California",Welder,NA,3,NA,Yes,D1,0,0,NA,2005
+616,Bachelorette,3,Bachelorette-3,Jennifer,"Jennifer ""Jen"" Schefft","Mentor, OH",Ohio,White,28,03_KEVIN,Kevin,26,"New York City, New York",Consultant,NA,1,NA,No,No Date,0,0,NA,2005
+617,Bachelorette,3,Bachelorette-3,Jennifer,"Jennifer ""Jen"" Schefft","Mentor, OH",Ohio,White,28,03_MARK,Mark,30,"Carlsbad, California",Commercial Finance,NA,2,NA,No,D7,0,0,NA,2005
+618,Bachelorette,3,Bachelorette-3,Jennifer,"Jennifer ""Jen"" Schefft","Mentor, OH",Ohio,White,28,03_MATT_L,Matt L.,33,"Manhattan Beach, California",Lawyer,NA,1,NA,No,No Date,0,0,NA,2005
+619,Bachelorette,3,Bachelorette-3,Jennifer,"Jennifer ""Jen"" Schefft","Mentor, OH",Ohio,White,28,03_MATT_M,Matt M.,32,"Staten Island, New York",Firefighter,NA,2,NA,No,D7,0,0,NA,2005
+620,Bachelorette,3,Bachelorette-3,Jennifer,"Jennifer ""Jen"" Schefft","Mentor, OH",Ohio,White,28,03_MICHAEL_F,Michael Foster,31,"Monroe, Michigan",Teacher,NA,2,NA,No,D7,0,0,NA,2005
+621,Bachelorette,3,Bachelorette-3,Jennifer,"Jennifer ""Jen"" Schefft","Mentor, OH",Ohio,White,28,03_RYAN_SH,Ryan Sh.,28,"Manhattan Beach, California",Teacher,NA,6,NA,No,D7,0,0,NA,2005
+622,Bachelorette,3,Bachelorette-3,Jennifer,"Jennifer ""Jen"" Schefft","Mentor, OH",Ohio,White,28,03_RYAN_SM,Ryan Sm.,34,"New York City, New York",Lawyer,NA,2,NA,No,D7,0,1,NA,2005
+623,Bachelorette,3,Bachelorette-3,Jennifer,"Jennifer ""Jen"" Schefft","Mentor, OH",Ohio,White,28,03_STU_L,Stu,27,"New York City, New York",Lawyer,NA,2,NA,No,D7,0,0,NA,2005
+624,Bachelorette,3,Bachelorette-3,Jennifer,"Jennifer ""Jen"" Schefft","Mentor, OH",Ohio,White,28,03_WENDELL_J,Wendell,32,"Chicago, Illinois",Entrepreneur,NA,5,NA,No,D7,0,0,NA,2005
+625,Bachelorette,4,Bachelorette-4,Deanna,DeAnna Pappas,"Marietta, GA",Georgia,White,26,04_BLAINE_T,Blaine Twilley,33,Debt manager,"Tulsa, Oklahoma",Oklahoma,5,NA,No,D7,0,0,NA,2008
+626,Bachelorette,4,Bachelorette-4,Deanna,DeAnna Pappas,"Marietta, GA",Georgia,White,26,04_BRIAN_T,Brian Westendorf,31,High school football coach,"Balch Springs, Texas",Texas,4,NA,No,D7,0,0,NA,2008
+627,Bachelorette,4,Bachelorette-4,Deanna,DeAnna Pappas,"Marietta, GA",Georgia,White,26,04_BRIAN_W,Brian Winchester,29,Computer network consultant,"New Castle, Indiana",Indiana,1,NA,No,No Date,0,0,NA,2008
+628,Bachelorette,4,Bachelorette-4,Deanna,DeAnna Pappas,"Marietta, GA",Georgia,White,26,04_CHANDLER_F,Chandler Fulton,25,Insurance rep.,"Virginia Beach, Virginia",Virginia,1,NA,No,No Date,0,0,NA,2008
+629,Bachelorette,4,Bachelorette-4,Deanna,DeAnna Pappas,"Marietta, GA",Georgia,White,26,04_CHRISTOPHER_B,"Christopher ""Chris"" Bradshaw",29,Medical sales rep.,"Fort Worth, Texas",Texas,2,NA,No,D7,0,0,NA,2008
+630,Bachelorette,4,Bachelorette-4,Deanna,DeAnna Pappas,"Marietta, GA",Georgia,White,26,04_DONATO_C,Donato Capodanno,26,Sales rep.,"Lexington, South Carolina",SouthCarolina,1,NA,No,No Date,0,0,NA,2008
+631,Bachelorette,4,Bachelorette-4,Deanna,DeAnna Pappas,"Marietta, GA",Georgia,White,26,04_ERIC_P,Eric Papachristos,32,Senior analyst,"Boston, Massachusetts",Massachusetts,2,NA,No,D7,0,0,NA,2008
+632,Bachelorette,4,Bachelorette-4,Deanna,DeAnna Pappas,"Marietta, GA",Georgia,White,26,04_FREDERICK_G,"Frederick ""Fred"" Greif",30,Lawyer,"Skokie, Illinois",Illinois,4,NA,No,D7,0,0,NA,2008
+633,Bachelorette,4,Bachelorette-4,Deanna,DeAnna Pappas,"Marietta, GA",Georgia,White,26,04_GRAHAM_B,Graham Bunn,29,Professional basketball player,"Raleigh, North Carolina",NorthCarolina,6,NA,No,D1,0,0,NA,2008
+634,Bachelorette,4,Bachelorette-4,Deanna,DeAnna Pappas,"Marietta, GA",Georgia,White,26,04_GREGORY_M,"Gregory ""Greg"" Matthew",28,Personal trainer,"Rockport, Massachusetts",Massachusetts,1,NA,No,No Date,0,0,NA,2008
+635,Bachelorette,4,Bachelorette-4,Deanna,DeAnna Pappas,"Marietta, GA",Georgia,White,26,04_JASON_M,Jason Mesnick,31,Account executive,"Cleveland, Ohio",Ohio,8,NA,No,D7,0,0,NA,2008
+636,Bachelorette,4,Bachelorette-4,Deanna,DeAnna Pappas,"Marietta, GA",Georgia,White,26,04_JEFFREY_H,Jeffrey Harris,27,Mathematics teacher,"Miami, Florida",Florida,1,NA,No,No Date,0,1,NA,2008
+637,Bachelorette,4,Bachelorette-4,Deanna,DeAnna Pappas,"Marietta, GA",Georgia,White,26,04_JEREMY_A,Jeremy Anderson,30,Real estate attorney,"Dallas, Texas",Texas,7,NA,Yes,D7,0,0,NA,2008
+638,Bachelorette,4,Bachelorette-4,Deanna,DeAnna Pappas,"Marietta, GA",Georgia,White,26,04_JESSE_C,Jesse Csincsak,26,Professional snowboarder,"Breckenridge, Colorado",Colorado,,NA,Yes,D7,1,0,NA,2008
+639,Bachelorette,4,Bachelorette-4,Deanna,DeAnna Pappas,"Marietta, GA",Georgia,White,26,04_JONATHAN_K,"Jonathan ""Jon"" Konkel",35,Resort manager,"Williston, North Dakota",NorthDakota,1,NA,No,No Date,0,0,NA,2008
+640,Bachelorette,4,Bachelorette-4,Deanna,DeAnna Pappas,"Marietta, GA",Georgia,White,26,04_LUKE_H,Luke Hamilton,27,Oyster farmer,"Faith, North Carolina",NorthCarolina,1,NA,No,No Date,0,0,NA,2008
+641,Bachelorette,4,Bachelorette-4,Deanna,DeAnna Pappas,"Marietta, GA",Georgia,White,26,04_PATRICK_C,Patrick Carlson,26,Financial analyst,"Glenwood, Illinois",Illinois,1,NA,No,No Date,0,0,NA,2008
+642,Bachelorette,4,Bachelorette-4,Deanna,DeAnna Pappas,"Marietta, GA",Georgia,White,26,04_PATRICK_D,Patrick Durrere,27,Internet marketing,"Elmhurst, Illinois",Illinois,1,NA,No,No Date,0,0,NA,2008
+643,Bachelorette,4,Bachelorette-4,Deanna,DeAnna Pappas,"Marietta, GA",Georgia,White,26,04_PAUL_B,Paul Brosseau,23,Sales manager,"Bonnyville, Alberta",Alberta,3,NA,No,D7,0,0,NA,2008
+644,Bachelorette,4,Bachelorette-4,Deanna,DeAnna Pappas,"Marietta, GA",Georgia,White,26,04_RICHARD_M,Richard Mathy,27,Science teacher,"Sauquoit, New York",NewYork,3,NA,Yes,D7,0,0,NA,2008
+645,Bachelorette,4,Bachelorette-4,Deanna,DeAnna Pappas,"Marietta, GA",Georgia,White,26,04_ROBERT_F,Robert Fair,28,Chef,"San Francisco, California",California,4,NA,No,D7,0,0,NA,2008
+646,Bachelorette,4,Bachelorette-4,Deanna,DeAnna Pappas,"Marietta, GA",Georgia,White,26,04_RONALD_M,Ronald Mayer,36,Barber shop owner,"Greeley, Colorado",Colorado,3,NA,No,D7,0,0,NA,2008
+647,Bachelorette,4,Bachelorette-4,Deanna,DeAnna Pappas,"Marietta, GA",Georgia,White,26,04_RYAN_H,Ryan Hoag,28,Professional football player,"Minneapolis, Minnesota",Minnesota,2,NA,No,D7,0,0,NA,2008
+648,Bachelorette,4,Bachelorette-4,Deanna,DeAnna Pappas,"Marietta, GA",Georgia,White,26,04_SEAN_R,Sean Ramey,33,Martial artist,"Louisville, Kentucky",Kentucky,5,NA,No,D7,0,0,NA,2008
+649,Bachelorette,4,Bachelorette-4,Deanna,DeAnna Pappas,"Marietta, GA",Georgia,White,26,04_SPERO_S,Spero Stamboulis,38,Actor,"Ellington, Connecticut",Connecticut,1,NA,No,No Date,0,0,NA,2008
+650,Bachelorette,5,Bachelorette-5,Jillian,Jillian Harris,"Vancouver, British Columbia, Canada",BritishColumbia,White,29,05_ADAM_D,Adam Duvendeck,27,Olympic Cyclist,"Santa Barbara, California",California,1,10,No,No Date,0,0,0,2009
+651,Bachelorette,5,Bachelorette-5,Jillian,Jillian Harris,"Vancouver, British Columbia, Canada",BritishColumbia,White,29,05_BRAD_S,Brad Seberhagen,27,Financial Advisor,"Park Ridge, Illinois",Illinois,3,10,No,D8,0,0,0,2009
+652,Bachelorette,5,Bachelorette-5,Jillian,Jillian Harris,"Vancouver, British Columbia, Canada",BritishColumbia,White,29,05_BRIAN_D,Brian Duke,32,IT Consultant,"Birmingham, Alabama",Alabama,2,10,No,D8,0,0,0,2009
+653,Bachelorette,5,Bachelorette-5,Jillian,Jillian Harris,"Vancouver, British Columbia, Canada",BritishColumbia,White,29,05_BRIAN_V,Bryan Vaderman,28,High School Coach,"Lawton, Oklahoma",Oklahoma,1,10,No,No Date,0,0,0,2009
+654,Bachelorette,5,Bachelorette-5,Jillian,Jillian Harris,"Vancouver, British Columbia, Canada",BritishColumbia,White,29,05_BRYCE_H,Bryce Harlow,31,Furniture Dealer,"Fort Lauderdale, Florida",Florida,1,10,No,No Date,0,0,0,2009
+655,Bachelorette,5,Bachelorette-5,Jillian,Jillian Harris,"Vancouver, British Columbia, Canada",BritishColumbia,White,29,05_CALEB_K,Caleb Kuhl,27,Photographer,"Kansas City, Missouri",Missouri,1,10,No,No Date,0,0,0,2009
+656,Bachelorette,5,Bachelorette-5,Jillian,Jillian Harris,"Vancouver, British Columbia, Canada",BritishColumbia,White,29,05_DAVID_G,David Good,27,Trucking Contractor,"West Alexandria, Ohio",Ohio,4,10,Yes,D7,0,0,0,2009
+657,Bachelorette,5,Bachelorette-5,Jillian,Jillian Harris,"Vancouver, British Columbia, Canada",BritishColumbia,White,29,05_ED_S,Ed Swiderski,29,Technology Consultant,"Monroe, Michigan",Michigan,winner,10,No,D8,1,0,0,2009
+658,Bachelorette,5,Bachelorette-5,Jillian,Jillian Harris,"Vancouver, British Columbia, Canada",BritishColumbia,White,29,05_GREG_B,Greg Bilbro,31,Entrepreneur,"Albuquerque, New Mexico",NewMexico,1,10,No,No Date,0,0,1,2009
+659,Bachelorette,5,Bachelorette-5,Jillian,Jillian Harris,"Vancouver, British Columbia, Canada",BritishColumbia,White,29,05_JAKE_P,Jake Pavelka,31,Commercial Pilot,"Denton, Texas",Texas,6,10,No,D1,0,0,0,2009
+660,Bachelorette,5,Bachelorette-5,Jillian,Jillian Harris,"Vancouver, British Columbia, Canada",BritishColumbia,White,29,05_JESSE_K,Jesse Kovacs,27,Wine Maker,"Carmel Valley, California",California,7,10,No,D7,0,0,0,2009
+661,Bachelorette,5,Bachelorette-5,Jillian,Jillian Harris,"Vancouver, British Columbia, Canada",BritishColumbia,White,29,05_JOHN_H,John Hardesty,27,Branding Consultant,"Boise, Idaho",Idaho,1,10,No,No Date,0,0,0,2009
+662,Bachelorette,5,Bachelorette-5,Jillian,Jillian Harris,"Vancouver, British Columbia, Canada",BritishColumbia,White,29,05_JOHN_P,John Presser,29,Marketing Specialist,"Fort Wayne, Indiana",Indiana,1,10,No,No Date,0,0,0,2009
+663,Bachelorette,5,Bachelorette-5,Jillian,Jillian Harris,"Vancouver, British Columbia, Canada",BritishColumbia,White,29,05_JOSH_Y,Josh Yocam,25,Lifeguard,"Tustin, California",California,1,10,No,No Date,0,0,0,2009
+664,Bachelorette,5,Bachelorette-5,Jillian,Jillian Harris,"Vancouver, British Columbia, Canada",BritishColumbia,White,29,05_JUAN_B,Juan Barbieri,35,General Contractor,"Buenos Aires, Argentina",Argentina,4,10,No,D7,0,0,0,2009
+665,Bachelorette,5,Bachelorette-5,Jillian,Jillian Harris,"Vancouver, British Columbia, Canada",BritishColumbia,White,29,05_JULIEN_H,Julien Hug,34,Restaurateur,"San Diego, California",California,2,10,No,No Date,0,0,0,2009
+666,Bachelorette,5,Bachelorette-5,Jillian,Jillian Harris,"Vancouver, British Columbia, Canada",BritishColumbia,White,29,05_KIPTYN_L,Kiptyn Locke,31,Business Developer,"Encinitas, California",California,10,10,No,D7,0,0,0,2009
+667,Bachelorette,5,Bachelorette-5,Jillian,Jillian Harris,"Vancouver, British Columbia, Canada",BritishColumbia,White,29,05_KYLE_Y,Kyle Yauch,26,Graphic Designer,"Austin, Texas",Texas,1,10,No,No Date,0,0,0,2009
+668,Bachelorette,5,Bachelorette-5,Jillian,Jillian Harris,"Vancouver, British Columbia, Canada",BritishColumbia,White,29,05_MARK_H,Mark Huebner,26,Pizza Entrepreneur,"Woodstock, Illinois",Illinois,5,10,No,D7,0,0,0,2009
+669,Bachelorette,5,Bachelorette-5,Jillian,Jillian Harris,"Vancouver, British Columbia, Canada",BritishColumbia,White,29,05_MATHUE_J,Mathue Johnson,25,Personal Trainer,"Andover, Kansas",Kansas,2,10,No,D8,0,0,0,2009
+670,Bachelorette,5,Bachelorette-5,Jillian,Jillian Harris,"Vancouver, British Columbia, Canada",BritishColumbia,White,29,05_MICHAEL_S,Michael Stagliano,25,Break Dance Instructor,"Tacoma, Washington",Washington,7,10,No,D8,0,0,0,2009
+671,Bachelorette,5,Bachelorette-5,Jillian,Jillian Harris,"Vancouver, British Columbia, Canada",BritishColumbia,White,29,05_MIKE_S,Mike Steinberg,28,Baseball Camp Owner,"New York, New York",NewYork,4,10,No,D7,0,0,0,2009
+672,Bachelorette,5,Bachelorette-5,Jillian,Jillian Harris,"Vancouver, British Columbia, Canada",BritishColumbia,White,29,05_REID_R,Reid Rosenthal,30,Realtor,"Upper Dublin, Pennsylvania",Pennsylvania,9,10,No,No Date,0,0,0,2009
+673,Bachelorette,5,Bachelorette-5,Jillian,Jillian Harris,"Vancouver, British Columbia, Canada",BritishColumbia,White,29,05_ROBBY_D,Robby Descant,25,Bartender,"Spring, Texas",Texas,6,10,No,No Date,0,0,0,2009
+674,Bachelorette,5,Bachelorette-5,Jillian,Jillian Harris,"Vancouver, British Columbia, Canada",BritishColumbia,White,29,05_SASHA_P,Sasha Petrovic,27,Oil & Gas Consultant,"Houston, Texas",Texas,3,10,No,D8,0,0,0,2009
+675,Bachelorette,5,Bachelorette-5,Jillian,Jillian Harris,"Vancouver, British Columbia, Canada",BritishColumbia,White,29,05_SIMON_A,Simon Ambrose,26,Soccer Coach,"Bradford, England",England,2,10,No,D7,0,0,0,2009
+676,Bachelorette,5,Bachelorette-5,Jillian,Jillian Harris,"Vancouver, British Columbia, Canada",BritishColumbia,White,29,05_STEPHEN_R,Stephen Reich,30,Lawyer,"Lexington, Massachusetts",Massachusetts,1,10,No,No Date,0,0,0,2009
+677,Bachelorette,5,Bachelorette-5,Jillian,Jillian Harris,"Vancouver, British Columbia, Canada",BritishColumbia,White,29,05_TANNER_F,Tanner Fanello,28,Sales Representative,"Derby, Kansas",Kansas,3,10,No,No Date,0,0,0,2009
+678,Bachelorette,5,Bachelorette-5,Jillian,Jillian Harris,"Vancouver, British Columbia, Canada",BritishColumbia,White,29,05_TANNER_P,Tanner Pope,30,Financial Analyst,"Brownfield, Texas",Texas,6,10,No,D8,0,0,0,2009
+679,Bachelorette,5,Bachelorette-5,Jillian,Jillian Harris,"Vancouver, British Columbia, Canada",BritishColumbia,White,29,05_WES_H,Wes Hayden,32,Musician,"Huntsville, Texas",Texas,8,10,No,D8,0,0,0,2009
+680,Bachelorette,6,Bachelorette-6,Ali,Ali Fedotowsky,Massachusetts,NA,White,25,06_CHRIS_H,Chris Hasek-Watt,27,Real Estate Developer,"Campbell River, British Columbia",BritishColumbia,2,10,No,D12,0,0,0,2010
+681,Bachelorette,6,Bachelorette-6,Ali,Ali Fedotowsky,Massachusetts,NA,White,25,06_CHRIS_L,Chris Lambton,33,Landscaper,"Dennis, Massachusetts",Massachusetts,10,10,No,No Date,0,0,0,2010
+682,Bachelorette,6,Bachelorette-6,Ali,Ali Fedotowsky,Massachusetts,NA,White,25,06_CHRIS_N,Chris Nordhorn,29,Entrepreneur,"Winter Park, Florida",Florida,5,10,No,D12,0,0,0,2010
+683,Bachelorette,6,Bachelorette-6,Ali,Ali Fedotowsky,Massachusetts,NA,White,25,06_CRAIG_M,Craig McKinnon,34,Dental Sales,"Sarnia, Ontario",Ontario,2,10,No,D12,0,0,0,2010
+684,Bachelorette,6,Bachelorette-6,Ali,Ali Fedotowsky,Massachusetts,NA,White,25,06_CRAIG_R,Craig Robinson,27,Lawyer,"Langhorne, Pennsylvania",Pennsylvania,6,10,No,D12,0,0,0,2010
+685,Bachelorette,6,Bachelorette-6,Ali,Ali Fedotowsky,Massachusetts,NA,White,25,06_DEREK_X,Derek,28,Sales Manager,"Warren, Michigan",Michigan,1,10,No,No Date,0,0,0,2010
+686,Bachelorette,6,Bachelorette-6,Ali,Ali Fedotowsky,Massachusetts,NA,White,25,06_DERRICK_S,Derrick Schuster,27,Construction Engineer,"Manhattan Beach, California",California,1,10,No,No Date,0,0,0,2010
+687,Bachelorette,6,Bachelorette-6,Ali,Ali Fedotowsky,Massachusetts,NA,White,25,06_FRANK_N,Frank Neuschaefer,31,Retail Manager,"Bartlett, Illinois",Illinois,9,10,No,D1,0,0,0,2010
+688,Bachelorette,6,Bachelorette-6,Ali,Ali Fedotowsky,Massachusetts,NA,White,25,06_HUNTER_W,Hunter Wagner,28,Internet Account Executive,"Fair Oaks Ranch, Texas",Texas,3,10,No,D12,0,0,0,2010
+689,Bachelorette,6,Bachelorette-6,Ali,Ali Fedotowsky,Massachusetts,NA,White,25,06_JASON_W,Jason Whitehead,27,Construction Consultant,"Johnson City, Tennessee",Tennessee,1,10,No,No Date,0,0,0,2010
+690,Bachelorette,6,Bachelorette-6,Ali,Ali Fedotowsky,Massachusetts,NA,White,25,06_JAY_R,Jay Resmini,29,Lawyer,"Barrington, Rhode Island",RhodeIsland,1,10,No,No Date,0,0,0,2010
+691,Bachelorette,6,Bachelorette-6,Ali,Ali Fedotowsky,Massachusetts,NA,White,25,06_JESSE_B,Jesse Beck,24,General Contractor,"Peculiar, Missouri",Missouri,4,10,No,D1,0,0,0,2010
+692,Bachelorette,6,Bachelorette-6,Ali,Ali Fedotowsky,Massachusetts,NA,White,25,06_JOHN_C,John Crivello,32,Hotel Business Development,"Mukilteo, Washington",Washington,3,10,No,No Date,0,0,0,2010
+693,Bachelorette,6,Bachelorette-6,Ali,Ali Fedotowsky,Massachusetts,NA,White,25,06_JOHN_N,John N.,27,Engineering Software Sales,"Wichita, Kansas",Kansas,1,10,No,No Date,0,0,0,2010
+694,Bachelorette,6,Bachelorette-6,Ali,Ali Fedotowsky,Massachusetts,NA,White,25,06_JONATHAN_N,Jonathan Novack,30,Weatherman,"Boston, Massachusetts",Massachusetts,4,10,No,D12,0,0,0,2010
+695,Bachelorette,6,Bachelorette-6,Ali,Ali Fedotowsky,Massachusetts,NA,White,25,06_JUSTIN_R,Justin Rego,26,Entertainment Wrestler,"Toronto, Ontario",Ontario,6,10,No,D12,0,0,0,2010
+696,Bachelorette,6,Bachelorette-6,Ali,Ali Fedotowsky,Massachusetts,NA,White,25,06_KASEY_K,Kasey Kahl,27,Advertising Account Executive,"Fresno, California",California,5,10,No,D12,0,0,0,2010
+697,Bachelorette,6,Bachelorette-6,Ali,Ali Fedotowsky,Massachusetts,NA,White,25,06_KIRK_D,Kirk DeWindt,27,Sales Consultant,"Green Bay, Wisconsin",Wisconsin,8,10,No,D12,0,0,0,2010
+698,Bachelorette,6,Bachelorette-6,Ali,Ali Fedotowsky,Massachusetts,NA,White,25,06_KYLE_H,Kyle Higgins,26,Outdoorsman,"Highlands Ranch, Colorado",Colorado,1,10,No,No Date,0,0,0,2010
+699,Bachelorette,6,Bachelorette-6,Ali,Ali Fedotowsky,Massachusetts,NA,White,25,06_PHIL_K,Phil Kayden,30,Investment Manager,"Elmore, Ohio",Ohio,1,10,No,No Date,0,0,0,2010
+700,Bachelorette,6,Bachelorette-6,Ali,Ali Fedotowsky,Massachusetts,NA,White,25,06_ROBERT_M,Roberto Martinez,26,Insurance Agent,"Tampa, Florida",Florida,winner,10,Yes,No Date,1,0,1,2010
+701,Bachelorette,6,Bachelorette-6,Ali,Ali Fedotowsky,Massachusetts,NA,White,25,06_STEVE_K,Steve Kocsis,28,Sales Representative,"Chesterland, Ohio",Ohio,3,10,No,D12,0,0,0,2010
+702,Bachelorette,6,Bachelorette-6,Ali,Ali Fedotowsky,Massachusetts,NA,White,25,06_TY_B,Ty Brown,31,Medical Sales,"Booneville, Mississippi",Mississippi,7,10,No,D12,0,0,0,2010
+703,Bachelorette,6,Bachelorette-6,Ali,Ali Fedotowsky,Massachusetts,NA,White,25,06_TYLER_M,Tyler Morrow,25,Catering Manager,"Helena, Montana",Montana,1,10,No,No Date,0,0,0,2010
+704,Bachelorette,6,Bachelorette-6,Ali,Ali Fedotowsky,Massachusetts,NA,White,25,06_TYLER_V,Tyler Vermette,25,Online Advertising,"Chelsea, Vermont",Vermont,2,10,No,D12,0,0,0,2010
+705,Bachelorette,7,Bachelorette-7,Ashley,Ashley Hebert,"Madawaska, ME",Maine,White,27,07_AMES_B,Ames Brown,31,Portfolio Manager,"Chadds Ford, Pennsylvania",Pennsylvania,8,10,No,No Date,0,0,0,2011
+706,Bachelorette,7,Bachelorette-7,Ashley,Ashley Hebert,"Madawaska, ME",Maine,White,27,07_ANTHONY_S,Anthony Santucci,28,Butcher,"Saddle River, New Jersey",NewJersey,1,10,No,No Date,0,0,0,2011
+707,Bachelorette,7,Bachelorette-7,Ashley,Ashley Hebert,"Madawaska, ME",Maine,White,27,07_BEN_C,Ben Castoriano,28,Lawyer,"Lake Charles, Louisiana",Louisiana,5,10,No,No Date,0,0,0,2011
+708,Bachelorette,7,Bachelorette-7,Ashley,Ashley Hebert,"Madawaska, ME",Maine,White,27,07_BEN_F,Ben Flajnik,28,Wine Maker,"Sonoma, California",California,10,10,No,D6,0,0,0,2011
+709,Bachelorette,7,Bachelorette-7,Ashley,Ashley Hebert,"Madawaska, ME",Maine,White,27,07_BENTLEY_W,Bentley Williams,28,Businessman,"Alpine, Utah",Utah,3,10,No,D6,0,0,0,2011
+710,Bachelorette,7,Bachelorette-7,Ashley,Ashley Hebert,"Madawaska, ME",Maine,White,27,07_BLAKE_J,Blake Julian,27,Dentist,"Steamboat Springs, Colorado",Colorado,6,10,No,D6,0,0,0,2011
+711,Bachelorette,7,Bachelorette-7,Ashley,Ashley Hebert,"Madawaska, ME",Maine,White,27,07_CHRIS_D,Chris Drish,25,Sports Marketing Coordinator,"Moline, Illinois",Illinois,3,10,No,No Date,0,0,0,2011
+712,Bachelorette,7,Bachelorette-7,Ashley,Ashley Hebert,"Madawaska, ME",Maine,White,27,07_CHRIS_M,Chris Malhomme,27,Construction Company CEO,"Gibbons, Alberta",Alberta,1,10,No,No Date,0,0,0,2011
+713,Bachelorette,7,Bachelorette-7,Ashley,Ashley Hebert,"Madawaska, ME",Maine,White,27,07_CONSTANTINE_T,Constantine Tzortzis,30,Restaurant Owner,"Cumming, Georgia",Georgia,9,10,No,No Date,0,0,0,2011
+714,Bachelorette,7,Bachelorette-7,Ashley,Ashley Hebert,"Madawaska, ME",Maine,White,27,07_FRANK_C,Frank Carpenter,29,College Admissions Director,"Anchorage, Alaska",Alaska,1,10,No,No Date,0,0,0,2011
+715,Bachelorette,7,Bachelorette-7,Ashley,Ashley Hebert,"Madawaska, ME",Maine,White,27,07_JEFF_M,Jeff Medolla,35,Entrepreneur,"St. Louis, Missouri",Missouri,3,10,No,No Date,0,0,0,2011
+716,Bachelorette,7,Bachelorette-7,Ashley,Ashley Hebert,"Madawaska, ME",Maine,White,27,07_JON_E,Jon Ellsworth,26,E-Commerce Executive,"Vancouver, Washington",Washington,1,10,No,No Date,0,0,0,2011
+717,Bachelorette,7,Bachelorette-7,Ashley,Ashley Hebert,"Madawaska, ME",Maine,White,27,07_JP_R,J.P. Rosenbaum,34,Construction Manager,"Roslyn, New York",NewYork,winner,10,No,No Date,1,0,0,2011
+718,Bachelorette,7,Bachelorette-7,Ashley,Ashley Hebert,"Madawaska, ME",Maine,White,27,07_LUCAS_D,Lucas Daniels,30,Oilfield Equipment Distributor,"Odessa, Texas",Texas,7,10,No,D6,0,0,0,2011
+719,Bachelorette,7,Bachelorette-7,Ashley,Ashley Hebert,"Madawaska, ME",Maine,White,27,07_MATT_C,Matt Colombo,28,Office Supply Salesman,"Bridgewater, Massachusetts",Massachusetts,2,10,No,No Date,0,0,0,2011
+720,Bachelorette,7,Bachelorette-7,Ashley,Ashley Hebert,"Madawaska, ME",Maine,White,27,07_MICHAEL_B,Michael Burns,29,Technology Salesman,"Providence, Rhode Island",RhodeIsland,1,10,No,No Date,0,0,0,2011
+721,Bachelorette,7,Bachelorette-7,Ashley,Ashley Hebert,"Madawaska, ME",Maine,White,27,07_NICK_P,Nick Peterson,26,Personal Trainer,"Odessa, Florida",Florida,5,10,No,D6,0,0,0,2011
+722,Bachelorette,7,Bachelorette-7,Ashley,Ashley Hebert,"Madawaska, ME",Maine,White,27,07_ROB_D,Rob Dahm,27,Technology Executive,"Monroe, Michigan",Michigan,1,10,No,No Date,0,0,0,2011
+723,Bachelorette,7,Bachelorette-7,Ashley,Ashley Hebert,"Madawaska, ME",Maine,White,27,07_RYAN_M,"Ryan ""Mickey"" McLean",31,Chef,"Rochester, New York",NewYork,6,10,No,D1,0,0,0,2011
+724,Bachelorette,7,Bachelorette-7,Ashley,Ashley Hebert,"Madawaska, ME",Maine,White,27,07_RYAN_M,Ryan Miller,27,Constructor Estimator,"Novi, Michigan",Michigan,2,10,No,No Date,0,0,0,2011
+725,Bachelorette,7,Bachelorette-7,Ashley,Ashley Hebert,"Madawaska, ME",Maine,White,27,07_RYAN_P,Ryan Park,31,Solar Energy Executive,"San Luis Obispo, California",California,7,10,Yes,No Date,0,0,0,2011
+726,Bachelorette,7,Bachelorette-7,Ashley,Ashley Hebert,"Madawaska, ME",Maine,White,27,07_STEPHEN_D,Stephen D'Amico,27,Hairstylist,"Portland, Connecticut",Connecticut,2,10,No,No Date,0,0,0,2011
+727,Bachelorette,7,Bachelorette-7,Ashley,Ashley Hebert,"Madawaska, ME",Maine,White,27,07_TIM_M,Tim McCormack,35,Liquor Distributor,"Massapequa, New York",NewYork,1,10,No,No Date,0,0,0,2011
+728,Bachelorette,7,Bachelorette-7,Ashley,Ashley Hebert,"Madawaska, ME",Maine,White,27,07_WEST_L,West Lee,30,Lawyer,"Walhalla, South Carolina",SouthCarolina,4,10,No,D6,0,0,0,2011
+729,Bachelorette,7,Bachelorette-7,Ashley,Ashley Hebert,"Madawaska, ME",Maine,White,27,07_WILLIAM_H,William Holman,30,Cellular Phone Salesman,"Fostoria, Ohio",Ohio,5,10,No,D1,0,0,0,2011
+730,Bachelorette,8,Bachelorette-8,Emily,Emily Maynard,"Charlotte, North Carolina",NorthCarolina,White,26,08_AARON_M,Aaron Martell,36,Biology Teacher,"North Sydney, Nova Scotia",NovaScotia,2,10,No,D13,0,0,0,2012
+731,Bachelorette,8,Bachelorette-8,Emily,Emily Maynard,"Charlotte, North Carolina",NorthCarolina,White,26,08_ALEJANDRO_V,Alejandro Velez,25,Mushroom Farmer,"San Francisco, California",California,5,10,No,D13,0,0,1,2012
+732,Bachelorette,8,Bachelorette-8,Emily,Emily Maynard,"Charlotte, North Carolina",NorthCarolina,White,26,08_ALESSANDRO_G,Alessandro Goulart,30,Grain Merchant,"Saint Paul, Minnesota",Minnesota,3,10,No,D13,0,0,0,2012
+733,Bachelorette,8,Bachelorette-8,Emily,Emily Maynard,"Charlotte, North Carolina",NorthCarolina,White,26,08_ARIE_L,"Arie Luyendyk, Jr.",30,Race Car Driver,"Scottsdale, Arizona",Arizona,10,10,No,No Date,0,0,0,2012
+734,Bachelorette,8,Bachelorette-8,Emily,Emily Maynard,"Charlotte, North Carolina",NorthCarolina,White,26,08_BRENT_R,Brent Richter,41,Technology Salesman,"Midland, Texas",Texas,1,10,No,No Date,0,0,0,2012
+735,Bachelorette,8,Bachelorette-8,Emily,Emily Maynard,"Charlotte, North Carolina",NorthCarolina,White,26,08_CHARLIE_G,Charlie Grogan,32,Recruiter,"Worcester, Massachusetts",Massachusetts,4,10,No,D13,0,0,0,2012
+736,Bachelorette,8,Bachelorette-8,Emily,Emily Maynard,"Charlotte, North Carolina",NorthCarolina,White,26,08_CHRIS_B,Chris Bukowski,25,Corporate Sales Director,"Chicago, Illinois",Illinois,8,10,No,D13,0,0,0,2012
+737,Bachelorette,8,Bachelorette-8,Emily,Emily Maynard,"Charlotte, North Carolina",NorthCarolina,White,26,08_DAVID_H,David Homyk,33,Singer/Songwriter,"Charlottesville, Virginia",Virginia,1,10,No,No Date,0,0,0,2012
+738,Bachelorette,8,Bachelorette-8,Emily,Emily Maynard,"Charlotte, North Carolina",NorthCarolina,White,26,08_DOUG_C,Doug Clerget,33,Single Dad/Real Estate Agent,"Tacoma, Washington",Washington,7,10,Yes,No Date,0,0,0,2012
+739,Bachelorette,8,Bachelorette-8,Emily,Emily Maynard,"Charlotte, North Carolina",NorthCarolina,White,26,08_JACKSON_L,Jackson Longnecker,29,Fitness Model,"Lockport, Illinois",Illinois,1,10,No,No Date,0,0,0,2012
+740,Bachelorette,8,Bachelorette-8,Emily,Emily Maynard,"Charlotte, North Carolina",NorthCarolina,White,26,08_JEANPAUL_L,Jean-Paul LaCount,35,Marine Biologist,"Moraga, California",California,1,10,No,No Date,0,0,0,2012
+741,Bachelorette,8,Bachelorette-8,Emily,Emily Maynard,"Charlotte, North Carolina",NorthCarolina,White,26,08_JEF_H,Jef Holm,27,Entrepreneur,"St. George, Utah",Utah,winner,10,No,D13,1,0,0,2012
+742,Bachelorette,8,Bachelorette-8,Emily,Emily Maynard,"Charlotte, North Carolina",NorthCarolina,White,26,08_JOE_G,Joe Gendreau,27,Field Energy Adviser,"Orlando, Florida",Florida,2,10,No,D1,0,0,0,2012
+743,Bachelorette,8,Bachelorette-8,Emily,Emily Maynard,"Charlotte, North Carolina",NorthCarolina,White,26,08_JOHN_W,John Wolfner,30,Data Destruction Specialist,"Creve Coeur, Missouri",Missouri,7,10,No,D13,0,0,0,2012
+744,Bachelorette,8,Bachelorette-8,Emily,Emily Maynard,"Charlotte, North Carolina",NorthCarolina,White,26,08_KALON_M,Kalon McMahon,27,Luxury Brand Consultant,"Houston, Texas",Texas,5,10,No,D13,0,0,0,2012
+745,Bachelorette,8,Bachelorette-8,Emily,Emily Maynard,"Charlotte, North Carolina",NorthCarolina,White,26,08_KYLE_D,Kyle Dillon,29,Financial Adviser,"Long Beach, California",California,2,10,No,D13,0,0,0,2012
+746,Bachelorette,8,Bachelorette-8,Emily,Emily Maynard,"Charlotte, North Carolina",NorthCarolina,White,26,08_LERONE_A,Lerone Anu,29,Real Estate Consultant,"Laguna Beach, California",California,1,10,No,No Date,0,1,1,2012
+747,Bachelorette,8,Bachelorette-8,Emily,Emily Maynard,"Charlotte, North Carolina",NorthCarolina,White,26,08_MICHAEL_N,Michael Nance,26,Rehab Counselor,"Austin, Texas",Texas,4,10,No,D13,0,0,0,2012
+748,Bachelorette,8,Bachelorette-8,Emily,Emily Maynard,"Charlotte, North Carolina",NorthCarolina,White,26,08_NATHAN_B,Nathan Baake,25,Accountant,"Casa Grande, Arizona",Arizona,4,10,No,D13,0,0,0,2012
+749,Bachelorette,8,Bachelorette-8,Emily,Emily Maynard,"Charlotte, North Carolina",NorthCarolina,White,26,08_RANDY_W,Randy Lee Woyak,30,Marketing Manager,"Oak Creek, Wisconsin",Wisconsin,1,10,No,No Date,0,0,0,2012
+750,Bachelorette,8,Bachelorette-8,Emily,Emily Maynard,"Charlotte, North Carolina",NorthCarolina,White,26,08_RYAN_B,Ryan Bowers,31,Pro Sports Trainer,"Evans, Georgia",Georgia,6,10,No,D1,0,0,0,2012
+751,Bachelorette,8,Bachelorette-8,Emily,Emily Maynard,"Charlotte, North Carolina",NorthCarolina,White,26,08_SEAN_L,Sean Lowe,28,Insurance Agent,"Irving, Texas",Texas,9,10,No,No Date,0,0,0,2012
+752,Bachelorette,8,Bachelorette-8,Emily,Emily Maynard,"Charlotte, North Carolina",NorthCarolina,White,26,08_STEVIE_A,Stevie Alberino,26,Party M.C.,"Monroe Township, New Jersey",NewJersey,3,10,No,D13,0,0,0,2012
+753,Bachelorette,8,Bachelorette-8,Emily,Emily Maynard,"Charlotte, North Carolina",NorthCarolina,White,26,08_TONY_P,Tony Pieper,31,Single Dad/Lumber Trader,"Beaverton, Oregon",Oregon,3,10,No,D13,0,0,0,2012
+754,Bachelorette,8,Bachelorette-8,Emily,Emily Maynard,"Charlotte, North Carolina",NorthCarolina,White,26,08_TRAVIS_P,Travis Pope,30,Advertising Sales Representative,"Madison, Mississippi",Mississippi,6,10,No,No Date,0,0,0,2012
+755,Bachelorette,9,Bachelorette-9,Desiree,Desiree Hartsock,Colorado,NA,White,27,09_BEN_S,Ben Scott,28,Entrepreneur,"Lubbock, Texas",Texas,5,10,Yes,D14,0,0,0,2013
+756,Bachelorette,9,Bachelorette-9,Desiree,Desiree Hartsock,Colorado,NA,White,27,09_BRAD_M,Brad McKinzie,27,Accountant/DJ,"Denver, Colorado",Colorado,4,10,No,No Date,0,0,0,2013
+757,Bachelorette,9,Bachelorette-9,Desiree,Desiree Hartsock,Colorado,NA,White,27,09_BRANDON_A,Brandon Andreen,26,Painting Contractor,"Blaine, Minnesota",Minnesota,3,10,No,D14,0,0,0,2013
+758,Bachelorette,9,Bachelorette-9,Desiree,Desiree Hartsock,Colorado,NA,White,27,09_BRIAN_J,Brian Jarosinski,29,Financial Advisor,"Olney, Maryland",Maryland,3,10,No,D14,0,0,0,2013
+759,Bachelorette,9,Bachelorette-9,Desiree,Desiree Hartsock,Colorado,NA,White,27,09_BROOKS_F,Brooks Forester,28,Sales & Marketing,"Blackfoot, Idaho",Idaho,9,10,No,D1,0,0,0,2013
+760,Bachelorette,9,Bachelorette-9,Desiree,Desiree Hartsock,Colorado,NA,White,27,09_BRYDEN_V,Bryden Vukasin,26,Iraq War Veteran,"Havre, Montana",Montana,5,10,Yes,D1,0,0,0,2013
+761,Bachelorette,9,Bachelorette-9,Desiree,Desiree Hartsock,Colorado,NA,White,27,09_CHRIS_S,Chris Siegfried,27,Mortgage Broker,"McMinnville, Oregon",Oregon,winner,10,No,No Date,1,0,0,2013
+762,Bachelorette,9,Bachelorette-9,Desiree,Desiree Hartsock,Colorado,NA,White,27,09_DAN_C,Dan Cox,30,Beverage Sales Director,"Dublin, California",California,3,10,No,D14,0,0,0,2013
+763,Bachelorette,9,Bachelorette-9,Desiree,Desiree Hartsock,Colorado,NA,White,27,09_DIOGO_C,Diogo Custodio,29,Ski Resort Manager,"Penha, Brazil",Brazil,1,10,No,No Date,0,0,1,2013
+764,Bachelorette,9,Bachelorette-9,Desiree,Desiree Hartsock,Colorado,NA,White,27,09_DREW_K,Drew Kenney,27,Digital Marketing Analyst,"Scottsdale, Arizona",Arizona,10,10,Yes,D14,0,0,0,2013
+765,Bachelorette,9,Bachelorette-9,Desiree,Desiree Hartsock,Colorado,NA,White,27,09_JAMES_C,James Case,27,Advertising Executive,"Marietta, Georgia",Georgia,6,10,No,D14,0,0,1,2013
+766,Bachelorette,9,Bachelorette-9,Desiree,Desiree Hartsock,Colorado,NA,White,27,09_JONATHAN_V,Jonathan Vollinger,26,Lawyer,"Hickory, North Carolina",NorthCarolina,1,10,No,No Date,0,0,0,2013
+767,Bachelorette,9,Bachelorette-9,Desiree,Desiree Hartsock,Colorado,NA,White,27,09_JUAN_G,Juan Pablo Galavis,31,Former Pro Soccer Player,"Barquisimeto, Venezuela",Venezuela,6,10,No,D14,0,0,1,2013
+768,Bachelorette,9,Bachelorette-9,Desiree,Desiree Hartsock,Colorado,NA,White,27,09_KASEY_S,Kasey Stewart,29,Advertising Executive,"Tulsa, Oklahoma",Oklahoma,6,10,No,D14,0,0,0,2013
+769,Bachelorette,9,Bachelorette-9,Desiree,Desiree Hartsock,Colorado,NA,White,27,09_LARRY_B,Larry Burchett,34,ER Doctor,"Overland Park, Kansas",Kansas,1,10,No,No Date,0,0,0,2013
+770,Bachelorette,9,Bachelorette-9,Desiree,Desiree Hartsock,Colorado,NA,White,27,09_MICAH_X,Micah,32,Law Student,"Detroit Lakes, Minnesota",Minnesota,1,10,No,No Date,0,0,0,2013
+771,Bachelorette,9,Bachelorette-9,Desiree,Desiree Hartsock,Colorado,NA,White,27,09_MICHAEL_G,Michael Garofola,33,Federal Prosecutor,"Lindenhurst, New York",NewYork,7,10,Yes,D14,0,0,0,2013
+772,Bachelorette,9,Bachelorette-9,Desiree,Desiree Hartsock,Colorado,NA,White,27,09_MIKE_X,Mike,28,Dental Student,"London, England",England,1,10,No,No Date,0,0,1,2013
+773,Bachelorette,9,Bachelorette-9,Desiree,Desiree Hartsock,Colorado,NA,White,27,09_MIKEY_T,Mikey Tenerelli,30,Plumbing Contractor,"Glen Ellyn, Illinois",Illinois,5,10,No,D14,0,0,1,2013
+774,Bachelorette,9,Bachelorette-9,Desiree,Desiree Hartsock,Colorado,NA,White,27,09_NICK_M,Nick Mucci,27,Investment Adviser,"Rochester, New York",NewYork,2,10,Yes,D14,0,0,0,2013
+775,Bachelorette,9,Bachelorette-9,Desiree,Desiree Hartsock,Colorado,NA,White,27,09_NICK_R,Nick Roy,26,Tailor/Magician,"Ridgefield, Connecticut",Connecticut,1,10,No,No Date,0,0,0,2013
+776,Bachelorette,9,Bachelorette-9,Desiree,Desiree Hartsock,Colorado,NA,White,27,09_ROBERT_G,Robert Graham,30,Advertising Entrepreneur,"Glendale, Arizona",Arizona,2,10,No,No Date,0,0,0,2013
+777,Bachelorette,9,Bachelorette-9,Desiree,Desiree Hartsock,Colorado,NA,White,27,09_WILL_R,Will Reese,28,Banker,"Federal Way, Washington",Washington,2,10,No,D14,0,1,1,2013
+778,Bachelorette,9,Bachelorette-9,Desiree,Desiree Hartsock,Colorado,NA,White,27,09_ZACK_K,Zack Kalter,28,Book Publisher,"Phillips Ranch, California",California,4,10,No,D14,0,0,0,2013
+779,Bachelorette,9,Bachelorette-9,Desiree,Desiree Hartsock,Colorado,NA,White,27,09_ZAK_W,Zak Waddell,31,Drilling Fluid Engineer,"Dallas, Texas",Texas,8,10,Yes,D14,0,0,0,2013
+780,Bachelorette,10,Bachelorette-10,Andi,Andi Dorfman,"Atlanta, Georgia",Georgia,White,26,10_ANDREW_P,Andrew Poole,30,Social Media Marketer,"Portola Valley, California",California,5,10,No,No Date,0,0,0,2014
+781,Bachelorette,10,Bachelorette-10,Andi,Andi Dorfman,"Atlanta, Georgia",Georgia,White,26,10_BRADLEY_W,Bradley Wisk,32,Opera Singer,"Grosse Pointe, Michigan",Michigan,3,10,No,D14,0,0,0,2014
+782,Bachelorette,10,Bachelorette-10,Andi,Andi Dorfman,"Atlanta, Georgia",Georgia,White,26,10_BRETT_M,Brett Melnick,29,Hairstylist,"Warminster, Pennsylvania",Pennsylvania,3,10,No,D14,0,0,0,2014
+783,Bachelorette,10,Bachelorette-10,Andi,Andi Dorfman,"Atlanta, Georgia",Georgia,White,26,10_BRIAN_O,Brian Osborne,27,Basketball Coach,"Camp Hill, Pennsylvania",Pennsylvania,7,10,No,D14,0,0,0,2014
+784,Bachelorette,10,Bachelorette-10,Andi,Andi Dorfman,"Atlanta, Georgia",Georgia,White,26,10_CARL_K,Carl King,30,Firefighter,"Hollywood, California",California,2,10,No,D14,0,0,0,2014
+785,Bachelorette,10,Bachelorette-10,Andi,Andi Dorfman,"Atlanta, Georgia",Georgia,White,26,10_CHRIS_S,Chris Soules,32,Farmer,"Lamont, Iowa",Iowa,9,10,No,D1,0,0,0,2014
+786,Bachelorette,10,Bachelorette-10,Andi,Andi Dorfman,"Atlanta, Georgia",Georgia,White,26,10_CODY_S,Cody Sattler,28,Personal Trainer,"Oakley, Kansas",Kansas,6,10,No,D14,0,0,0,2014
+787,Bachelorette,10,Bachelorette-10,Andi,Andi Dorfman,"Atlanta, Georgia",Georgia,White,26,10_CRAIG_M,Craig Muhlbauer,29,Tax Accountant,"Defiance, Iowa",Iowa,2,10,No,D14,0,0,0,2014
+788,Bachelorette,10,Bachelorette-10,Andi,Andi Dorfman,"Atlanta, Georgia",Georgia,White,26,10_DYLAN_P,Dylan Petitt,26,Accountant,"Longmeadow, Massachusetts",Massachusetts,7,10,No,D14,0,0,0,2014
+789,Bachelorette,10,Bachelorette-10,Andi,Andi Dorfman,"Atlanta, Georgia",Georgia,White,26,10_EMIL_S,Emil Schaffroth,33,Helicopter Pilot,"Portland, Oregon",Oregon,1,10,No,No Date,0,0,0,2014
+790,Bachelorette,10,Bachelorette-10,Andi,Andi Dorfman,"Atlanta, Georgia",Georgia,White,26,10_ERIC_H,Eric Hill,31,Explorer,"Citrus Heights, California",California,4,10,No,D1,0,0,0,2014
+791,Bachelorette,10,Bachelorette-10,Andi,Andi Dorfman,"Atlanta, Georgia",Georgia,White,26,10_JASON_L,Jason Leep,35,Urgent Care Physician,"Sturgeon Bay, Wisconsin",Wisconsin,1,10,No,No Date,0,0,0,2014
+792,Bachelorette,10,Bachelorette-10,Andi,Andi Dorfman,"Atlanta, Georgia",Georgia,White,26,10_JJ_O,J.J. O'Brien,30,Pantsapreneur,"Hanover, Massachusetts",Massachusetts,6,10,No,No Date,0,0,0,2014
+793,Bachelorette,10,Bachelorette-10,Andi,Andi Dorfman,"Atlanta, Georgia",Georgia,White,26,10_JOSH_B,Josh Bauer,29,Telecommunication Marketer,"Evergreen, Colorado",Colorado,1,10,No,No Date,0,0,0,2014
+794,Bachelorette,10,Bachelorette-10,Andi,Andi Dorfman,"Atlanta, Georgia",Georgia,White,26,10_JOSH_M,Josh Murray,29,Former Professional Baseball Player,"Athens, Georgia",Georgia,winner,10,No,D14,1,0,0,2014
+795,Bachelorette,10,Bachelorette-10,Andi,Andi Dorfman,"Atlanta, Georgia",Georgia,White,26,10_MARCUS_G,Marcus Grodd,25,Sports Medicine Manager,"Medicine Hat, Alberta",Alberta,8,10,No,D14,0,0,0,2014
+796,Bachelorette,10,Bachelorette-10,Andi,Andi Dorfman,"Atlanta, Georgia",Georgia,White,26,10_MARQUEL_M,Marquel Martin,26,Sponsorship Salesman,"Rialto, California",California,5,10,No,D14,0,1,1,2014
+797,Bachelorette,10,Bachelorette-10,Andi,Andi Dorfman,"Atlanta, Georgia",Georgia,White,26,10_MIKE_C,Mike Campanelli,29,Bartender,"Guilderland, New York",NewYork,1,10,No,No Date,0,0,0,2014
+798,Bachelorette,10,Bachelorette-10,Andi,Andi Dorfman,"Atlanta, Georgia",Georgia,White,26,10_NICK_S,Nick Sutter,27,Professional Golfer,"Barrington, Illinois",Illinois,2,10,No,D14,0,0,0,2014
+799,Bachelorette,10,Bachelorette-10,Andi,Andi Dorfman,"Atlanta, Georgia",Georgia,White,26,10_NICK_V,Nick Viall,33,Software Sales Executive,"Waukesha, Wisconsin",Wisconsin,10,10,Yes,No Date,0,0,0,2014
+800,Bachelorette,10,Bachelorette-10,Andi,Andi Dorfman,"Atlanta, Georgia",Georgia,White,26,10_PATRICK_J,Patrick Jagodzinski,29,Advertising Executive,"Clinton, New Jersey",NewJersey,5,10,No,D14,0,0,0,2014
+801,Bachelorette,10,Bachelorette-10,Andi,Andi Dorfman,"Atlanta, Georgia",Georgia,White,26,10_RON_W,Ron Worrell,28,Beverage Sales Manager,"Nahariya, Israel",Israel,3,10,No,D14,0,1,1,2014
+802,Bachelorette,10,Bachelorette-10,Andi,Andi Dorfman,"Atlanta, Georgia",Georgia,White,26,10_RUDIE_D,Rudie Dane,31,Attorney,"Yorba Linda, California",California,1,10,No,No Date,0,0,0,2014
+803,Bachelorette,10,Bachelorette-10,Andi,Andi Dorfman,"Atlanta, Georgia",Georgia,White,26,10_STEVEN_W,Steven Woolworth,30,Snowboard Product Developer,"Meadow Vista, California",California,1,10,No,No Date,0,0,0,2014
+804,Bachelorette,10,Bachelorette-10,Andi,Andi Dorfman,"Atlanta, Georgia",Georgia,White,26,10_TASOS_H,Tasos Hernandez,30,Wedding Event Coordinator,"Denver, Colorado",Colorado,4,10,No,D14,0,0,1,2014
+805,Bachelorette,11,Bachelorette-11,Kaitlyn,Kaitlyn Bristowe,"Vancouver, British Columbia, Canada",BritishColumbia,White,29,11_BEN_H,Ben Higgins,26,Software Salesman,"Warsaw, Indiana",Indiana,8,9,No,D8,0,0,0,2015
+806,Bachelorette,11,Bachelorette-11,Kaitlyn,Kaitlyn Bristowe,"Vancouver, British Columbia, Canada",BritishColumbia,White,29,11_BEN_Z,Ben Zorn,26,Fitness Coach,"Falls Church, Virginia",Virginia,6,9,No,D8,0,0,0,2015
+807,Bachelorette,11,Bachelorette-11,Kaitlyn,Kaitlyn Bristowe,"Vancouver, British Columbia, Canada",BritishColumbia,White,29,11_BRADLEY_C,Bradley Cox,25,International Auto Shipper,"Duluth, Georgia",Georgia,1,9,No,No Date,0,0,0,2015
+808,Bachelorette,11,Bachelorette-11,Kaitlyn,Kaitlyn Bristowe,"Vancouver, British Columbia, Canada",BritishColumbia,White,29,11_BRADY_T,Brady Toops,33,Singer/Songwriter,"Wauseon, Ohio",Ohio,1,9,No,No Date,0,0,0,2015
+809,Bachelorette,11,Bachelorette-11,Kaitlyn,Kaitlyn Bristowe,"Vancouver, British Columbia, Canada",BritishColumbia,White,29,11_CHRIS_S,Chris Strandburg,28,Dentist,"Granite Bay, California",California,7,9,No,D7,0,0,0,2015
+810,Bachelorette,11,Bachelorette-11,Kaitlyn,Kaitlyn Bristowe,"Vancouver, British Columbia, Canada",BritishColumbia,White,29,11_CLINT_A,Clint Arlis,27,Architectural Engineer,"Batavia, Illinois",Illinois,3,9,No,D1,0,0,0,2015
+811,Bachelorette,11,Bachelorette-11,Kaitlyn,Kaitlyn Bristowe,"Vancouver, British Columbia, Canada",BritishColumbia,White,29,11_COREY_S,Corey Stansell (NY),30,Investment Banker,"New York, New York",NewYork,4,9,No,D8,0,0,0,2015
+812,Bachelorette,11,Bachelorette-11,Kaitlyn,Kaitlyn Bristowe,"Vancouver, British Columbia, Canada",BritishColumbia,White,29,11_CORY_S,Cory Shivar (NC),35,Residential Developer,"Seven Springs, North Carolina",NorthCarolina,2,9,No,No Date,0,0,0,2015
+813,Bachelorette,11,Bachelorette-11,Kaitlyn,Kaitlyn Bristowe,"Vancouver, British Columbia, Canada",BritishColumbia,White,29,11_DANIEL_F,Daniel Finney,28,Fashion Designer,"Nashville, Tennessee",Tennessee,2,9,No,D8,0,0,0,2015
+814,Bachelorette,11,Bachelorette-11,Kaitlyn,Kaitlyn Bristowe,"Vancouver, British Columbia, Canada",BritishColumbia,White,29,11_DAVID_X,David,28,Real Estate Agent,"Orlando, Florida",Florida,1,9,No,No Date,0,0,0,2015
+815,Bachelorette,11,Bachelorette-11,Kaitlyn,Kaitlyn Bristowe,"Vancouver, British Columbia, Canada",BritishColumbia,White,29,11_IAN_T,Ian Thomson,28,Executive Recruiter,"Ramsey, New Jersey",NewJersey,5,9,No,D7,0,1,1,2015
+816,Bachelorette,11,Bachelorette-11,Kaitlyn,Kaitlyn Bristowe,"Vancouver, British Columbia, Canada",BritishColumbia,White,29,11_JARED_H,Jared Haibon,26,Restaurant Manager,"Warwick, Rhode Island",RhodeIsland,7,9,No,D8,0,0,0,2015
+817,Bachelorette,11,Bachelorette-11,Kaitlyn,Kaitlyn Bristowe,"Vancouver, British Columbia, Canada",BritishColumbia,White,29,11_JJ_L,J.J. Lane III,32,Former Investment Banker,"Dacono, Colorado",Colorado,6,9,No,D7,0,0,0,2015
+818,Bachelorette,11,Bachelorette-11,Kaitlyn,Kaitlyn Bristowe,"Vancouver, British Columbia, Canada",BritishColumbia,White,29,11_JOE_B,Joe Bailey,28,Insurance Agent,"Glasgow, Kentucky",Kentucky,7,9,No,D7,0,0,0,2015
+819,Bachelorette,11,Bachelorette-11,Kaitlyn,Kaitlyn Bristowe,"Vancouver, British Columbia, Canada",BritishColumbia,White,29,11_JONATHAN_H,Jonathan Holloway,33,Automotive Spokesman,"Sylvan Lake, Michigan",Michigan,4,9,No,D7,0,1,1,2015
+820,Bachelorette,11,Bachelorette-11,Kaitlyn,Kaitlyn Bristowe,"Vancouver, British Columbia, Canada",BritishColumbia,White,29,11_JOSH_S,Josh Seiter,27,Law Student/Exotic Dancer,"Chicago, Illinois",Illinois,1,9,No,No Date,0,0,0,2015
+821,Bachelorette,11,Bachelorette-11,Kaitlyn,Kaitlyn Bristowe,"Vancouver, British Columbia, Canada",BritishColumbia,White,29,11_JOSHUA_A,Joshua Albers,31,Industrial Welder,"Kuna, Idaho",Idaho,5,9,No,D7,0,0,0,2015
+822,Bachelorette,11,Bachelorette-11,Kaitlyn,Kaitlyn Bristowe,"Vancouver, British Columbia, Canada",BritishColumbia,White,29,11_JUSTIN_R,Justin Reich,28,Fitness Trainer,"Elgin, Illinois",Illinois,5,9,No,D8,0,0,0,2015
+823,Bachelorette,11,Bachelorette-11,Kaitlyn,Kaitlyn Bristowe,"Vancouver, British Columbia, Canada",BritishColumbia,White,29,11_KUPAH_J,Kupah James,32,Entrepreneur,"Boston, Massachusetts",Massachusetts,2,9,No,D8,0,1,1,2015
+824,Bachelorette,11,Bachelorette-11,Kaitlyn,Kaitlyn Bristowe,"Vancouver, British Columbia, Canada",BritishColumbia,White,29,11_NICK_V,Nick Viall,34,Software Sales Executive,"Waukesha, Wisconsin",Wisconsin,9,9,No,No Date,0,0,0,2015
+825,Bachelorette,11,Bachelorette-11,Kaitlyn,Kaitlyn Bristowe,"Vancouver, British Columbia, Canada",BritishColumbia,White,29,11_RYAN_B,Ryan Beckett,32,Realtor,"Wellington, Florida",Florida,4,9,No,No Date,0,0,0,2015
+826,Bachelorette,11,Bachelorette-11,Kaitlyn,Kaitlyn Bristowe,"Vancouver, British Columbia, Canada",BritishColumbia,White,29,11_RYAN_M,Ryan McDill,28,Junkyard Specialist,"Kansas City, Missouri",Missouri,1,9,No,No Date,0,0,0,2015
+827,Bachelorette,11,Bachelorette-11,Kaitlyn,Kaitlyn Bristowe,"Vancouver, British Columbia, Canada",BritishColumbia,White,29,11_SHAWN_B,Shawn Booth,28,Personal Trainer,"Windsor Locks, Connecticut",Connecticut,winner,9,Yes,No Date,1,0,0,2015
+828,Bachelorette,11,Bachelorette-11,Kaitlyn,Kaitlyn Bristowe,"Vancouver, British Columbia, Canada",BritishColumbia,White,29,11_SHAWN_E,Shawn Evans,31,Amateur Sex Coach,"London, Ontario",Ontario,1,9,No,No Date,0,0,0,2015
+829,Bachelorette,11,Bachelorette-11,Kaitlyn,Kaitlyn Bristowe,"Vancouver, British Columbia, Canada",BritishColumbia,White,29,11_TANNER_T,Tanner Tolbert,28,Auto Finance Manager,"Stilwell, Kansas",Kansas,6,9,No,D8,0,0,0,2015
+830,Bachelorette,11,Bachelorette-11,Kaitlyn,Kaitlyn Bristowe,"Vancouver, British Columbia, Canada",BritishColumbia,White,29,11_TONY_H,Tony Harris,35,Healer,"St. Louis, Missouri",Missouri,3,9,No,D7,0,0,0,2015
+831,Bachelorette,12,Bachelorette-12,JoJo,"Joelle ""JoJo"" Fletcher","Dallas, Texas",Texas,White,25,12_ALEX_W,Alex Woytkiw,25,U.S. Marine,"Oceanside, California",California,7,10,No,D6,0,0,0,2016
+832,Bachelorette,12,Bachelorette-12,JoJo,"Joelle ""JoJo"" Fletcher","Dallas, Texas",Texas,White,25,12_ALI_Z,Ali Zahiri,27,Bartender,"Santa Monica, California",California,3,10,No,D10,0,0,1,2016
+833,Bachelorette,12,Bachelorette-12,JoJo,"Joelle ""JoJo"" Fletcher","Dallas, Texas",Texas,White,25,12_BRANDON_H,Brandon Howell,28,Hipster,"Marysville, Washington",Washington,2,10,No,No Date,0,0,0,2016
+834,Bachelorette,12,Bachelorette-12,JoJo,"Joelle ""JoJo"" Fletcher","Dallas, Texas",Texas,White,25,12_CHAD_J,Chad Johnson,28,Luxury Real Estate Agent,"Jenks, Oklahoma",Oklahoma,4,10,No,D6,0,0,0,2016
+835,Bachelorette,12,Bachelorette-12,JoJo,"Joelle ""JoJo"" Fletcher","Dallas, Texas",Texas,White,25,12_CHASE_M,Chase McNary,27,Medical Sales Rep,"Castle Rock, Colorado",Colorado,9,10,No,No Date,0,0,0,2016
+836,Bachelorette,12,Bachelorette-12,JoJo,"Joelle ""JoJo"" Fletcher","Dallas, Texas",Texas,White,25,12_CHRISTIAN_B,Christian Bishop,26,Telecom Consultant,"Los Angeles, California",California,3,10,No,D6,0,1,1,2016
+837,Bachelorette,12,Bachelorette-12,JoJo,"Joelle ""JoJo"" Fletcher","Dallas, Texas",Texas,White,25,12_COLEY_K,Coley Knust,27,Real Estate Consultant,"Chicago, Illinois",Illinois,1,10,No,No Date,0,0,0,2016
+838,Bachelorette,12,Bachelorette-12,JoJo,"Joelle ""JoJo"" Fletcher","Dallas, Texas",Texas,White,25,12_DANIEL_M,Daniel Maguire,31,Male Model,"Lions Bay, British Columbia",BritishColumbia,4,10,No,D10,0,0,0,2016
+839,Bachelorette,12,Bachelorette-12,JoJo,"Joelle ""JoJo"" Fletcher","Dallas, Texas",Texas,White,25,12_DEREK_P,Derek Peth,29,Commercial Banker,"Waverly, Iowa",Iowa,6,10,No,D1,0,0,0,2016
+840,Bachelorette,12,Bachelorette-12,JoJo,"Joelle ""JoJo"" Fletcher","Dallas, Texas",Texas,White,25,12_EVAN_B,Evan Bass,33,Erectile Dysfunction Specialist,"Hartford, Connecticut",Connecticut,5,10,No,D10,0,0,0,2016
+841,Bachelorette,12,Bachelorette-12,JoJo,"Joelle ""JoJo"" Fletcher","Dallas, Texas",Texas,White,25,12_GRANT_K,Grant Kemp,27,Firefighter,"San Francisco, California",California,5,10,No,D10,0,1,1,2016
+842,Bachelorette,12,Bachelorette-12,JoJo,"Joelle ""JoJo"" Fletcher","Dallas, Texas",Texas,White,25,12_JAKE_P,Jake Patton,26,Landscape Architect,"Playa Vista, California",California,1,10,No,No Date,0,0,1,2016
+843,Bachelorette,12,Bachelorette-12,JoJo,"Joelle ""JoJo"" Fletcher","Dallas, Texas",Texas,White,25,12_JAMES_F,James Fuertes,34,Boxing Club Owner,"Franklin, Tennessee",Tennessee,4,10,No,D10,0,0,0,2016
+844,Bachelorette,12,Bachelorette-12,JoJo,"Joelle ""JoJo"" Fletcher","Dallas, Texas",Texas,White,25,12_JAMES_S,James Spadafore,27,Bachelor Superfan,"Phoenix, Arizona",Arizona,2,10,No,No Date,0,0,0,2016
+845,Bachelorette,12,Bachelorette-12,JoJo,"Joelle ""JoJo"" Fletcher","Dallas, Texas",Texas,White,25,12_JAMES_T,James Taylor,29,Singer-Songwriter,"Katy, Texas",Texas,7,10,No,D6,0,0,0,2016
+846,Bachelorette,12,Bachelorette-12,JoJo,"Joelle ""JoJo"" Fletcher","Dallas, Texas",Texas,White,25,12_JONATHAN_H,Jonathan Hamilton,29,Technical Sales Rep,"Vancouver, British Columbia",BritishColumbia,1,10,No,No Date,0,0,1,2016
+847,Bachelorette,12,Bachelorette-12,JoJo,"Joelle ""JoJo"" Fletcher","Dallas, Texas",Texas,White,25,12_JORDAN_R,Jordan Rodgers,27,Former Pro Quarterback,"Chico, California",California,1,10,Yes,D6,1,0,0,2016
+848,Bachelorette,12,Bachelorette-12,JoJo,"Joelle ""JoJo"" Fletcher","Dallas, Texas",Texas,White,25,12_LUKE_P,Luke Pell,31,War Veteran,"Burnet, Texas",Texas,8,10,No,D10,0,0,0,2016
+849,Bachelorette,12,Bachelorette-12,JoJo,"Joelle ""JoJo"" Fletcher","Dallas, Texas",Texas,White,25,12_NICK_B,Nick Benvenutti,33,Electrical Engineer,"Carthage, Illinois",Illinois,3,10,No,D6,0,0,0,2016
+850,Bachelorette,12,Bachelorette-12,JoJo,"Joelle ""JoJo"" Fletcher","Dallas, Texas",Texas,White,25,12_NICK_S,Nick Sharp,26,Software Salesman,"San Francisco, California",California,1,10,No,No Date,0,0,0,2016
+851,Bachelorette,12,Bachelorette-12,JoJo,"Joelle ""JoJo"" Fletcher","Dallas, Texas",Texas,White,25,12_PETER_M,Peter Medina,26,Staffing Agency Manager,"Rockdale, Illinois",Illinois,1,10,No,No Date,0,0,1,2016
+852,Bachelorette,12,Bachelorette-12,JoJo,"Joelle ""JoJo"" Fletcher","Dallas, Texas",Texas,White,25,12_ROBBY_H,Robby Hayes,27,Former Competitive Swimmer,"St. Augustine, Florida",Florida,10,10,No,D10,0,0,0,2016
+853,Bachelorette,12,Bachelorette-12,JoJo,"Joelle ""JoJo"" Fletcher","Dallas, Texas",Texas,White,25,12_SAL_D,Sal DeJulio,28,Operations Manager,"Hubbard, Ohio",Ohio,1,10,No,No Date,0,0,0,2016
+854,Bachelorette,12,Bachelorette-12,JoJo,"Joelle ""JoJo"" Fletcher","Dallas, Texas",Texas,White,25,12_VINCENT_V,"Vincent ""Vinny"" Ventiera",28,Barber,"Kings Park, New York",NewYork,5,10,No,D10,0,0,0,2016
+855,Bachelorette,12,Bachelorette-12,JoJo,"Joelle ""JoJo"" Fletcher","Dallas, Texas",Texas,White,25,12_WELLS_A,Wells Adams,31,Radio DJ,"Monterey, California",California,6,10,No,D10,0,0,0,2016
+856,Bachelorette,12,Bachelorette-12,JoJo,"Joelle ""JoJo"" Fletcher","Dallas, Texas",Texas,White,25,12_WILL_H,Will Haduch,26,Civil Engineer,"Jersey City, New Jersey",NewJersey,2,10,No,D10,0,0,0,2016
+857,Bachelorette,13,Bachelorette-13,Rachel,Rachel Lindsay,"Dallas, Texas",Texas,Black,31,13_ADAM_G,Adam Gottschalk[12],27,"Dallas, Texas",Real Estate Agent,NA,7,10,No,D10,0,0,0,2017
+858,Bachelorette,13,Bachelorette-13,Rachel,Rachel Lindsay,"Dallas, Texas",Texas,Black,31,13_ALEX_B,"Aleksandr ""Alex"" Bordyukov[15]",28,"Grosse Pointe, Michigan",Information Systems Supervisor,NA,6,10,No,D10,0,0,0,2017
+859,Bachelorette,13,Bachelorette-13,Rachel,Rachel Lindsay,"Dallas, Texas",Texas,Black,31,13_ANTHONY_B,Anthony Battle[8],26,"Chicago, Illinois",Education Software Manager,NA,5,10,No,No Date,0,1,1,2017
+860,Bachelorette,13,Bachelorette-13,Rachel,Rachel Lindsay,"Dallas, Texas",Texas,Black,31,13_BLAKE_E,Blake Elarbee[25],31,"Marina del Rey, California",Aspiring Drummer,NA,2,10,No,D8,0,0,0,2017
+861,Bachelorette,13,Bachelorette-13,Rachel,Rachel Lindsay,"Dallas, Texas",Texas,Black,31,13_BLAKE_K,Blake Killpack[34],29,"San Francisco, California",U.S. Marine Veteran,NA,1,10,No,No Date,0,0,1,2017
+862,Bachelorette,13,Bachelorette-13,Rachel,Rachel Lindsay,"Dallas, Texas",Texas,Black,31,13_BRADY_E,Brady Ervin[5],29,"Eden Prairie, Minnesota",Male Model,NA,3,10,No,No Date,0,0,0,2017
+863,Bachelorette,13,Bachelorette-13,Rachel,Rachel Lindsay,"Dallas, Texas",Texas,Black,31,13_BRYAN_A,Bryan Abasolo[5][6],37,"Miami, Florida",Chiropractor,NA,winner,10,Yes,No Date,1,0,0,2017
+864,Bachelorette,13,Bachelorette-13,Rachel,Rachel Lindsay,"Dallas, Texas",Texas,Black,31,13_BRYCE_P,Bryce Powers[23],30,"Orlando, Florida",Firefighter,NA,3,10,No,No Date,0,0,0,2017
+865,Bachelorette,13,Bachelorette-13,Rachel,Rachel Lindsay,"Dallas, Texas",Texas,Black,31,13_DEAN_U,Dean Unglert[6][10],26,"Aspen, Colorado",Startup Recruiter,NA,8,10,No,D8,0,0,0,2017
+866,Bachelorette,13,Bachelorette-13,Rachel,Rachel Lindsay,"Dallas, Texas",Texas,Black,31,13_DEMARIO_J,DeMario Jackson[6][28],30,"Century City, California",Executive Recruiter,NA,2,10,No,D10,0,1,1,2017
+867,Bachelorette,13,Bachelorette-13,Rachel,Rachel Lindsay,"Dallas, Texas",Texas,Black,31,13_DIGGY_M,"Kenneth ""Diggy"" Moreland[8]",31,"Chicago, Illinois",Senior Inventory Analyst,NA,3,10,No,D10,0,1,1,2017
+868,Bachelorette,13,Bachelorette-13,Rachel,Rachel Lindsay,"Dallas, Texas",Texas,Black,31,13_ERIC_B,Eric Bigger[9],29,"Baltimore, Maryland",Personal Trainer,NA,9,10,No,D10,0,1,1,2017
+869,Bachelorette,13,Bachelorette-13,Rachel,Rachel Lindsay,"Dallas, Texas",Texas,Black,31,13_FRED_J,"Frederick ""Fred"" Johnson[6][12]",27,"Dallas, Texas",Executive Assistant,NA,3,10,No,D8,0,1,1,2017
+870,Bachelorette,13,Bachelorette-13,Rachel,Rachel Lindsay,"Dallas, Texas",Texas,Black,31,13_GRANT_H,Grant Hubsher,29,"Palm Harbor, Florida",Emergency Medicine Physician,NA,1,10,No,No Date,0,0,0,2017
+871,Bachelorette,13,Bachelorette-13,Rachel,Rachel Lindsay,"Dallas, Texas",Texas,Black,31,13_IGGY_R,"Ignacio ""Iggy"" Rodriguez[8]",30,"Pasadena, California",Consulting Firm CEO,NA,4,10,No,D8,0,0,1,2017
+872,Bachelorette,13,Bachelorette-13,Rachel,Rachel Lindsay,"Dallas, Texas",Texas,Black,31,13_JACK_S,Jack Stone[12],32,"Dallas, Texas",Attorney,NA,4,10,No,D8,0,0,0,2017
+873,Bachelorette,13,Bachelorette-13,Rachel,Rachel Lindsay,"Dallas, Texas",Texas,Black,31,13_JAMEY_K,"James ""Jamey"" Kocan[26]",32,"Santa Monica, California",Sales Account Executive,NA,2,10,No,D10,0,0,0,2017
+874,Bachelorette,13,Bachelorette-13,Rachel,Rachel Lindsay,"Dallas, Texas",Texas,Black,31,13_JEDIDIAH_B,Jedidiah Ballard[30],35,"Augusta, Georgia",ER Physician,NA,1,10,No,No Date,0,0,0,2017
+875,Bachelorette,13,Bachelorette-13,Rachel,Rachel Lindsay,"Dallas, Texas",Texas,Black,31,13_JONATHAN_T,Jonathan Treece[17][21],31,"Paragould, Arkansas",Tickle Monster,NA,4,10,No,D8,0,0,0,2017
+876,Bachelorette,13,Bachelorette-13,Rachel,Rachel Lindsay,"Dallas, Texas",Texas,Black,31,13_JOSIAH_G,Josiah Graham[5][19],28,"Plantation, Florida",Prosecuting Attorney,NA,5,10,No,D10,0,1,1,2017
+877,Bachelorette,13,Bachelorette-13,Rachel,Rachel Lindsay,"Dallas, Texas",Texas,Black,31,13_KENNY_L,Kenny Layne[6][17][18],35,"Orlando, Florida",Professional Wrestler,NA,6,10,No,D8,0,1,1,2017
+878,Bachelorette,13,Bachelorette-13,Rachel,Rachel Lindsay,"Dallas, Texas",Texas,Black,31,13_KYLE_S,Kyle Sherwood[35],26,"Stratford, Connecticut",Marketing Consultant,NA,1,10,No,No Date,0,1,1,2017
+879,Bachelorette,13,Bachelorette-13,Rachel,Rachel Lindsay,"Dallas, Texas",Texas,Black,31,13_LEE_G,Lee Garrett[17],30,"Jacksonville, Florida",Singer/Songwriter,NA,5,10,No,D10,0,0,0,2017
+880,Bachelorette,13,Bachelorette-13,Rachel,Rachel Lindsay,"Dallas, Texas",Texas,Black,31,13_LUCAS_Y,Lucas Yancey[26][27],30,"Woodside, California",Whaboom,NA,2,10,No,D8,0,0,0,2017
+881,Bachelorette,13,Bachelorette-13,Rachel,Rachel Lindsay,"Dallas, Texas",Texas,Black,31,13_MATT_M,"Matthew ""Matt"" Munson[14]",32,"Meriden, Connecticut",Construction Sales Rep,NA,7,10,No,D10,0,0,0,2017
+882,Bachelorette,13,Bachelorette-13,Rachel,Rachel Lindsay,"Dallas, Texas",Texas,Black,31,13_MICHAEL_B,Michael Black[8][32],26,"Chicago, Illinois",Former Professional Basketball Player,NA,1,10,No,No Date,0,1,1,2017
+883,Bachelorette,13,Bachelorette-13,Rachel,Rachel Lindsay,"Dallas, Texas",Texas,Black,31,13_MILTON_L,Milton LaCroix[5],31,"North Bay Village, Florida",Hotel Recreation Supervisor,NA,1,10,No,No Date,0,1,1,2017
+884,Bachelorette,13,Bachelorette-13,Rachel,Rachel Lindsay,"Dallas, Texas",Texas,Black,31,13_MOHIT_S,Mohit Sehgal,26,"Pacifica, California",Product Manager,NA,1,10,No,No Date,0,0,1,2017
+885,Bachelorette,13,Bachelorette-13,Rachel,Rachel Lindsay,"Dallas, Texas",Texas,Black,31,13_PETER_K,Peter Kraus [8],31,"Madison, Wisconsin",Business Owner,NA,10,10,No,D1,0,0,0,2017
+886,Bachelorette,13,Bachelorette-13,Rachel,Rachel Lindsay,"Dallas, Texas",Texas,Black,31,13_ROB_H,"Robert ""Rob"" Howard[12][33]",30,"Calgary, Alberta",Law Student,NA,1,10,No,No Date,0,0,0,2017
+887,Bachelorette,13,Bachelorette-13,Rachel,Rachel Lindsay,"Dallas, Texas",Texas,Black,31,13_WILL_G,"William ""Will"" Gaskins[5]",28,"White Plains, New York",Sales Manager,NA,6,10,No,D10,0,1,1,2017
+888,Bachelorette,14,Bachelorette-14,Rebecca,Rebecca Kufrin,"Benson, Minnesota",Minnesota,White,28,14_GARRETT_Y,NA,29,NA,NA,NA,winner,10,Yes,NA,1,0,0,2018
+889,Bachelorette,14,Bachelorette-14,Rebecca,Rebecca Kufrin,"Benson, Minnesota",Minnesota,White,28,14_BLAKE_H,NA,28,NA,NA,NA,10,10,No,NA,0,0,0,2018
+890,Bachelorette,14,Bachelorette-14,Rebecca,Rebecca Kufrin,"Benson, Minnesota",Minnesota,White,28,14_JAY_T,NA,29,NA,NA,NA,9,10,No,NA,0,0,0,2018
+891,Bachelorette,14,Bachelorette-14,Rebecca,Rebecca Kufrin,"Benson, Minnesota",Minnesota,White,28,14_COLTON_U,NA,26,NA,NA,NA,8,10,No,NA,0,0,0,2018
+892,Bachelorette,14,Bachelorette-14,Rebecca,Rebecca Kufrin,"Benson, Minnesota",Minnesota,White,28,14_WILLS_R,NA,29,NA,NA,NA,7,10,No,NA,0,1,1,2018
+893,Bachelorette,14,Bachelorette-14,Rebecca,Rebecca Kufrin,"Benson, Minnesota",Minnesota,White,28,14_LEO_T,NA,31,NA,NA,NA,7,10,No,NA,0,0,0,2018
+894,Bachelorette,14,Bachelorette-14,Rebecca,Rebecca Kufrin,"Benson, Minnesota",Minnesota,White,28,14_LINCOLN_A,NA,26,NA,NA,NA,6,10,No,NA,0,1,1,2018
+895,Bachelorette,14,Bachelorette-14,Rebecca,Rebecca Kufrin,"Benson, Minnesota",Minnesota,White,28,14_CONNOR_O,NA,25,NA,NA,NA,6,10,No,NA,0,0,0,2018
+896,Bachelorette,14,Bachelorette-14,Rebecca,Rebecca Kufrin,"Benson, Minnesota",Minnesota,White,28,14_CHRIS_R,NA,30,NA,NA,NA,6,10,No,NA,0,0,0,2018
+897,Bachelorette,14,Bachelorette-14,Rebecca,Rebecca Kufrin,"Benson, Minnesota",Minnesota,White,28,14_DAVID_R,NA,25,NA,NA,NA,5,10,No,NA,0,0,0,2018
+898,Bachelorette,14,Bachelorette-14,Rebecca,Rebecca Kufrin,"Benson, Minnesota",Minnesota,White,28,14_JORDAN_K,NA,26,NA,NA,NA,5,10,No,NA,0,0,0,2018
+899,Bachelorette,14,Bachelorette-14,Rebecca,Rebecca Kufrin,"Benson, Minnesota",Minnesota,White,28,14_JOHN_G,NA,28,NA,NA,NA,5,10,No,NA,0,0,1,2018
+900,Bachelorette,14,Bachelorette-14,Rebecca,Rebecca Kufrin,"Benson, Minnesota",Minnesota,White,28,14_CHRIS_S,NA,31,NA,NA,NA,4,10,No,NA,0,1,1,2018
+901,Bachelorette,14,Bachelorette-14,Rebecca,Rebecca Kufrin,"Benson, Minnesota",Minnesota,White,28,14_NICK-S,NA,27,NA,NA,NA,4,10,No,NA,0,0,0,2018
+902,Bachelorette,14,Bachelorette-14,Rebecca,Rebecca Kufrin,"Benson, Minnesota",Minnesota,White,28,14_JEAN_B,NA,31,NA,NA,NA,4,10,No,NA,0,1,1,2018
+903,Bachelorette,14,Bachelorette-14,Rebecca,Rebecca Kufrin,"Benson, Minnesota",Minnesota,White,28,14_MIKE_R,NA,27,NA,NA,NA,3,10,No,NA,0,0,0,2018
+904,Bachelorette,14,Bachelorette-14,Rebecca,Rebecca Kufrin,"Benson, Minnesota",Minnesota,White,28,14_RYAN_P,NA,26,NA,NA,NA,3,10,No,NA,0,0,0,2018
+905,Bachelorette,14,Bachelorette-14,Rebecca,Rebecca Kufrin,"Benson, Minnesota",Minnesota,White,28,14_CLAY_H,NA,30,NA,NA,NA,3,10,No,NA,0,1,1,2018
+906,Bachelorette,14,Bachelorette-14,Rebecca,Rebecca Kufrin,"Benson, Minnesota",Minnesota,White,28,14_ALEX_T,NA,31,NA,NA,NA,2,10,No,NA,0,0,0,2018
+907,Bachelorette,14,Bachelorette-14,Rebecca,Rebecca Kufrin,"Benson, Minnesota",Minnesota,White,28,14_RICKEY_J,NA,27,NA,NA,NA,2,10,No,NA,0,1,1,2018
+908,Bachelorette,14,Bachelorette-14,Rebecca,Rebecca Kufrin,"Benson, Minnesota",Minnesota,White,28,14_TRENT_J,NA,28,NA,NA,NA,2,10,No,NA,0,0,0,2018
+909,Bachelorette,14,Bachelorette-14,Rebecca,Rebecca Kufrin,"Benson, Minnesota",Minnesota,White,28,14_CHASE_V,NA,27,NA,NA,NA,1,10,No,NA,0,0,0,2018
+910,Bachelorette,14,Bachelorette-14,Rebecca,Rebecca Kufrin,"Benson, Minnesota",Minnesota,White,28,14_CHRISTIAN_V,NA,28,NA,NA,NA,1,10,No,NA,0,0,1,2018
+911,Bachelorette,14,Bachelorette-14,Rebecca,Rebecca Kufrin,"Benson, Minnesota",Minnesota,White,28,14_DARIUS_F,NA,26,NA,NA,NA,1,10,No,NA,0,1,1,2018
+912,Bachelorette,14,Bachelorette-14,Rebecca,Rebecca Kufrin,"Benson, Minnesota",Minnesota,White,28,14_GRANT_V,NA,27,NA,NA,NA,1,10,No,NA,0,0,0,2018
+913,Bachelorette,14,Bachelorette-14,Rebecca,Rebecca Kufrin,"Benson, Minnesota",Minnesota,White,28,14_JOE_A,NA,31,NA,NA,NA,1,10,No,NA,0,0,0,2018
+914,Bachelorette,14,Bachelorette-14,Rebecca,Rebecca Kufrin,"Benson, Minnesota",Minnesota,White,28,14_KAMIL_N,NA,30,NA,NA,NA,1,10,No,NA,0,0,0,2018
+915,Bachelorette,14,Bachelorette-14,Rebecca,Rebecca Kufrin,"Benson, Minnesota",Minnesota,White,28,14_JAKE_E,NA,29,NA,NA,NA,1,10,No,NA,0,0,0,2018
+916,Bachelorette,15,Bachelorette-15,Hannah ,Hannah Brown,"Tuscaloosa, Alabama",Alabama,White,24,15_JED_W,NA,25,NA,NA,NA,winner,10,No,NA,1,0,0,2019
+917,Bachelorette,15,Bachelorette-15,Hannah ,Hannah Brown,"Tuscaloosa, Alabama",Alabama,White,24,15_TYLER_C,NA,26,NA,NA,NA,10,10,No,NA,0,0,0,2019
+918,Bachelorette,15,Bachelorette-15,Hannah ,Hannah Brown,"Tuscaloosa, Alabama",Alabama,White,24,15_PETER_W,NA,27,NA,NA,NA,9,10,No,NA,0,0,0,2019
+919,Bachelorette,15,Bachelorette-15,Hannah ,Hannah Brown,"Tuscaloosa, Alabama",Alabama,White,24,15_LUKE_P,NA,24,NA,NA,NA,9,10,Yes,NA,0,0,0,2019
+920,Bachelorette,15,Bachelorette-15,Hannah ,Hannah Brown,"Tuscaloosa, Alabama",Alabama,White,24,15_GARRETT_P,NA,27,NA,NA,NA,7,10,No,NA,0,0,0,2019
+921,Bachelorette,15,Bachelorette-15,Hannah ,Hannah Brown,"Tuscaloosa, Alabama",Alabama,White,24,15_MIKE_J,NA,31,NA,NA,NA,7,10,No,NA,0,1,1,2019
+922,Bachelorette,15,Bachelorette-15,Hannah ,Hannah Brown,"Tuscaloosa, Alabama",Alabama,White,24,15_CONNOR_S,NA,24,NA,NA,NA,7,10,No,NA,0,0,0,2019
+923,Bachelorette,15,Bachelorette-15,Hannah ,Hannah Brown,"Tuscaloosa, Alabama",Alabama,White,24,15_DUSTIN_K,NA,30,NA,NA,NA,6,10,No,NA,0,1,1,2019
+924,Bachelorette,15,Bachelorette-15,Hannah ,Hannah Brown,"Tuscaloosa, Alabama",Alabama,White,24,15_DYLAN_H,NA,24,NA,NA,NA,6,10,No,NA,0,0,0,2019
+925,Bachelorette,15,Bachelorette-15,Hannah ,Hannah Brown,"Tuscaloosa, Alabama",Alabama,White,24,15_DEVIN_H,NA,27,NA,NA,NA,5,10,No,NA,0,0,1,2019
+926,Bachelorette,15,Bachelorette-15,Hannah ,Hannah Brown,"Tuscaloosa, Alabama",Alabama,White,24,15_GRANT_E,NA,30,NA,NA,NA,5,10,No,NA,0,0,0,2019
+927,Bachelorette,15,Bachelorette-15,Hannah ,Hannah Brown,"Tuscaloosa, Alabama",Alabama,White,24,15_KEVIN_F,NA,27,NA,NA,NA,5,10,No,NA,0,0,0,2019
+928,Bachelorette,15,Bachelorette-15,Hannah ,Hannah Brown,"Tuscaloosa, Alabama",Alabama,White,24,15_JOHN_P_J,NA,24,NA,NA,NA,4,10,No,NA,0,0,0,2019
+929,Bachelorette,15,Bachelorette-15,Hannah ,Hannah Brown,"Tuscaloosa, Alabama",Alabama,White,24,15_MATTEO_V,NA,25,NA,NA,NA,4,10,No,NA,0,0,0,2019
+930,Bachelorette,15,Bachelorette-15,Hannah ,Hannah Brown,"Tuscaloosa, Alabama",Alabama,White,24,15_LUKE_S,NA,29,NA,NA,NA,4,10,No,NA,0,0,0,2019
+931,Bachelorette,15,Bachelorette-15,Hannah ,Hannah Brown,"Tuscaloosa, Alabama",Alabama,White,24,15_CAM_A,NA,30,NA,NA,NA,3,10,No,NA,0,0,0,2019
+932,Bachelorette,15,Bachelorette-15,Hannah ,Hannah Brown,"Tuscaloosa, Alabama",Alabama,White,24,15_JOEY_J,NA,33,NA,NA,NA,3,10,No,NA,0,0,0,2019
+933,Bachelorette,15,Bachelorette-15,Hannah ,Hannah Brown,"Tuscaloosa, Alabama",Alabama,White,24,15_JONATHAN_S,NA,27,NA,NA,NA,3,10,No,NA,0,1,1,2019
+934,Bachelorette,15,Bachelorette-15,Hannah ,Hannah Brown,"Tuscaloosa, Alabama",Alabama,White,24,15_TYLER_G,NA,28,NA,NA,NA,3,10,No,NA,0,0,0,2019
+935,Bachelorette,15,Bachelorette-15,Hannah ,Hannah Brown,"Tuscaloosa, Alabama",Alabama,White,24,15_CONNOR_J,NA,28,NA,NA,NA,2,10,No,NA,0,0,1,2019
+936,Bachelorette,15,Bachelorette-15,Hannah ,Hannah Brown,"Tuscaloosa, Alabama",Alabama,White,24,15_DARON_B,NA,25,NA,NA,NA,2,10,No,NA,0,1,1,2019
+937,Bachelorette,15,Bachelorette-15,Hannah ,Hannah Brown,"Tuscaloosa, Alabama",Alabama,White,24,15_MATTHEW_S,NA,23,NA,NA,NA,2,10,No,NA,0,0,0,2019
+938,Bachelorette,15,Bachelorette-15,Hannah ,Hannah Brown,"Tuscaloosa, Alabama",Alabama,White,24,15-BRIAN_B,NA,30,NA,NA,NA,1,10,No,NA,0,0,0,2019
+939,Bachelorette,15,Bachelorette-15,Hannah ,Hannah Brown,"Tuscaloosa, Alabama",Alabama,White,24,15_CHASEN_C,NA,27,NA,NA,NA,1,10,No,NA,0,0,0,2019
+940,Bachelorette,15,Bachelorette-15,Hannah ,Hannah Brown,"Tuscaloosa, Alabama",Alabama,White,24,15_HUNTER_J,NA,24,NA,NA,NA,1,10,No,NA,0,1,1,2019
+941,Bachelorette,15,Bachelorette-15,Hannah ,Hannah Brown,"Tuscaloosa, Alabama",Alabama,White,24,15_JOE_B,NA,30,NA,NA,NA,1,10,No,NA,0,0,0,2019
+942,Bachelorette,15,Bachelorette-15,Hannah ,Hannah Brown,"Tuscaloosa, Alabama",Alabama,White,24,15_MATT_D,NA,26,NA,NA,NA,1,10,No,NA,0,0,0,2019
+943,Bachelorette,15,Bachelorette-15,Hannah ,Hannah Brown,"Tuscaloosa, Alabama",Alabama,White,24,15_RYAN_S,NA,25,NA,NA,NA,1,10,No,NA,0,0,0,2019
+944,Bachelorette,15,Bachelorette-15,Hannah ,Hannah Brown,"Tuscaloosa, Alabama",Alabama,White,24,15_THOMAS_S,NA,27,NA,NA,NA,1,10,No,NA,0,1,1,2019
+945,Bachelorette,15,Bachelorette-15,Hannah ,Hannah Brown,"Tuscaloosa, Alabama",Alabama,White,24,15_SCOTT_A,NA,28,NA,NA,NA,1,10,No,NA,0,0,0,2019
